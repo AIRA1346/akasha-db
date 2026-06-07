@@ -13,7 +13,14 @@
       "가족",
       "액션"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/rikBBQHmCTOiZ7YoJVkYcKdXgNx.jpg"
+    "posterPath": "https://image.tmdb.org/t/p/w500/rikBBQHmCTOiZ7YoJVkYcKdXgNx.jpg",
+    "externalIds": {
+      "tmdb": "120089"
+    },
+    "extensions": {
+      "posterSource": "tmdb",
+      "posterVerified": true
+    }
   },
   "sub_animation_steinsgate_2011": {
     "workId": "sub_animation_steinsgate_2011",
@@ -29,7 +36,9 @@
       "서스펜스",
       "감동"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/jq7yvqKHgi7mBckRj3vipbQpRY4.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
   "sub_animation_samurai-champloo_2004": {
     "workId": "sub_animation_samurai-champloo_2004",
@@ -45,7 +54,9 @@
       "힙합",
       "로드무비"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/l0TrgNyJsY0yV1hTggk9eWDtV5I.png"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
   "sub_animation_slime-anime_2018": {
     "workId": "sub_animation_slime-anime_2018",
@@ -61,7 +72,9 @@
       "슬라임",
       "건국"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/8Dv8aU9aAPv16B7JVUtHr5QxpA4.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
   "sub_animation_shield-hero_2019": {
     "workId": "sub_animation_shield-hero_2019",
@@ -77,7 +90,9 @@
       "복수",
       "성장"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/vc3O5LIry6zxO4A7gelyjojjpGZ.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
   "sub_animation_silent-voice_2016": {
     "workId": "sub_animation_silent-voice_2016",
@@ -93,6 +108,158 @@
       "학원",
       "영화"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/jNJ9shLhjRavjrCGRnoTmYB18d2.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
+  },
+  "sub_animation_solo-leveling_2024": {
+    "workId": "sub_animation_solo-leveling_2024",
+    "title": "나 혼자만 레벨업",
+    "titles": {
+      "ko": "나 혼자만 레벨업",
+      "en": "Solo Leveling",
+      "ja": "俺だけレベルアップな件"
+    },
+    "category": "animation",
+    "domain": "subculture",
+    "creator": "추성원·장성락",
+    "releaseYear": 2024,
+    "description": "최약 헌터 성진우가 유일하게 레벨업할 수 있는 능력을 얻고 던전을 정복해 나가는 성장 서사.",
+    "tags": [
+      "액션",
+      "판타지",
+      "헌터",
+      "성장"
+    ],
+    "extensions": {
+      "posterSource": "tmdb",
+      "seasons": [
+        {
+          "label": "1기",
+          "year": 2024,
+          "episodes": 12
+        },
+        {
+          "label": "2기",
+          "year": 2025,
+          "episodes": 13
+        }
+      ],
+      "latestSeason": "2기",
+      "posterVerified": true
+    },
+    "posterPath": "https://image.tmdb.org/t/p/w500/5gR5oCQufzZ6tPcFoHb61ckiwiP.jpg",
+    "externalIds": {
+      "tmdb": "127532"
+    }
+  },
+  "sub_animation_sakamoto-days_2025": {
+    "workId": "sub_animation_sakamoto-days_2025",
+    "title": "사카모토 데이즈",
+    "titles": {
+      "ko": "사카모토 데이즈",
+      "en": "Sakamoto Days",
+      "ja": "SAKAMOTO DAYS"
+    },
+    "category": "animation",
+    "domain": "subculture",
+    "creator": "스즈키 유우토",
+    "releaseYear": 2025,
+    "description": "전설의 킬러 사카모토가 가게 주인으로 은퇴했지만 과거의 적들이 다시 나타나는 액션 코미디.",
+    "tags": [
+      "액션",
+      "코미디",
+      "킬러",
+      "가족"
+    ],
+    "extensions": {
+      "posterSource": "tmdb",
+      "seasons": [
+        {
+          "label": "1기",
+          "year": 2025,
+          "episodes": 11
+        }
+      ],
+      "latestSeason": "1기",
+      "posterVerified": true
+    },
+    "posterPath": "https://image.tmdb.org/t/p/w500/ftasBbzJ2OBCVAN5iMwf6JN8vCJ.jpg",
+    "externalIds": {
+      "tmdb": "207332"
+    }
+  },
+  "sub_animation_sword-art-online_2012": {
+    "workId": "sub_animation_sword-art-online_2012",
+    "title": "소드 아트 온라인",
+    "titles": {
+      "ko": "소드 아트 온라인",
+      "en": "Sword Art Online",
+      "ja": "ソードアート・オンライン",
+      "romaji": "SAO"
+    },
+    "category": "animation",
+    "domain": "subculture",
+    "creator": "가와하라 레키",
+    "releaseYear": 2012,
+    "description": "VRMMORPG에 갇힌 플레이어들의 생존과 키리토의 모험을 그린 게임 판타지 애니메이션.",
+    "tags": [
+      "게임",
+      "VR",
+      "판타지",
+      "액션"
+    ],
+    "extensions": {
+      "posterSource": "tmdb",
+      "seasons": [
+        {
+          "label": "아인크라드편",
+          "year": 2012,
+          "episodes": 25
+        },
+        {
+          "label": "フェアリィ・ダンス",
+          "year": 2014,
+          "episodes": 24
+        },
+        {
+          "label": "アリシゼーション",
+          "year": 2018,
+          "episodes": 47
+        }
+      ],
+      "latestSeason": "アリシゼーション"
+    }
+  },
+  "sub_animation_skip-and-loafer_2023": {
+    "workId": "sub_animation_skip-and-loafer_2023",
+    "title": "스킵과 로퍼",
+    "titles": {
+      "ko": "스킵과 로퍼",
+      "en": "Skip and Loafer",
+      "ja": "スキップとローファー"
+    },
+    "category": "animation",
+    "domain": "subculture",
+    "creator": "타케모토 아유",
+    "releaseYear": 2023,
+    "description": "시골에서 도쿄의 명문 학교로 진학한 미츠미의 성장과 친구들과의 청춘 이야기.",
+    "tags": [
+      "청춘",
+      "학원",
+      "일상",
+      "성장"
+    ],
+    "extensions": {
+      "posterSource": "tmdb",
+      "seasons": [
+        {
+          "label": "1기",
+          "year": 2023,
+          "episodes": 12
+        }
+      ],
+      "latestSeason": "1기"
+    }
   }
 }

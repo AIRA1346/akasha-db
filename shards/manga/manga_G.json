@@ -13,7 +13,9 @@
       "천사",
       "악마"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/dHSbtJAVjgcGfquEIvQaGR3DF36.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
   "sub_manga_gintama_2003": {
     "workId": "sub_manga_gintama_2003",
@@ -29,7 +31,9 @@
       "SF",
       "패러디"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/zzl1YOJ1vda6aEBIerqS53zNI4D.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
   "sub_manga_golden-kamuy_2014": {
     "workId": "sub_manga_golden-kamuy_2014",
@@ -45,7 +49,9 @@
       "서바이벌",
       "코미디"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/2tIxiE9KWJVHm5nByp8X9e43y3E.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
   "sub_manga_goodnight-punpun_2007": {
     "workId": "sub_manga_goodnight-punpun_2007",
@@ -61,5 +67,51 @@
       "드라마",
       "다크"
     ]
+  },
+  "sub_manga_gachiakuta_2022": {
+    "workId": "sub_manga_gachiakuta_2022",
+    "title": "가치아쿠타",
+    "titles": {
+      "ko": "가치아쿠타",
+      "en": "Gachiakuta",
+      "ja": "ガチアクタ"
+    },
+    "category": "manga",
+    "domain": "subculture",
+    "creator": "하시리 오케",
+    "releaseYear": 2022,
+    "description": "누명을 쓴 루도가 쓰레기장 세계에서 살아남으며 진실을 찾는 다크 액션.",
+    "tags": [
+      "액션",
+      "다크",
+      "생존",
+      "미스터리"
+    ],
+    "extensions": {
+      "posterSource": "tmdb"
+    }
+  },
+  "sub_manga_grand-blue_2014": {
+    "workId": "sub_manga_grand-blue_2014",
+    "title": "그랜드 블루",
+    "titles": {
+      "ko": "그랜드 블루",
+      "en": "Grand Blue Dreaming",
+      "ja": "ぐらんぶる"
+    },
+    "category": "manga",
+    "domain": "subculture",
+    "creator": "이노우에 켄지",
+    "releaseYear": 2014,
+    "description": "다이빙 동아리에 들어간 이오리의 대학 생활과 과장된 코미디 일상.",
+    "tags": [
+      "코미디",
+      "대학",
+      "다이빙",
+      "일상"
+    ],
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   }
 }

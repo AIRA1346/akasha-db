@@ -12,8 +12,7 @@
       "SF",
       "액션",
       "철학"
-    ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GpdPYMoLHkAo.jpg"
+    ]
   },
   "gen_movie_the-dark-knight_2008": {
     "workId": "gen_movie_the-dark-knight_2008",
@@ -28,8 +27,7 @@
       "범죄",
       "스릴러",
       "명작"
-    ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7RMax3aGw.jpg"
+    ]
   },
   "gen_movie_the-godfather_1972": {
     "workId": "gen_movie_the-godfather_1972",
@@ -44,8 +42,7 @@
       "가족",
       "명작",
       "드라마"
-    ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enSsRlawKtKzX5.jpg"
+    ]
   },
   "gen_movie_toy-story_1995": {
     "workId": "gen_movie_toy-story_1995",
@@ -60,8 +57,7 @@
       "가족",
       "우정",
       "픽사"
-    ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWRPhgcpGm2EZ.jpg"
+    ]
   },
   "gen_movie_the-batman_2022": {
     "workId": "gen_movie_the-batman_2022",
@@ -74,7 +70,6 @@
     "tags": [
       "영화",
       "대중문화"
-    ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg"
+    ]
   }
 }

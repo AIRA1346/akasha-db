@@ -13,6 +13,8 @@
       "성장",
       "힐링"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/yr1u5rhG3vbwNQuRC5f29Sa7Tnp.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   }
 }

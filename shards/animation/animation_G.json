@@ -13,6 +13,8 @@
       "SF",
       "패러디"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/zzl1YOJ1vda6aEBIerqS53zNI4D.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   }
 }

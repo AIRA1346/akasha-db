@@ -12,8 +12,7 @@
       "액션",
       "SF",
       "MCU"
-    ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK0e9uctCSoaH.jpg"
+    ]
   },
   "sub_movie_a-silent-voice_2016": {
     "workId": "sub_movie_a-silent-voice_2016",
@@ -26,7 +25,6 @@
     "tags": [
       "영화",
       "서브컬처"
-    ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/lS8ITBzoq6AN9inDDkqhbtjbk6L.jpg"
+    ]
   }
 }

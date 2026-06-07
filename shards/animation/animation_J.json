@@ -13,6 +13,13 @@
       "학원",
       "다크"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/pnn223i9v5kfYku6TbqdSbPePJp.jpg"
+    "posterPath": "https://image.tmdb.org/t/p/w500/pnn223i9v5kfYku6TbqdSbPePJp.jpg",
+    "externalIds": {
+      "tmdb": "95479"
+    },
+    "extensions": {
+      "posterSource": "tmdb",
+      "posterVerified": true
+    }
   }
 }

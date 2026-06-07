@@ -13,7 +13,14 @@
       "심리",
       "명작"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/n7VN6sOrTIeXW9VfzSaciLizIia.jpg"
+    "posterPath": "https://image.tmdb.org/t/p/w500/k3NQ7gVfnNPWbdCgg0x0Tv8CNNN.jpg",
+    "externalIds": {
+      "tmdb": "890"
+    },
+    "extensions": {
+      "posterSource": "tmdb",
+      "posterVerified": true
+    }
   },
   "sub_animation_noragami_2014": {
     "workId": "sub_animation_noragami_2014",
@@ -29,6 +36,8 @@
       "액션",
       "코미디"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/wQub2j7xzXxjtjELPqDYgDmru4r.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   }
 }

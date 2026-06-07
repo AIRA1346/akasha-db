@@ -29,7 +29,14 @@
       "성장",
       "액션"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/yY7eds57HBPNuD2SoPyHh9AmRcQ.jpg"
+    "posterPath": "https://image.tmdb.org/t/p/w500/wiXNjJaSSpnhPPa4N6APqpyVNBy.jpg",
+    "externalIds": {
+      "tmdb": "65930"
+    },
+    "extensions": {
+      "posterSource": "tmdb",
+      "posterVerified": true
+    }
   },
   "sub_manga_mob-psycho-100_2012": {
     "workId": "sub_manga_mob-psycho-100_2012",
@@ -45,7 +52,14 @@
       "성장",
       "액션"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/pyeW47f058e8uLAwsR0EU5ELnc.jpg"
+    "posterPath": "https://image.tmdb.org/t/p/w500/krBHtLnl6zLSmriYp8f7lpLlIoG.jpg",
+    "externalIds": {
+      "tmdb": "67075"
+    },
+    "extensions": {
+      "posterSource": "tmdb",
+      "posterVerified": true
+    }
   },
   "sub_manga_monster_1994": {
     "workId": "sub_manga_monster_1994",
@@ -61,7 +75,9 @@
       "범죄",
       "명작"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/tjFYkWMafg71sihs1aa7IDx17aS.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
   "sub_manga_march-comes-in-like-a-lion_2007": {
     "workId": "sub_manga_march-comes-in-like-a-lion_2007",
@@ -77,7 +93,14 @@
       "힐링",
       "드라마"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/aSlLkbHdaq7g7zmniazLfxHHB4D.jpg"
+    "extensions": {
+      "posterSource": "tmdb",
+      "posterVerified": true
+    },
+    "posterPath": "https://image.tmdb.org/t/p/w500/sokReNdjEwG2TkdUzJcVnD6sChT.jpg",
+    "externalIds": {
+      "tmdb": "65336"
+    }
   },
   "sub_manga_mushoku-tensei_2014": {
     "workId": "sub_manga_mushoku-tensei_2014",
@@ -93,7 +116,9 @@
       "성장",
       "마법"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/fAuObbfKA13hSlwZCW9CFRgz3eG.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
   "sub_manga_mushishi_1999": {
     "workId": "sub_manga_mushishi_1999",
@@ -109,6 +134,31 @@
       "단편",
       "힐링"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/n5XNKXnoXpoXyfiCtXHOf8q8PFM.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
+  },
+  "sub_manga_mashle_2018": {
+    "workId": "sub_manga_mashle_2018",
+    "title": "마슐",
+    "titles": {
+      "ko": "마슐",
+      "en": "Mashle: Magic and Muscles",
+      "ja": "マッシュル-MASHLE-"
+    },
+    "category": "manga",
+    "domain": "subculture",
+    "creator": "코마도 타케시",
+    "releaseYear": 2018,
+    "description": "마법 없는 마시 번이 근육으로 마법 학교를 휘저는 코미디 액션 만화.",
+    "tags": [
+      "코미디",
+      "액션",
+      "학원",
+      "판타지"
+    ],
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   }
 }

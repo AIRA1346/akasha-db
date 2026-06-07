@@ -13,7 +13,9 @@
       "철학",
       "액션"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/q4nqNwAhzVR7JuYctrWJvUWz3xR.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
   "sub_manga_promised-neverland_2016": {
     "workId": "sub_manga_promised-neverland_2016",
@@ -29,7 +31,9 @@
       "탈출",
       "다크"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
   "sub_manga_pluto_2003": {
     "workId": "sub_manga_pluto_2003",
@@ -44,7 +48,6 @@
       "로봇",
       "스릴러",
       "명작"
-    ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/yz9M8WV0TFevVMfT5i5VsoWBMPS.jpg"
+    ]
   }
 }

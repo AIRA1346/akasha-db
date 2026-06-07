@@ -13,6 +13,8 @@
       "SF",
       "코미디"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/7Zi8ckWAaaGrVHx64Mc83Ua2kn9.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   }
 }

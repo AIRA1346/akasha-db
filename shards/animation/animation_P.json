@@ -13,7 +13,9 @@
       "디스토피아",
       "수사"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/wcP6vBTCpFMg0EkllrrqPBAGugX.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
   "sub_animation_ping-pong_2014": {
     "workId": "sub_animation_ping-pong_2014",
@@ -29,6 +31,8 @@
       "청춘",
       "드라마"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/xEGAqvlfJwkkrp7KHR01P6nzWs4.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   }
 }

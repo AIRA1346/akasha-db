@@ -13,6 +13,8 @@
       "코미디",
       "명작"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/acDtMnoo5byrtFLEJa6J5BYfgBW.png"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   }
 }

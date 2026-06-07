@@ -12,8 +12,7 @@
       "귀신",
       "극장판",
       "서브컬처"
-    ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/qj429T8tzKBdQBK9NKM3FzCUWai.jpg"
+    ]
   },
   "gen_movie_dune-2021_2021": {
     "workId": "gen_movie_dune-2021_2021",
@@ -26,8 +25,7 @@
     "tags": [
       "영화",
       "대중문화"
-    ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYcmVgTgybBmrCA.jpg"
+    ]
   },
   "sub_movie_demon-slayer-mugen_2020": {
     "workId": "sub_movie_demon-slayer-mugen_2020",
@@ -40,7 +38,6 @@
     "tags": [
       "영화",
       "서브컬처"
-    ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/qj429T8tzKBdQBK9NKM3FzCUWai.jpg"
+    ]
   }
 }

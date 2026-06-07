@@ -13,7 +13,14 @@
       "가족",
       "명작"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/iR6T6QxSJpSQi1S4GGjGWLQkSva.jpg"
+    "posterPath": "https://image.tmdb.org/t/p/w500/iR6T6QxSJpSQi1S4GGjGWLQkSva.jpg",
+    "externalIds": {
+      "tmdb": "85937"
+    },
+    "extensions": {
+      "posterSource": "tmdb",
+      "posterVerified": true
+    }
   },
   "sub_animation_dandadan-anime_2024": {
     "workId": "sub_animation_dandadan-anime_2024",
@@ -29,6 +36,138 @@
       "액션",
       "청춘"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/ztR1BJbFx5XZgbtX2Ii2y7jjT9X.jpg"
+    "posterPath": "https://image.tmdb.org/t/p/w500/ztR1BJbFx5XZgbtX2Ii2y7jjT9X.jpg",
+    "externalIds": {
+      "tmdb": "240411"
+    },
+    "extensions": {
+      "posterSource": "tmdb",
+      "posterVerified": true
+    }
+  },
+  "sub_animation_dungeon-meshi_2024": {
+    "workId": "sub_animation_dungeon-meshi_2024",
+    "title": "던전밥",
+    "titles": {
+      "ko": "던전밥",
+      "en": "Delicious in Dungeon",
+      "ja": "ダンジョン飯",
+      "romaji": "Dungeon Meshi"
+    },
+    "category": "animation",
+    "domain": "subculture",
+    "creator": "오오토마 록코",
+    "releaseYear": 2024,
+    "description": "라이오스 일행이 던전 속에서 몬스터를 요리해 생존하는 판타지 모험 이야기. 식재료 탐구와 파티 케미가 돋보이는 작품이다.",
+    "tags": [
+      "판타지",
+      "코미디",
+      "모험",
+      "요리"
+    ],
+    "extensions": {
+      "posterSource": "tmdb",
+      "seasons": [
+        {
+          "label": "1기",
+          "year": 2024,
+          "episodes": 24
+        }
+      ],
+      "latestSeason": "1기",
+      "posterVerified": true
+    },
+    "posterPath": "https://image.tmdb.org/t/p/w500/caU0EaqHlpWVK7NYwjv4FBmzfcB.jpg",
+    "externalIds": {
+      "tmdb": "207784"
+    }
+  },
+  "sub_animation_danmachi_2015": {
+    "workId": "sub_animation_danmachi_2015",
+    "title": "던전에서 만남을 추구하면 안 되는걸까",
+    "titles": {
+      "ko": "던전에서 만남을 추구하면 안 되는걸까",
+      "en": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+      "ja": "ダンジョンに出会いを求めるのは間違っているだろうか",
+      "romaji": "DanMachi"
+    },
+    "category": "animation",
+    "domain": "subculture",
+    "creator": "오모리 후지",
+    "releaseYear": 2015,
+    "description": "오르에오가 라벤 패밀리아에 들어가 던전을 탐험하며 성장하는 판타지 모험 이야기.",
+    "tags": [
+      "판타지",
+      "던전",
+      "모험",
+      "하렘"
+    ],
+    "extensions": {
+      "posterSource": "tmdb",
+      "seasons": [
+        {
+          "label": "1기",
+          "year": 2015,
+          "episodes": 13
+        },
+        {
+          "label": "2기",
+          "year": 2019,
+          "episodes": 12
+        },
+        {
+          "label": "3기",
+          "year": 2020,
+          "episodes": 12
+        },
+        {
+          "label": "4기",
+          "year": 2022,
+          "episodes": 22
+        }
+      ],
+      "latestSeason": "4기"
+    }
+  },
+  "sub_animation_dr-stone_2019": {
+    "workId": "sub_animation_dr-stone_2019",
+    "title": "Dr.STONE",
+    "titles": {
+      "ko": "Dr.STONE",
+      "en": "Dr. Stone",
+      "ja": "Dr.STONE"
+    },
+    "category": "animation",
+    "domain": "subculture",
+    "creator": "이노우에 료",
+    "releaseYear": 2019,
+    "description": "석화에서 깨어난 센쿠가 과학의 힘으로 문명을 재건하는 포스트 아포칼립스 SF.",
+    "tags": [
+      "SF",
+      "과학",
+      "모험",
+      "코미디"
+    ],
+    "extensions": {
+      "posterSource": "tmdb",
+      "seasons": [
+        {
+          "label": "1기",
+          "year": 2019,
+          "episodes": 24
+        },
+        {
+          "label": "2기",
+          "year": 2021,
+          "episodes": 11
+        },
+        {
+          "label": "3기",
+          "year": 2023,
+          "episodes": 22
+        }
+      ],
+      "latestSeason": "3기"
+    }
   }
 }

@@ -28,6 +28,8 @@
       "복수",
       "성장"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/w4MXbXCRwjGDKRBgwSLmYtFrtJf.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   }
 }

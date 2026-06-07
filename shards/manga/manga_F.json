@@ -13,7 +13,14 @@
       "전쟁",
       "형제"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/1Qb3qTvq1Wo0HxzfwECTuj7Aa80.jpg"
+    "posterPath": "https://image.tmdb.org/t/p/w500/9SkrxQDka8JAk8tUwb396prUR9J.jpg",
+    "externalIds": {
+      "tmdb": "31911"
+    },
+    "extensions": {
+      "posterSource": "tmdb",
+      "posterVerified": true
+    }
   },
   "sub_manga_fire-force_2015": {
     "workId": "sub_manga_fire-force_2015",
@@ -29,7 +36,14 @@
       "소방",
       "다크"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/eDoqgCOBc7leLpxMKBfu5xP3WIf.jpg"
+    "posterPath": "https://image.tmdb.org/t/p/w500/eDoqgCOBc7leLpxMKBfu5xP3WIf.jpg",
+    "externalIds": {
+      "tmdb": "88046"
+    },
+    "extensions": {
+      "posterSource": "tmdb",
+      "posterVerified": true
+    }
   },
   "sub_manga_fairy-tail_2006": {
     "workId": "sub_manga_fairy-tail_2006",
@@ -45,7 +59,9 @@
       "길드",
       "우정"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/11m6y2KdpnTJux0pStJ94GU1zQ7.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
   "sub_manga_fruits-basket_1998": {
     "workId": "sub_manga_fruits-basket_1998",
@@ -61,6 +77,36 @@
       "힐링",
       "가족"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/39yPNaLGAKTVpeN3CadhhfPNO0P.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
+  },
+  "sub_manga_frieren_2020": {
+    "workId": "sub_manga_frieren_2020",
+    "title": "장송의 프리렌",
+    "titles": {
+      "ko": "장송의 프리렌",
+      "en": "Frieren: Beyond Journey's End",
+      "ja": "葬送のフリーレン"
+    },
+    "category": "manga",
+    "domain": "subculture",
+    "creator": "야마다 케노",
+    "releaseYear": 2020,
+    "description": "마왕 토베 후 엘프 마법사 프리렌이 시간과 이별을 배우며 여행하는 판타지.",
+    "tags": [
+      "판타지",
+      "모험",
+      "감동",
+      "엘프"
+    ],
+    "extensions": {
+      "posterSource": "tmdb",
+      "posterVerified": true
+    },
+    "posterPath": "https://image.tmdb.org/t/p/w500/mnj30hYDVAbL9BOA0f4HrKubAGF.jpg",
+    "externalIds": {
+      "tmdb": "209867"
+    }
   }
 }

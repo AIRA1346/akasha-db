@@ -13,7 +13,9 @@
       "청춘",
       "액션"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/1JvgwTD93Au1rBmmY7hOkf2Ts16.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
   "sub_manga_tokyo-ghoul_2011": {
     "workId": "sub_manga_tokyo-ghoul_2011",
@@ -29,7 +31,14 @@
       "호러",
       "서울"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/nkDtqLGG7J7L7YoodfCSWFUT65l.jpg"
+    "posterPath": "https://image.tmdb.org/t/p/w500/nkDtqLGG7J7L7YoodfCSWFUT65l.jpg",
+    "externalIds": {
+      "tmdb": "61374"
+    },
+    "extensions": {
+      "posterSource": "tmdb",
+      "posterVerified": true
+    }
   },
   "sub_manga_tensura_2014": {
     "workId": "sub_manga_tensura_2014",
@@ -45,7 +54,9 @@
       "슬라임",
       "건국"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/8Dv8aU9aAPv16B7JVUtHr5QxpA4.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
   "sub_manga_toradora_2007": {
     "workId": "sub_manga_toradora_2007",
@@ -61,22 +72,31 @@
       "학원",
       "청춘"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/nZ2qXHJTtNAfa6cP1iw9onhA2H7.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
-  "sub_manga_tower-of-god_2010": {
-    "workId": "sub_manga_tower-of-god_2010",
-    "title": "신의 탑",
+  "sub_manga_toilet-bound-hanako-kun_2014": {
+    "workId": "sub_manga_toilet-bound-hanako-kun_2014",
+    "title": "화장실의 하니코 군",
+    "titles": {
+      "ko": "화장실의 하니코 군",
+      "en": "Toilet-Bound Hanako-kun",
+      "ja": "地縛少年花子くん"
+    },
     "category": "manga",
     "domain": "subculture",
-    "creator": "SIU",
-    "releaseYear": 2010,
-    "description": "신의 탑을 오르며 비밀을 밝히는 소년의 판타지 모험.",
+    "creator": "아이다이로",
+    "releaseYear": 2014,
+    "description": "학교의 신 하니코 군과 야시로 네네가 초자연적 사건을 해결하는 오컬트 학원 이야기.",
     "tags": [
-      "판타지",
-      "모험",
-      "웹툰",
-      "미스터리"
+      "오컬트",
+      "학원",
+      "미스터리",
+      "코미디"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/ukAWA52fqoNSfkbbNB3XkKqsycz.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   }
 }

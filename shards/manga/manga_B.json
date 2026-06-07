@@ -13,7 +13,9 @@
       "중세",
       "잔혹"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/xmGQsMbXKELzD4n78uMoCsgJPi4.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
   "sub_manga_blue-lock_2018": {
     "workId": "sub_manga_blue-lock_2018",
@@ -29,7 +31,14 @@
       "서바이벌",
       "성장"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/tqiDHyR3YoIq4h0taoodUwp78Uz.jpg"
+    "posterPath": "https://image.tmdb.org/t/p/w500/tqiDHyR3YoIq4h0taoodUwp78Uz.jpg",
+    "externalIds": {
+      "tmdb": "131041"
+    },
+    "extensions": {
+      "posterSource": "tmdb",
+      "posterVerified": true
+    }
   },
   "sub_manga_bleach_2001": {
     "workId": "sub_manga_bleach_2001",
@@ -45,7 +54,9 @@
       "초자연",
       "우정"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/m6G92osOtSeXwjSfL21jZCUOvxe.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
   "sub_manga_black-clover_2015": {
     "workId": "sub_manga_black-clover_2015",
@@ -61,7 +72,9 @@
       "액션",
       "우정"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/j0YC5g3VEWLfMRgLCCvsNgwgqjb.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
   "sub_manga_bocchi-the-rock_2017": {
     "workId": "sub_manga_bocchi-the-rock_2017",
@@ -77,7 +90,9 @@
       "성장",
       "밴드"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/buXHm2shttFRQIBsCFlv5L2TmKh.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
   "sub_manga_blue-period_2017": {
     "workId": "sub_manga_blue-period_2017",
@@ -93,7 +108,9 @@
       "청춘",
       "드라마"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/a8VmgZ8M5geRnHQ28EzZ50hFQbV.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
   "sub_manga_beastars_2016": {
     "workId": "sub_manga_beastars_2016",
@@ -109,6 +126,36 @@
       "동물",
       "로맨스"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/lQwFRcAhtzFzMCx66RC0tRJxpZr.jpg"
+    "posterPath": "https://image.tmdb.org/t/p/w500/lQwFRcAhtzFzMCx66RC0tRJxpZr.jpg",
+    "externalIds": {
+      "tmdb": "90937"
+    },
+    "extensions": {
+      "posterSource": "tmdb",
+      "posterVerified": true
+    }
+  },
+  "sub_manga_barakamon_2009": {
+    "workId": "sub_manga_barakamon_2009",
+    "title": "바라카몬",
+    "titles": {
+      "ko": "바라카몬",
+      "en": "Barakamon",
+      "ja": "ばらかもん"
+    },
+    "category": "manga",
+    "domain": "subculture",
+    "creator": "스기모토 요시노",
+    "releaseYear": 2009,
+    "description": "서울 캘리그래퍼 세이가 고도 후쿠오에 내려가 마을 사람들과 성장하는 힐링 이야기.",
+    "tags": [
+      "힐링",
+      "일상",
+      "성장",
+      "캘리그래피"
+    ],
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   }
 }

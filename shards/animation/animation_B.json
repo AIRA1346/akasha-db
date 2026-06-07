@@ -13,7 +13,9 @@
       "밴드",
       "성장"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/buXHm2shttFRQIBsCFlv5L2TmKh.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
   "sub_animation_bungo-stray-dogs_2016": {
     "workId": "sub_animation_bungo-stray-dogs_2016",
@@ -29,7 +31,9 @@
       "문학",
       "미스터리"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/wiXNjJaSSpnhPPa4N6APqpyVNBy.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   },
   "sub_animation_black-lagoon_2006": {
     "workId": "sub_animation_black-lagoon_2006",
@@ -45,6 +49,80 @@
       "스릴러",
       "성인"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/k3NQ7gVfnNPWbdCgg0x0Tv8CNNN.jpg"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
+  },
+  "sub_animation_blue-lock_2022": {
+    "workId": "sub_animation_blue-lock_2022",
+    "title": "블루 록",
+    "titles": {
+      "ko": "블루 록",
+      "en": "Blue Lock",
+      "ja": "ブルーロック"
+    },
+    "category": "animation",
+    "domain": "subculture",
+    "creator": "칸에도 쇼운",
+    "releaseYear": 2022,
+    "description": "일본 대표 스트라이커를 뽑기 위한 극한의 공격수 육성 프로그램 블루 록의 이야기.",
+    "tags": [
+      "스포츠",
+      "축구",
+      "심리",
+      "경쟁"
+    ],
+    "extensions": {
+      "posterSource": "tmdb",
+      "seasons": [
+        {
+          "label": "1기",
+          "year": 2022,
+          "episodes": 24
+        },
+        {
+          "label": "2기",
+          "year": 2024,
+          "episodes": 14
+        }
+      ],
+      "latestSeason": "2기",
+      "posterVerified": true
+    },
+    "posterPath": "https://image.tmdb.org/t/p/w500/tqiDHyR3YoIq4h0taoodUwp78Uz.jpg",
+    "externalIds": {
+      "tmdb": "131041"
+    }
+  },
+  "sub_animation_black-clover_2017": {
+    "workId": "sub_animation_black-clover_2017",
+    "title": "블랙 클로버",
+    "titles": {
+      "ko": "블랙 클로버",
+      "en": "Black Clover",
+      "ja": "ブラッククローバー"
+    },
+    "category": "animation",
+    "domain": "subculture",
+    "creator": "타바타 유키",
+    "releaseYear": 2017,
+    "description": "마법이 없는 아스타가 마법 기사단에서 성장하며 마왕을 향해 나아가는 판타지 액션.",
+    "tags": [
+      "판타지",
+      "마법",
+      "액션",
+      "우정"
+    ],
+    "extensions": {
+      "posterSource": "tmdb",
+      "seasons": [
+        {
+          "label": "1기",
+          "year": 2017,
+          "episodes": 170
+        }
+      ],
+      "latestSeason": "1기"
+    }
   }
 }

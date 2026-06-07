@@ -13,6 +13,8 @@
       "일상",
       "배틀"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/xtK4PjzICkOEB2JSD9hgeQLow9K.png"
+    "extensions": {
+      "posterSource": "tmdb"
+    }
   }
 }

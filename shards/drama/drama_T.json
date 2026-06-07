@@ -12,8 +12,7 @@
       "액션",
       "넷플릭스",
       "모험"
-    ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/7vjaCdKQm3w8pvmr46Qauztx8B2.jpg"
+    ]
   },
   "gen_drama_true-detective_2014": {
     "workId": "gen_drama_true-detective_2014",
@@ -28,8 +27,7 @@
       "범죄",
       "스릴러",
       "앤솔러지"
-    ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/aowr4xpLP5sRCL50TkuADBWALG.jpg"
+    ]
   },
   "gen_drama_the-mandalorian_2019": {
     "workId": "gen_drama_the-mandalorian_2019",
@@ -44,8 +42,7 @@
       "스타워즈",
       "모험",
       "서사"
-    ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/eU1i6eHXlzMOlEqp2WwyuTvwdp.jpg"
+    ]
   },
   "gen_drama_the-office-us_2005": {
     "workId": "gen_drama_the-office-us_2005",
@@ -60,7 +57,6 @@
       "목업",
       "직장",
       "명작"
-    ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/qWnJzyZhyy74gjpSjIXWmuk0ifX.jpg"
+    ]
   }
 }
