@@ -1,0 +1,18 @@
+{
+  "wk_000000151": {
+    "workId": "wk_000000151",
+    "title": "바비",
+    "category": "movie",
+    "domain": "generalCulture",
+    "creator": "Greta Gerwig",
+    "releaseYear": 2023,
+    "description": "바비 영화.",
+    "tags": [
+      "영화",
+      "대중문화"
+    ],
+    "legacyIds": [
+      "gen_movie_barbie-2023_2023"
+    ]
+  }
+}

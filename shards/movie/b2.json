@@ -1,0 +1,18 @@
+{
+  "wk_000000159": {
+    "workId": "wk_000000159",
+    "title": "오펜하이머",
+    "category": "movie",
+    "domain": "generalCulture",
+    "creator": "Christopher Nolan",
+    "releaseYear": 2023,
+    "description": "오펜하이머 영화.",
+    "tags": [
+      "영화",
+      "대중문화"
+    ],
+    "legacyIds": [
+      "gen_movie_oppenheimer-2023_2023"
+    ]
+  }
+}

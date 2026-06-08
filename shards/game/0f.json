@@ -1,0 +1,20 @@
+{
+  "wk_000000134": {
+    "workId": "wk_000000134",
+    "title": "호그와트 레거시",
+    "category": "game",
+    "domain": "generalCulture",
+    "creator": "Avalanche",
+    "releaseYear": 2023,
+    "description": "호그와트 레거시 — Steam 인기 게임.",
+    "tags": [
+      "게임",
+      "Steam",
+      "대중문화"
+    ],
+    "posterPath": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990080/library_600x900.jpg",
+    "legacyIds": [
+      "gen_game_appid990080_2023"
+    ]
+  }
+}
