@@ -32,12 +32,21 @@
           "episodes": 26
         }
       ],
-      "latestSeason": "천년혈전"
+      "latestSeason": "천년혈전",
+      "coverageSprint04ExternalId": "tmdb"
     },
     "posterPath": "https://image.tmdb.org/t/p/w500/j6JR5ULnc5bNIRX1zUUzdGCzaET.jpg",
     "legacyIds": [
       "sub_animation_bleach_2004"
-    ]
+    ],
+    "externalIds": {
+      "tmdb": "30936"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true,
+      "hasPoster": true,
+      "hasDescription": true
+    }
   },
   "wk_000000212": {
     "workId": "wk_000000212",
@@ -53,11 +62,15 @@
       "다크",
       "명작"
     ],
-    "extensions": {
-      "posterSource": "tmdb"
-    },
     "legacyIds": [
       "sub_animation_made-in-abyss_2017"
-    ]
+    ],
+    "titles": {
+      "en": "Made IN Abyss",
+      "ko": "메이드 인 어비스"
+    },
+    "extensions": {
+      "coverageSprint03": "legacy_slug"
+    }
   }
 }

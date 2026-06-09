@@ -13,12 +13,16 @@
       "가족",
       "장수작"
     ],
-    "extensions": {
-      "posterSource": "tmdb"
-    },
     "legacyIds": [
       "gen_manga_crayon-shin-chan_1990"
-    ]
+    ],
+    "titles": {
+      "en": "Crayon Shin Chan",
+      "ko": "짱구는 못말려"
+    },
+    "extensions": {
+      "coverageSprint03": "legacy_slug"
+    }
   },
   "wk_000000347": {
     "workId": "wk_000000347",
@@ -40,11 +44,20 @@
       "철학"
     ],
     "extensions": {
-      "posterSource": "tmdb"
+      "posterSource": "tmdb",
+      "coverageSprint04ExternalId": "tmdb"
     },
     "posterPath": "https://image.tmdb.org/t/p/w500/dW3LxhCQyHWFzDB8vDtABvintET.jpg",
     "legacyIds": [
       "sub_manga_land-of-the-lustrous_2012"
-    ]
+    ],
+    "externalIds": {
+      "tmdb": "74204"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true,
+      "hasPoster": true,
+      "hasDescription": true
+    }
   }
 }

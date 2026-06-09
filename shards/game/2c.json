@@ -16,7 +16,23 @@
     "posterPath": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1593500/library_600x900.jpg",
     "legacyIds": [
       "gen_game_appid1593500_2022"
-    ]
+    ],
+    "titles": {
+      "en": "God of War",
+      "ko": "갓 오브 워"
+    },
+    "extensions": {
+      "coverageSprint03": "steam_fetch",
+      "coverageSprint04ExternalId": "steam"
+    },
+    "externalIds": {
+      "steam": "1593500"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true,
+      "hasPoster": true,
+      "hasDescription": true
+    }
   },
   "wk_000000089": {
     "workId": "wk_000000089",
@@ -34,6 +50,22 @@
     "posterPath": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268910/library_600x900.jpg",
     "legacyIds": [
       "gen_game_appid268910_2017"
-    ]
+    ],
+    "titles": {
+      "en": "Save 40% on Cuphead",
+      "ko": "컵헤드"
+    },
+    "extensions": {
+      "coverageSprint03": "steam_fetch",
+      "coverageSprint04ExternalId": "steam"
+    },
+    "externalIds": {
+      "steam": "268910"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true,
+      "hasPoster": true,
+      "hasDescription": true
+    }
   }
 }

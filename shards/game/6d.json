@@ -15,6 +15,22 @@
     "posterPath": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/814380/library_600x900.jpg",
     "legacyIds": [
       "gen_game_appid814380_2019"
-    ]
+    ],
+    "titles": {
+      "en": "Sekiro™: Shadows Die Twice - GOTY Edition",
+      "ko": "세키로"
+    },
+    "extensions": {
+      "coverageSprint03": "steam_fetch",
+      "coverageSprint04ExternalId": "steam"
+    },
+    "externalIds": {
+      "steam": "814380"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true,
+      "hasPoster": true,
+      "hasDescription": true
+    }
   }
 }

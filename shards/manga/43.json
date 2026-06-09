@@ -13,12 +13,16 @@
       "중세",
       "잔혹"
     ],
-    "extensions": {
-      "posterSource": "tmdb"
-    },
     "legacyIds": [
       "sub_manga_berserk_1989"
-    ]
+    ],
+    "titles": {
+      "en": "Berserk",
+      "ko": "베르세르크"
+    },
+    "extensions": {
+      "coverageSprint03": "legacy_slug"
+    }
   },
   "wk_000000362": {
     "workId": "wk_000000362",
@@ -40,11 +44,20 @@
       "초자연"
     ],
     "extensions": {
-      "posterSource": "tmdb"
+      "posterSource": "tmdb",
+      "coverageSprint04ExternalId": "tmdb"
     },
     "posterPath": "https://image.tmdb.org/t/p/w500/oOReMl2ELJky9IFJrIFQXEINXRJ.jpg",
     "legacyIds": [
       "sub_manga_noragami_2010"
-    ]
+    ],
+    "externalIds": {
+      "tmdb": "60865"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true,
+      "hasPoster": true,
+      "hasDescription": true
+    }
   }
 }

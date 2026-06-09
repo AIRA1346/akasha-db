@@ -13,10 +13,25 @@
       "청춘",
       "OST"
     ],
-    "posterPath": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3511790/library_600x900.jpg",
     "legacyIds": [
       "sub_game_blue-archive_2021"
-    ]
+    ],
+    "titles": {
+      "en": "Blue Archive",
+      "ko": "블루 아카이브"
+    },
+    "extensions": {
+      "coverageSprint03": "steam_fetch",
+      "coverageSprint04ExternalId": "steam",
+      "coverageSprint04R2Fix": "W3_blue_archive"
+    },
+    "externalIds": {
+      "steam": "3557620"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true,
+      "hasDescription": true
+    }
   },
   "wk_000000111": {
     "workId": "wk_000000111",
@@ -34,6 +49,22 @@
     "posterPath": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/489830/library_600x900.jpg",
     "legacyIds": [
       "gen_game_appid489830_2016"
-    ]
+    ],
+    "titles": {
+      "en": "The Elder Scrolls V: Skyrim Special Edition",
+      "ko": "스카이림 SE"
+    },
+    "extensions": {
+      "coverageSprint03": "steam_fetch",
+      "coverageSprint04ExternalId": "steam"
+    },
+    "externalIds": {
+      "steam": "489830"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true,
+      "hasPoster": true,
+      "hasDescription": true
+    }
   }
 }

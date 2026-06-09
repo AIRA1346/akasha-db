@@ -23,6 +23,36 @@
     },
     "legacyIds": [
       "sub_animation_rezero-anime_2016"
+    ],
+    "titles": {
+      "ko": "Re:제로",
+      "en": "Re:Zero − Starting Life in Another World",
+      "ja": "Re:ゼロから始める異世界生活",
+      "romaji": "Re:Zero"
+    },
+    "aliases": [
+      "Re Zero",
+      "Re:Zero",
+      "Re:ゼロ"
+    ]
+  },
+  "sub_animation_scale-exp-b7-probe-alpha_2026": {
+    "workId": "sub_animation_scale-exp-b7-probe-alpha_2026",
+    "title": "스케일 확장 프로브 알파",
+    "titles": {
+      "ko": "스케일 확장 프로브 알파",
+      "en": "Scale Expansion Probe Alpha",
+      "ja": "スケール拡張プローブアルファ"
+    },
+    "category": "animation",
+    "domain": "subculture",
+    "creator": "A5 Scale Expansion",
+    "releaseYear": 2026,
+    "description": "Scale A-type Expansion probe — Net-new cohort for gate validation.",
+    "tags": [
+      "scale",
+      "expansion",
+      "batch7"
     ]
   }
 }

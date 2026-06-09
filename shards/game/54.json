@@ -16,7 +16,14 @@
     "posterPath": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2n7y.jpg",
     "legacyIds": [
       "sub_game_genshin-impact_2020"
-    ]
+    ],
+    "titles": {
+      "en": "Genshin Impact",
+      "ko": "원신"
+    },
+    "extensions": {
+      "coverageSprint03": "legacy_slug"
+    }
   },
   "wk_000000143": {
     "workId": "wk_000000143",
@@ -35,6 +42,42 @@
     "posterPath": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/620/library_600x900.jpg",
     "legacyIds": [
       "gen_game_portal-2_2011"
+    ],
+    "titles": {
+      "en": "Portal 2",
+      "ko": "포털 2"
+    },
+    "extensions": {
+      "coverageSprint03": "steam_fetch",
+      "coverageSprint04ExternalId": "steam",
+      "coverageSprint04R2Fix": "W1_review"
+    },
+    "externalIds": {
+      "steam": "620"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true,
+      "hasPoster": true,
+      "hasDescription": true
+    }
+  },
+  "sub_game_scale-exp-b7-probe-gamma_2026": {
+    "workId": "sub_game_scale-exp-b7-probe-gamma_2026",
+    "title": "스케일 확장 프로브 감마",
+    "titles": {
+      "ko": "스케일 확장 프로브 감마",
+      "en": "Scale Expansion Probe Gamma",
+      "ja": "スケール拡張プローブガンマ"
+    },
+    "category": "game",
+    "domain": "subculture",
+    "creator": "A5 Scale Expansion",
+    "releaseYear": 2026,
+    "description": "Scale A-type Expansion probe — Net-new cohort for gate validation.",
+    "tags": [
+      "scale",
+      "expansion",
+      "batch7"
     ]
   }
 }

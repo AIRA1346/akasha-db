@@ -19,11 +19,16 @@
     },
     "extensions": {
       "posterSource": "tmdb",
-      "posterVerified": true
+      "posterVerified": true,
+      "coverageSprint03": "legacy_slug"
     },
     "legacyIds": [
       "sub_manga_haikyuu_2012"
-    ]
+    ],
+    "titles": {
+      "en": "Haikyuu",
+      "ko": "하이큐!!"
+    }
   },
   "wk_000000346": {
     "workId": "wk_000000346",
@@ -45,11 +50,20 @@
       "파티"
     ],
     "extensions": {
-      "posterSource": "tmdb"
+      "posterSource": "tmdb",
+      "coverageSprint04ExternalId": "tmdb"
     },
     "posterPath": "https://image.tmdb.org/t/p/w500/txwSoTks8fmtonBPp2YKIcSRY3r.jpg",
     "legacyIds": [
       "sub_manga_konosuba_2014"
-    ]
+    ],
+    "externalIds": {
+      "tmdb": "70864"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true,
+      "hasPoster": true,
+      "hasDescription": true
+    }
   }
 }

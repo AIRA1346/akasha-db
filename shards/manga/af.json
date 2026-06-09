@@ -13,12 +13,16 @@
       "전략",
       "성장"
     ],
-    "extensions": {
-      "posterSource": "tmdb"
-    },
     "legacyIds": [
       "sub_manga_kingdom_2006"
-    ]
+    ],
+    "titles": {
+      "en": "Kingdom",
+      "ko": "킹덤"
+    },
+    "extensions": {
+      "coverageSprint03": "legacy_slug"
+    }
   },
   "wk_000000373": {
     "workId": "wk_000000373",
@@ -36,6 +40,13 @@
     ],
     "legacyIds": [
       "sub_manga_real_1999"
-    ]
+    ],
+    "titles": {
+      "en": "REAL",
+      "ko": "REAL"
+    },
+    "extensions": {
+      "coverageSprint03": "latin_title"
+    }
   }
 }
