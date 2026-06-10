@@ -25,5 +25,41 @@
       "en": "Naruto",
       "ko": "나루토"
     }
+  },
+  "wk_000000432": {
+    "workId": "wk_000000432",
+    "title": "곤",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q10085467"
+    },
+    "titles": {
+      "en": "Gon",
+      "ja": "ゴン",
+      "ko": "곤"
+    },
+    "creator": "Masashi Tanaka",
+    "extensions": {
+      "ingestChannel": "wikidata_manga",
+      "ingestSource": "wikidata"
+    }
+  },
+  "wk_000000433": {
+    "workId": "wk_000000433",
+    "title": "最果てのパラディン",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q100956416"
+    },
+    "titles": {
+      "en": "The Faraway Paladin",
+      "ja": "最果てのパラディン"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_manga",
+      "ingestSource": "wikidata"
+    }
   }
 }

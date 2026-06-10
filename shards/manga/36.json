@@ -1,0 +1,21 @@
+{
+  "wk_000000441": {
+    "workId": "wk_000000441",
+    "title": "회복술사의 재시작",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q101079461"
+    },
+    "titles": {
+      "en": "Redo of Healer",
+      "ja": "回復術士のやり直し",
+      "ko": "회복술사의 재시작"
+    },
+    "creator": "Rui Tsukiyo",
+    "extensions": {
+      "ingestChannel": "wikidata_manga",
+      "ingestSource": "wikidata"
+    }
+  }
+}

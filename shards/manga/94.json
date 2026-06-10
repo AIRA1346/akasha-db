@@ -25,5 +25,24 @@
       "en": "Cardcaptor Sakura",
       "ko": "카드캡터 체리"
     }
+  },
+  "wk_000000442": {
+    "workId": "wk_000000442",
+    "title": "꽃에게 폭풍",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q101084730"
+    },
+    "titles": {
+      "en": "Rainbows After Storms",
+      "ja": "はなにあらし",
+      "ko": "꽃에게 폭풍"
+    },
+    "creator": "Ruka Kobachi",
+    "extensions": {
+      "ingestChannel": "wikidata_manga",
+      "ingestSource": "wikidata"
+    }
   }
 }

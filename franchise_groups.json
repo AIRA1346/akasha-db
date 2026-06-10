@@ -1,7 +1,10 @@
 {
   "_schema": {
     "version": 2,
-    "note": "그리드 IP 1카드. displayNames(ko/en/ja) 로케일별 IP명. 검색 개별 표시는 UserRegistryPreferences.tracksMultipleFormats"
+    "note": "그리드 IP 1카드. displayNames(ko/en/ja) 로케일별 IP명. 검색 개별 표시는 UserRegistryPreferences.tracksMultipleFormats",
+    "externalIds": {
+      "wikidata": "optional — media franchise Q-id (docs/strategy/wikidata-spine-plan.md §6.2)"
+    }
   },
   "franchise_86": {
     "displayName": "86 -에이티식스-",
@@ -169,7 +172,7 @@
     "primaryWorkId": "wk_000000344"
   },
   "franchise_dr_stone": {
-    "displayName": "Dr.STONE",
+    "displayName": "닥터 스톤",
     "members": [
       "wk_000000316",
       "wk_000000189"
@@ -353,7 +356,7 @@
     "primaryWorkId": "wk_000000380"
   },
   "franchise_beastars": {
-    "displayName": "BEASTARS",
+    "displayName": "비스타즈",
     "members": [
       "wk_000000298",
       "wk_000000173"

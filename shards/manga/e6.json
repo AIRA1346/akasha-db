@@ -1,0 +1,21 @@
+{
+  "wk_000000455": {
+    "workId": "wk_000000455",
+    "title": "우리 스승님은 꼬리가 없다",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q101244679"
+    },
+    "titles": {
+      "en": "My Master Has No Tail",
+      "ja": "うちの師匠はしっぽがない",
+      "ko": "우리 스승님은 꼬리가 없다"
+    },
+    "creator": "TNSK",
+    "extensions": {
+      "ingestChannel": "wikidata_manga",
+      "ingestSource": "wikidata"
+    }
+  }
+}

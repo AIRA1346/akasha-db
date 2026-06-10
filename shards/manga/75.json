@@ -29,5 +29,25 @@
     "qualitySignals": {
       "externalIdVerified": true
     }
+  },
+  "wk_000000449": {
+    "workId": "wk_000000449",
+    "title": "평온세대의 위타천들",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q101209152"
+    },
+    "titles": {
+      "en": "The Idaten Deities Know Only Peace",
+      "ja": "平穏世代の韋駄天達",
+      "ko": "평온세대의 위타천들"
+    },
+    "releaseYear": 2018,
+    "creator": "Amahara",
+    "extensions": {
+      "ingestChannel": "wikidata_manga",
+      "ingestSource": "wikidata"
+    }
   }
 }

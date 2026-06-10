@@ -1,0 +1,21 @@
+{
+  "wk_000000411": {
+    "workId": "wk_000000411",
+    "title": "슨도메",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1000500"
+    },
+    "titles": {
+      "en": "Sundome",
+      "ja": "すんドめ",
+      "ko": "슨도메"
+    },
+    "creator": "Kazuto Okada",
+    "extensions": {
+      "ingestChannel": "wikidata_manga",
+      "ingestSource": "wikidata"
+    }
+  }
+}

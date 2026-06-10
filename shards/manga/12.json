@@ -1,0 +1,21 @@
+{
+  "wk_000000430": {
+    "workId": "wk_000000430",
+    "title": "전영소녀",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q100792795"
+    },
+    "titles": {
+      "en": "Video Girl Ai",
+      "ja": "電影少女",
+      "ko": "전영소녀"
+    },
+    "creator": "Masakazu Katsura",
+    "extensions": {
+      "ingestChannel": "wikidata_manga",
+      "ingestSource": "wikidata"
+    }
+  }
+}
