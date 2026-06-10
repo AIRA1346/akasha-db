@@ -11,7 +11,6 @@
     "domain": "subculture",
     "creator": "하라 야스히사",
     "releaseYear": 2012,
-    "description": "전국시대를 배경으로 신이 왕국 통일을 꿈꾸며 전장에서 성장하는 소년의 이야기.",
     "tags": [
       "역사",
       "전쟁",
@@ -19,7 +18,6 @@
       "액션"
     ],
     "extensions": {
-      "posterSource": "tmdb",
       "seasons": [
         {
           "label": "1~5기",
@@ -30,7 +28,6 @@
       "latestSeason": "1~5기",
       "coverageSprint04ExternalId": "tmdb"
     },
-    "posterPath": "https://image.tmdb.org/t/p/w500/a0qB0WtBjNbAtPuKmeKEUYELh7T.jpg",
     "legacyIds": [
       "sub_animation_kingdom_2012"
     ],
@@ -38,9 +35,7 @@
       "tmdb": "72408"
     },
     "qualitySignals": {
-      "externalIdVerified": true,
-      "hasPoster": true,
-      "hasDescription": true
+      "externalIdVerified": true
     }
   }
 }

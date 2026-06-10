@@ -6,20 +6,16 @@
     "domain": "subculture",
     "creator": "BONES",
     "releaseYear": 2016,
-    "description": "강력한 초능력 소년의 성장과 청소부 일상을 그린 액션.",
     "tags": [
       "초능력",
       "액션",
       "코미디",
       "성장"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/krBHtLnl6zLSmriYp8f7lpLlIoG.jpg",
     "externalIds": {
       "tmdb": "67075"
     },
     "extensions": {
-      "posterSource": "tmdb",
-      "posterVerified": true,
       "coverageSprint03": "legacy_slug"
     },
     "legacyIds": [

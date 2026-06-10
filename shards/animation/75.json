@@ -11,7 +11,6 @@
     "domain": "subculture",
     "creator": "이시다 슈",
     "releaseYear": 2014,
-    "description": "반구울이 된 칸키 켄이 인간과 구울 사이에서 정체성과 생존을 고민하는 다크 액션.",
     "tags": [
       "다크",
       "액션",
@@ -19,7 +18,6 @@
       "정체성"
     ],
     "extensions": {
-      "posterSource": "tmdb",
       "seasons": [
         {
           "label": "1기",
@@ -32,10 +30,8 @@
           "episodes": 24
         }
       ],
-      "latestSeason": ":re",
-      "posterVerified": true
+      "latestSeason": ":re"
     },
-    "posterPath": "https://image.tmdb.org/t/p/w500/nkDtqLGG7J7L7YoodfCSWFUT65l.jpg",
     "externalIds": {
       "tmdb": "61374"
     },

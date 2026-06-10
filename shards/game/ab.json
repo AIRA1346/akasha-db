@@ -6,14 +6,12 @@
     "domain": "subculture",
     "creator": "Maddy Makes Games",
     "releaseYear": 2018,
-    "description": "산 정상을 향한 플랫포머와 마음의 성장 이야기.",
     "tags": [
       "인디",
       "플랫포머",
       "난이도",
       "힐링"
     ],
-    "posterPath": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/504230/library_600x900.jpg",
     "legacyIds": [
       "sub_game_celeste_2018"
     ],
@@ -30,9 +28,7 @@
       "steam": "504230"
     },
     "qualitySignals": {
-      "externalIdVerified": true,
-      "hasPoster": true,
-      "hasDescription": true
+      "externalIdVerified": true
     }
   }
 }

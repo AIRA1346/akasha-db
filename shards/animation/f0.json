@@ -11,7 +11,6 @@
     "domain": "subculture",
     "creator": "추성원·장성락",
     "releaseYear": 2024,
-    "description": "최약 헌터 성진우가 유일하게 레벨업할 수 있는 능력을 얻고 던전을 정복해 나가는 성장 서사.",
     "tags": [
       "액션",
       "판타지",
@@ -19,7 +18,6 @@
       "성장"
     ],
     "extensions": {
-      "posterSource": "tmdb",
       "seasons": [
         {
           "label": "1기",
@@ -32,10 +30,8 @@
           "episodes": 13
         }
       ],
-      "latestSeason": "2기",
-      "posterVerified": true
+      "latestSeason": "2기"
     },
-    "posterPath": "https://image.tmdb.org/t/p/w500/5gR5oCQufzZ6tPcFoHb61ckiwiP.jpg",
     "externalIds": {
       "tmdb": "127532"
     },

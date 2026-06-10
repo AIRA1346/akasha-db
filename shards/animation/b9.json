@@ -6,20 +6,16 @@
     "domain": "subculture",
     "creator": "GAINAX / khara",
     "releaseYear": 1995,
-    "description": "소년이 거대 생체 로봇 EVA를 조종해 사도와 싸우는 SF 명작.",
     "tags": [
       "메카",
       "SF",
       "심리",
       "명작"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/k3NQ7gVfnNPWbdCgg0x0Tv8CNNN.jpg",
     "externalIds": {
       "tmdb": "890"
     },
     "extensions": {
-      "posterSource": "tmdb",
-      "posterVerified": true,
       "coverageSprint03": "legacy_slug"
     },
     "legacyIds": [

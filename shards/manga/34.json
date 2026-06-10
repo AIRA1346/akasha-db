@@ -6,20 +6,14 @@
     "domain": "subculture",
     "creator": "타카야 스기타",
     "releaseYear": 2018,
-    "description": "스파이와 암살자 부부가 입양한 초능력 아이를 둘러싼 가족 코미디.",
     "tags": [
       "코미디",
       "스파이",
       "가족",
       "액션"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/rikBBQHmCTOiZ7YoJVkYcKdXgNx.jpg",
     "externalIds": {
       "tmdb": "120089"
-    },
-    "extensions": {
-      "posterSource": "tmdb",
-      "posterVerified": true
     },
     "legacyIds": [
       "sub_manga_spy-x-family_2018"

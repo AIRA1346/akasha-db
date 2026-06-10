@@ -6,20 +6,16 @@
     "domain": "subculture",
     "creator": "이토 파루",
     "releaseYear": 2016,
-    "description": "육식·초식 동물이 공존하는 세계의 학원 드라마.",
     "tags": [
       "학원",
       "드라마",
       "동물",
       "로맨스"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/lQwFRcAhtzFzMCx66RC0tRJxpZr.jpg",
     "externalIds": {
       "tmdb": "90937"
     },
     "extensions": {
-      "posterSource": "tmdb",
-      "posterVerified": true,
       "coverageSprint03": "latin_title"
     },
     "legacyIds": [
@@ -42,7 +38,6 @@
     "domain": "subculture",
     "creator": "후지코 F. 후지오",
     "releaseYear": 1969,
-    "description": "미래에서 온 고양이 로봇 도라에몽이 노진구를 도우며 겪는 일상과 모험.",
     "tags": [
       "코미디",
       "SF",
@@ -50,10 +45,8 @@
       "일상"
     ],
     "extensions": {
-      "posterSource": "tmdb",
       "coverageSprint04ExternalId": "tmdb"
     },
-    "posterPath": "https://image.tmdb.org/t/p/w500/6O9Of12GfVNDix9nmZpxJQletbr.jpg",
     "legacyIds": [
       "sub_manga_doraemon_1969"
     ],
@@ -61,9 +54,7 @@
       "tmdb": "65751"
     },
     "qualitySignals": {
-      "externalIdVerified": true,
-      "hasPoster": true,
-      "hasDescription": true
+      "externalIdVerified": true
     }
   },
   "wk_000000392": {
@@ -73,7 +64,6 @@
     "domain": "subculture",
     "creator": "타카에마시 유우",
     "releaseYear": 2007,
-    "description": "까칠한 소녀와 소심한 소년이 연인 연기를 하며 벌어지는 로맨스.",
     "tags": [
       "로맨스",
       "코미디",

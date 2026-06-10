@@ -11,7 +11,6 @@
     "domain": "subculture",
     "creator": "아라키 히로히코",
     "releaseYear": 2012,
-    "description": "죠스타 가문과 디오의 인연이 이어지며 세대를 넘어 전개되는 독특한 스탠드 배틀 액션.",
     "tags": [
       "액션",
       "초능력",
@@ -19,7 +18,6 @@
       "다크"
     ],
     "extensions": {
-      "posterSource": "tmdb",
       "seasons": [
         {
           "label": "1~6부",
@@ -30,7 +28,6 @@
       "latestSeason": "1~6부",
       "coverageSprint04ExternalId": "tmdb"
     },
-    "posterPath": "https://image.tmdb.org/t/p/w500/dgjo0nFXKoOJ5y8NBMjYfsSdMmI.jpg",
     "legacyIds": [
       "sub_animation_jojo-bizarre-adventure_2012"
     ],
@@ -38,9 +35,7 @@
       "tmdb": "46393"
     },
     "qualitySignals": {
-      "externalIdVerified": true,
-      "hasPoster": true,
-      "hasDescription": true
+      "externalIdVerified": true
     }
   }
 }

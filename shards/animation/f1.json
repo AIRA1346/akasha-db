@@ -11,7 +11,6 @@
     "domain": "subculture",
     "creator": "칸에도 쇼운",
     "releaseYear": 2022,
-    "description": "일본 대표 스트라이커를 뽑기 위한 극한의 공격수 육성 프로그램 블루 록의 이야기.",
     "tags": [
       "스포츠",
       "축구",
@@ -19,7 +18,6 @@
       "경쟁"
     ],
     "extensions": {
-      "posterSource": "tmdb",
       "seasons": [
         {
           "label": "1기",
@@ -32,10 +30,8 @@
           "episodes": 14
         }
       ],
-      "latestSeason": "2기",
-      "posterVerified": true
+      "latestSeason": "2기"
     },
-    "posterPath": "https://image.tmdb.org/t/p/w500/tqiDHyR3YoIq4h0taoodUwp78Uz.jpg",
     "externalIds": {
       "tmdb": "131041"
     },

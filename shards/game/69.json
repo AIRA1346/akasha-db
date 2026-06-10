@@ -6,14 +6,12 @@
     "domain": "generalCulture",
     "creator": "Mojang Studios",
     "releaseYear": 2011,
-    "description": "무한한 복셀 세계에서 자원을 채취하고 건축하는 샌드박스 게임.",
     "tags": [
       "샌드박스",
       "서바이벌",
       "크래프팅",
       "멀티플레이"
     ],
-    "posterPath": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/322170/library_600x900_2x.jpg",
     "extensions": {
       "platforms": [
         "PC",
@@ -34,9 +32,7 @@
       "steam": "322170"
     },
     "qualitySignals": {
-      "externalIdVerified": true,
-      "hasPoster": true,
-      "hasDescription": true
+      "externalIdVerified": true
     }
   }
 }

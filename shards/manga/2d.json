@@ -11,7 +11,6 @@
     "domain": "subculture",
     "creator": "마시마 히로",
     "releaseYear": 2018,
-    "description": "시키가 에덴스 제로 호를 타고 우주를 떠돌며 마블리와 친구들을 찾는 우주 모험.",
     "tags": [
       "SF",
       "모험",
@@ -19,10 +18,8 @@
       "우정"
     ],
     "extensions": {
-      "posterSource": "tmdb",
       "coverageSprint04ExternalId": "tmdb"
     },
-    "posterPath": "https://image.tmdb.org/t/p/w500/gM80dPt22btCRv1OcaQnhCfLq9v.jpg",
     "legacyIds": [
       "sub_manga_edens-zero_2018"
     ],
@@ -30,9 +27,7 @@
       "tmdb": "97525"
     },
     "qualitySignals": {
-      "externalIdVerified": true,
-      "hasPoster": true,
-      "hasDescription": true
+      "externalIdVerified": true
     }
   }
 }

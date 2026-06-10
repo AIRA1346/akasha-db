@@ -11,7 +11,6 @@
     "domain": "subculture",
     "creator": "마시마 히로",
     "releaseYear": 2018,
-    "description": "나츠 일행이 백년 퀘스트를 수행하며 새로운 적과 마법 대륙을 마주하는 후속 모험.",
     "tags": [
       "판타지",
       "마법",
@@ -19,10 +18,8 @@
       "우정"
     ],
     "extensions": {
-      "posterSource": "tmdb",
       "coverageSprint04ExternalId": "tmdb"
     },
-    "posterPath": "https://image.tmdb.org/t/p/w500/urzSiR7IiImAzyq2VyOJ1BtNChY.jpg",
     "legacyIds": [
       "sub_manga_fairy-tail-100-years-quest_2018"
     ],
@@ -30,9 +27,7 @@
       "tmdb": "83121"
     },
     "qualitySignals": {
-      "externalIdVerified": true,
-      "hasPoster": true,
-      "hasDescription": true
+      "externalIdVerified": true
     }
   }
 }

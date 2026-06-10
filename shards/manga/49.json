@@ -6,20 +6,16 @@
     "domain": "subculture",
     "creator": "키시모토 마사시 (Masashi Kishimoto)",
     "releaseYear": 1999,
-    "description": "닌자 소년 나루토가 호카게를 꿈꾸는 성장 이야기.",
     "tags": [
       "액션",
       "닌자",
       "우정",
       "성장"
     ],
-    "posterPath": "https://image.tmdb.org/t/p/w500/5llYnYzA2oiTxxSi9d7RSanrwR8.jpg",
     "externalIds": {
       "tmdb": "46260"
     },
     "extensions": {
-      "posterSource": "tmdb",
-      "posterVerified": true,
       "coverageSprint03": "legacy_slug"
     },
     "legacyIds": [
