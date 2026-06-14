@@ -20,7 +20,86 @@
       "ko": "위쳐"
     },
     "extensions": {
-      "coverageSprint03": "legacy_slug"
+      "coverageSprint03": "legacy_slug",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "externalIds": {
+      "wikidata": "Q47500433"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000000950": {
+    "workId": "wk_000000950",
+    "title": "모범택시",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q104607512"
+    },
+    "titles": {
+      "ko": "모범택시",
+      "en": "Taxi Driver",
+      "ja": "模範タクシー (ドラマ)"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001365": {
+    "workId": "wk_000001365",
+    "title": "너는 나의 봄",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q106143854"
+    },
+    "titles": {
+      "ko": "너는 나의 봄",
+      "en": "You Are My Spring",
+      "ja": "君は私の春"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001546": {
+    "workId": "wk_000001546",
+    "title": "캐스퍼와 엠마",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q106774297"
+    },
+    "titles": {
+      "ko": "캐스퍼와 엠마",
+      "en": "Casper and Emma"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001845": {
+    "workId": "wk_000001845",
+    "title": "8월에 내리는 눈",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q10846224"
+    },
+    "titles": {
+      "ko": "8월에 내리는 눈",
+      "en": "Snow in August",
+      "ja": "8月に降る雪"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

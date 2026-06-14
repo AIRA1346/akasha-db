@@ -20,10 +20,13 @@
     },
     "extensions": {
       "coverageSprint03": "steam_fetch",
-      "coverageSprint04ExternalId": "steam"
+      "coverageSprint04ExternalId": "steam",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "externalIds": {
-      "steam": "239140"
+      "steam": "239140",
+      "wikidata": "Q13415292"
     },
     "qualitySignals": {
       "externalIdVerified": true
@@ -50,13 +53,35 @@
     },
     "extensions": {
       "coverageSprint03": "steam_fetch",
-      "coverageSprint04ExternalId": "steam"
+      "coverageSprint04ExternalId": "steam",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "externalIds": {
-      "steam": "2531310"
+      "steam": "2531310",
+      "wikidata": "Q123473426"
     },
     "qualitySignals": {
       "externalIdVerified": true
+    }
+  },
+  "wk_000001641": {
+    "workId": "wk_000001641",
+    "title": "이상한 나라의 에이브",
+    "category": "game",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1064350"
+    },
+    "titles": {
+      "ko": "이상한 나라의 에이브",
+      "en": "Oddworld: Abe's Oddysee",
+      "ja": "エイブ・ア・ゴーゴー"
+    },
+    "releaseYear": 1997,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_game",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

@@ -1,24 +1,4 @@
 {
-  "sub_manga_pilot-h1-supply-b3b_2026": {
-    "workId": "sub_manga_pilot-h1-supply-b3b_2026",
-    "title": "파일럿 H1 공급 배치3B",
-    "titles": {
-      "ko": "파일럿 H1 공급 배치3B",
-      "en": "Pilot H1 Supply Batch 3B",
-      "ja": "パイロットH1供給バッチ3B"
-    },
-    "category": "manga",
-    "domain": "subculture",
-    "creator": "A5 Pilot Maintainer",
-    "releaseYear": 2026,
-    "tags": [
-      "pilot",
-      "supply"
-    ],
-    "extensions": {
-      "coverageScaleEnrich": "batch4_ja"
-    }
-  },
   "wk_000000313": {
     "workId": "wk_000000313",
     "title": "D.Gray-man",
@@ -39,6 +19,35 @@
     ],
     "legacyIds": [
       "sub_manga_dgray-man_2004"
-    ]
+    ],
+    "externalIds": {
+      "wikidata": "Q170019"
+    },
+    "extensions": {
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000000695": {
+    "workId": "wk_000000695",
+    "title": "피그마리오",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q10864685"
+    },
+    "titles": {
+      "ko": "피그마리오",
+      "en": "Pygmalio",
+      "ja": "ピグマリオ"
+    },
+    "creator": "Shinji Wada",
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
+    }
   }
 }

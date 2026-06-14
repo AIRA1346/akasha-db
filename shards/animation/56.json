@@ -1,0 +1,75 @@
+{
+  "wk_000001067": {
+    "workId": "wk_000001067",
+    "title": "블랙 버드",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q106911884"
+    },
+    "titles": {
+      "ko": "블랙 버드",
+      "en": "Black Bird",
+      "ja": "ブラック・バード"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001588": {
+    "workId": "wk_000001588",
+    "title": "더 펭귄",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q111189743"
+    },
+    "titles": {
+      "ko": "더 펭귄",
+      "en": "The Penguin",
+      "ja": "ペンギン"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001702": {
+    "workId": "wk_000001702",
+    "title": "사자에상",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q11304591"
+    },
+    "titles": {
+      "ko": "사자에상",
+      "en": "Sazae-san",
+      "ja": "サザエさん"
+    },
+    "releaseYear": 1969,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000002040": {
+    "workId": "wk_000002040",
+    "title": "우리 회사의 작은 선배 이야기",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q114708215"
+    },
+    "titles": {
+      "ko": "우리 회사의 작은 선배 이야기",
+      "en": "My Tiny Senpai",
+      "ja": "うちの会社の小さい先輩の話"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  }
+}

@@ -20,7 +20,72 @@
       "ko": "목소리의 형태"
     },
     "extensions": {
-      "coverageSprint03": "legacy_slug"
+      "coverageSprint03": "legacy_slug",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "externalIds": {
+      "wikidata": "Q23925035"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000001177": {
+    "workId": "wk_000001177",
+    "title": "워킹맨",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1075090"
+    },
+    "titles": {
+      "ko": "워킹맨",
+      "en": "Hataraki Man",
+      "ja": "働きマン"
+    },
+    "releaseYear": 2007,
+    "creator": "安野モヨコ",
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001564": {
+    "workId": "wk_000001564",
+    "title": "대설해의 카이나",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q110640048"
+    },
+    "titles": {
+      "ko": "대설해의 카이나",
+      "en": "Kaina of the Great Snow Sea",
+      "ja": "大雪海のカイナ"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000002048": {
+    "workId": "wk_000002048",
+    "title": "드래곤볼 Z: 신들의 전쟁",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1150595"
+    },
+    "titles": {
+      "ko": "드래곤볼 Z: 신들의 전쟁",
+      "en": "Dragon Ball Z: Battle of Gods",
+      "ja": "ドラゴンボールZ 神と神"
+    },
+    "releaseYear": 2014,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

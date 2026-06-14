@@ -14,6 +14,34 @@
     ],
     "legacyIds": [
       "sub_manga_bleach_2001"
-    ]
+    ],
+    "externalIds": {
+      "wikidata": "Q190002"
+    },
+    "extensions": {
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000001569": {
+    "workId": "wk_000001569",
+    "title": "유성가면 피터",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q11264577"
+    },
+    "titles": {
+      "ko": "유성가면 피터",
+      "en": "Yūsei Kamen",
+      "ja": "遊星仮面"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
+    }
   }
 }

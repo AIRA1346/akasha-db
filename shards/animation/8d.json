@@ -1,0 +1,39 @@
+{
+  "wk_000000668": {
+    "workId": "wk_000000668",
+    "title": "결혼의 풍경",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q104631095"
+    },
+    "titles": {
+      "ko": "결혼의 풍경",
+      "en": "Scenes from a Marriage"
+    },
+    "releaseYear": 2021,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001823": {
+    "workId": "wk_000001823",
+    "title": "원피스 - 진귀한 동물의 섬 쵸파왕국",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1134544"
+    },
+    "titles": {
+      "ko": "원피스 - 진귀한 동물의 섬 쵸파왕국",
+      "en": "One Piece: Chopper's Kingdom on the Island of Strange Animals",
+      "ja": "ONE PIECE 珍獣島のチョッパー王国"
+    },
+    "releaseYear": 2002,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  }
+}

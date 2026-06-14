@@ -1,0 +1,59 @@
+{
+  "wk_000001059": {
+    "workId": "wk_000001059",
+    "title": "불과 얼음의 춤",
+    "category": "game",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q104762097"
+    },
+    "titles": {
+      "ko": "불과 얼음의 춤",
+      "en": "A Dance of Fire and Ice",
+      "ja": "A Dance of Fire and Ice"
+    },
+    "releaseYear": 2019,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_game",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001555": {
+    "workId": "wk_000001555",
+    "title": "엔더 릴리즈: 콰이터스 오브 더 나이츠",
+    "category": "game",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q105768610"
+    },
+    "titles": {
+      "ko": "엔더 릴리즈: 콰이터스 오브 더 나이츠",
+      "en": "Ender Lilies: Quietus of the Knights",
+      "ja": "ENDER LILIES: Quietus of the Knights"
+    },
+    "releaseYear": 2021,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_game",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001970": {
+    "workId": "wk_000001970",
+    "title": "소닉 제너레이션즈",
+    "category": "game",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q106921080"
+    },
+    "titles": {
+      "ko": "소닉 제너레이션즈",
+      "en": "Sonic Generations",
+      "ja": "ソニック ジェネレーションズ 青の冒険"
+    },
+    "releaseYear": 2011,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_game",
+      "ingestSource": "wikidata_ko"
+    }
+  }
+}

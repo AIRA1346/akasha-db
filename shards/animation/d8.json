@@ -20,7 +20,53 @@
       "ko": "바이올렛 에버가든"
     },
     "extensions": {
-      "coverageSprint03": "legacy_slug"
+      "coverageSprint03": "legacy_slug",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "externalIds": {
+      "wikidata": "Q57390937"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000001601": {
+    "workId": "wk_000001601",
+    "title": "극장판 5등분의 신부",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q111836691"
+    },
+    "titles": {
+      "ko": "극장판 5등분의 신부",
+      "en": "The Quintessential Quintuplets Movie",
+      "ja": "映画 五等分の花嫁"
+    },
+    "releaseYear": 2022,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001868": {
+    "workId": "wk_000001868",
+    "title": "이바라드 시간",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1135153"
+    },
+    "titles": {
+      "ko": "이바라드 시간",
+      "en": "Iblard Jikan",
+      "ja": "イバラード時間"
+    },
+    "releaseYear": 2007,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

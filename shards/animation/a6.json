@@ -1,0 +1,39 @@
+{
+  "wk_000000528": {
+    "workId": "wk_000000528",
+    "title": "더 리버레이터: 500일의 오디세이",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q101421664"
+    },
+    "titles": {
+      "ko": "더 리버레이터: 500일의 오디세이",
+      "en": "The Liberator",
+      "ja": "リベレーター: 勝利へ、地獄の行軍500日"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001862": {
+    "workId": "wk_000001862",
+    "title": "짱구는 못말려 극장판: 헨더랜드의 대모험",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1134775"
+    },
+    "titles": {
+      "ko": "짱구는 못말려 극장판: 헨더랜드의 대모험",
+      "en": "Crayon Shin-chan: Great Adventure in Henderland",
+      "ja": "クレヨンしんちゃん ヘンダーランドの大冒険"
+    },
+    "releaseYear": 1996,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  }
+}

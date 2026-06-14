@@ -55,10 +55,55 @@
           "episodes": 21
         }
       ],
-      "latestSeason": "7기"
+      "latestSeason": "7기",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "legacyIds": [
       "sub_animation_my-hero-academia_2016"
-    ]
+    ],
+    "externalIds": {
+      "wikidata": "Q63686324"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000001175": {
+    "workId": "wk_000001175",
+    "title": "코바야시네 메이드래곤",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q107448055"
+    },
+    "titles": {
+      "ko": "코바야시네 메이드래곤",
+      "en": "Miss Kobayashi's Dragon Maid",
+      "ja": "小林さんちのメイドラゴン"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001423": {
+    "workId": "wk_000001423",
+    "title": "표류단지",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q109602795"
+    },
+    "titles": {
+      "ko": "표류단지",
+      "en": "Drifting home",
+      "ja": "雨を告げる漂流団地"
+    },
+    "releaseYear": 2022,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
   }
 }

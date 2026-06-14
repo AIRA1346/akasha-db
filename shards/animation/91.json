@@ -20,7 +20,33 @@
       "ko": "블랙 라군"
     },
     "extensions": {
-      "coverageSprint03": "legacy_slug"
+      "coverageSprint03": "legacy_slug",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "externalIds": {
+      "wikidata": "Q59197714"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000001328": {
+    "workId": "wk_000001328",
+    "title": "전부 애거사 짓이야",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q108837156"
+    },
+    "titles": {
+      "ko": "전부 애거사 짓이야",
+      "en": "Agatha All Along",
+      "ja": "アガサ・オール・アロング"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

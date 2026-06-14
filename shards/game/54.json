@@ -20,7 +20,15 @@
       "ko": "원신"
     },
     "extensions": {
-      "coverageSprint03": "legacy_slug"
+      "coverageSprint03": "legacy_slug",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "externalIds": {
+      "wikidata": "Q65059474"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
     }
   },
   "wk_000000143": {
@@ -46,31 +54,35 @@
     "extensions": {
       "coverageSprint03": "steam_fetch",
       "coverageSprint04ExternalId": "steam",
-      "coverageSprint04R2Fix": "W1_review"
+      "coverageSprint04R2Fix": "W1_review",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "externalIds": {
-      "steam": "620"
+      "steam": "620",
+      "wikidata": "Q279446"
     },
     "qualitySignals": {
       "externalIdVerified": true
     }
   },
-  "sub_game_scale-exp-b7-probe-gamma_2026": {
-    "workId": "sub_game_scale-exp-b7-probe-gamma_2026",
-    "title": "스케일 확장 프로브 감마",
-    "titles": {
-      "ko": "스케일 확장 프로브 감마",
-      "en": "Scale Expansion Probe Gamma",
-      "ja": "スケール拡張プローブガンマ"
-    },
+  "wk_000001975": {
+    "workId": "wk_000001975",
+    "title": "루미네스",
     "category": "game",
     "domain": "subculture",
-    "creator": "A5 Scale Expansion",
-    "releaseYear": 2026,
-    "tags": [
-      "scale",
-      "expansion",
-      "batch7"
-    ]
+    "externalIds": {
+      "wikidata": "Q1069373"
+    },
+    "titles": {
+      "ko": "루미네스",
+      "en": "Lumines",
+      "ja": "ルミネス"
+    },
+    "releaseYear": 2004,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_game",
+      "ingestSource": "wikidata_ko"
+    }
   }
 }

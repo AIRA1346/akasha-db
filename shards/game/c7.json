@@ -1,22 +1,39 @@
 {
-  "sub_game_pilot-h1-supply-b1a_2026": {
-    "workId": "sub_game_pilot-h1-supply-b1a_2026",
-    "title": "파일럿 H1 공급 배치1A",
-    "titles": {
-      "ko": "파일럿 H1 공급 배치1A",
-      "en": "Pilot H1 Supply Batch 1A",
-      "ja": "パイロットH1供給バッチ1A"
-    },
+  "wk_000000716": {
+    "workId": "wk_000000716",
+    "title": "프론트 라인",
     "category": "game",
     "domain": "subculture",
-    "creator": "A5 Pilot Maintainer",
-    "releaseYear": 2026,
-    "tags": [
-      "pilot",
-      "supply"
-    ],
+    "externalIds": {
+      "wikidata": "Q1040033"
+    },
+    "titles": {
+      "ko": "프론트 라인",
+      "en": "Front Line",
+      "ja": "フロントライン"
+    },
+    "releaseYear": 1985,
     "extensions": {
-      "coverageScaleEnrich": "batch3_ja"
+      "ingestChannel": "wikidata_ko_game",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001312": {
+    "workId": "wk_000001312",
+    "title": "에이스 오브 스페이드",
+    "category": "game",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1053797"
+    },
+    "titles": {
+      "ko": "에이스 오브 스페이드",
+      "en": "Ace of Spades"
+    },
+    "releaseYear": 2012,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_game",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

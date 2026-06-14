@@ -20,7 +20,50 @@
       "ko": "더 만달로리안"
     },
     "extensions": {
-      "coverageSprint03": "legacy_slug"
+      "coverageSprint03": "legacy_slug",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "externalIds": {
+      "wikidata": "Q56876444"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000001453": {
+    "workId": "wk_000001453",
+    "title": "테레사",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1065341"
+    },
+    "titles": {
+      "ko": "테레사",
+      "en": "Teresa",
+      "ja": "テレサ"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001545": {
+    "workId": "wk_000001545",
+    "title": "전국방방쿡쿡",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q106764076"
+    },
+    "titles": {
+      "ko": "전국방방쿡쿡",
+      "en": "National Bang Bang Cook Cook"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

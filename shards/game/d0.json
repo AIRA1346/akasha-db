@@ -1,22 +1,21 @@
 {
-  "sub_game_scale-supply-b1b_2026": {
-    "workId": "sub_game_scale-supply-b1b_2026",
-    "title": "스케일 공급 배치1B",
-    "titles": {
-      "ko": "스케일 공급 배치1B",
-      "en": "Scale Supply Batch 1B",
-      "ja": "スケール供給バッチ1B"
-    },
+  "wk_000001502": {
+    "workId": "wk_000001502",
+    "title": "포켓몬스터 브릴리언트 다이아몬드・샤이닝 펄",
     "category": "game",
     "domain": "subculture",
-    "creator": "A5 Scale Maintainer",
-    "releaseYear": 2026,
-    "tags": [
-      "scale",
-      "supply"
-    ],
+    "externalIds": {
+      "wikidata": "Q105688759"
+    },
+    "titles": {
+      "ko": "포켓몬스터 브릴리언트 다이아몬드・샤이닝 펄",
+      "en": "Pokémon Brilliant Diamond and Shining Pearl",
+      "ja": "ポケットモンスター ブリリアントダイヤモンド・シャイニングパール"
+    },
+    "releaseYear": 2021,
     "extensions": {
-      "coverageScaleEnrich": "batch1_ja"
+      "ingestChannel": "wikidata_ko_game",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

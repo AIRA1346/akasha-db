@@ -1,0 +1,37 @@
+{
+  "wk_000001457": {
+    "workId": "wk_000001457",
+    "title": "존 윅",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q106544377"
+    },
+    "titles": {
+      "ko": "존 윅",
+      "en": "John Wick"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001905": {
+    "workId": "wk_000001905",
+    "title": "VS 아라시",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q10853196"
+    },
+    "titles": {
+      "ko": "VS 아라시",
+      "en": "VS ARASHI",
+      "ja": "VS嵐"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  }
+}

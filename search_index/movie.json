@@ -1,0 +1,3915 @@
+[
+  {
+    "workId": "wk_000001425",
+    "title": "'신'데렐라",
+    "shardId": "movie_27",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "'신'데렐라",
+      "Sneakerella",
+      "sneakerella",
+      "スニーカーシンデレラ"
+    ],
+    "titles": {
+      "ko": "'신'데렐라",
+      "en": "Sneakerella",
+      "ja": "スニーカーシンデレラ"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001831",
+    "title": "2001: 스페이스 오디세이",
+    "shardId": "movie_c9",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "2001: A Space Odyssey",
+      "2001: 스페이스 오디세이",
+      "2001aspaceodyssey",
+      "2001年宇宙の旅",
+      "2001스페이스오디세이"
+    ],
+    "titles": {
+      "ko": "2001: 스페이스 오디세이",
+      "en": "2001: A Space Odyssey",
+      "ja": "2001年宇宙の旅"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001925",
+    "title": "4.4.4.",
+    "shardId": "movie_6f",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "4.4.4.",
+      "Captivity",
+      "captivity",
+      "キャプティビティ"
+    ],
+    "titles": {
+      "ko": "4.4.4.",
+      "en": "Captivity",
+      "ja": "キャプティビティ"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000857",
+    "title": "LA 캅스",
+    "shardId": "movie_41",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Bulletproof",
+      "LA 캅스",
+      "bulletproof",
+      "la캅스",
+      "ダーティボーイズ",
+      "ダーティ・ボーイズ"
+    ],
+    "titles": {
+      "ko": "LA 캅스",
+      "en": "Bulletproof",
+      "ja": "ダーティ・ボーイズ"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001336",
+    "title": "거북이는 의외로 빨리 헤엄친다",
+    "shardId": "movie_86",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Turtles Are Surprisingly Fast Swimmers",
+      "turtlesaresurprisinglyfastswimmers",
+      "亀は意外と速く泳ぐ",
+      "거북이는 의외로 빨리 헤엄친다",
+      "거북이는의외로빨리헤엄친다"
+    ],
+    "titles": {
+      "ko": "거북이는 의외로 빨리 헤엄친다",
+      "en": "Turtles Are Surprisingly Fast Swimmers",
+      "ja": "亀は意外と速く泳ぐ"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001185",
+    "title": "검은 우물",
+    "shardId": "movie_fc",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Kaali Khuhi",
+      "kaalikhuhi",
+      "漆黒の井戸の底から",
+      "검은 우물",
+      "검은우물"
+    ],
+    "titles": {
+      "ko": "검은 우물",
+      "en": "Kaali Khuhi",
+      "ja": "漆黒の井戸の底から"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001131",
+    "title": "겟 카터",
+    "shardId": "movie_48",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Get Carter",
+      "getcarter",
+      "追撃者",
+      "겟 카터",
+      "겟카터"
+    ],
+    "titles": {
+      "ko": "겟 카터",
+      "en": "Get Carter",
+      "ja": "追撃者"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001432",
+    "title": "광녀들의 무도회",
+    "shardId": "movie_9f",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "The Mad Woman's Ball",
+      "themadwoman'sball",
+      "社会から虐げられた女たち",
+      "광녀들의 무도회",
+      "광녀들의무도회"
+    ],
+    "titles": {
+      "ko": "광녀들의 무도회",
+      "en": "The Mad Woman's Ball",
+      "ja": "社会から虐げられた女たち"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000405",
+    "title": "귀멸 칼날 무한열차",
+    "shardId": "movie_57",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "ufotable",
+    "tags": [
+      "영화",
+      "서브컬처"
+    ],
+    "searchTokens": [
+      "ufotable",
+      "귀멸 칼날 무한열차",
+      "귀멸칼날무한열차",
+      "서브컬처",
+      "영화"
+    ],
+    "titles": {
+      "ko": "귀멸 칼날 무한열차"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000000404",
+    "title": "귀멸의 칼날: 무한열차편",
+    "shardId": "movie_2d",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "ufotable",
+    "tags": [
+      "액션",
+      "귀신",
+      "극장판",
+      "서브컬처"
+    ],
+    "searchTokens": [
+      "ufotable",
+      "귀멸의 칼날: 무한열차편",
+      "귀멸의칼날무한열차편",
+      "귀신",
+      "극장판",
+      "서브컬처",
+      "액션"
+    ],
+    "titles": {
+      "ko": "귀멸의 칼날: 무한열차편"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000000746",
+    "title": "그녀가 사라졌다",
+    "shardId": "movie_38",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "I Met a Girl",
+      "imetagirl",
+      "그녀가 사라졌다",
+      "그녀가사라졌다"
+    ],
+    "titles": {
+      "ko": "그녀가 사라졌다",
+      "en": "I Met a Girl"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000680",
+    "title": "그로잉 업 2",
+    "shardId": "movie_00",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Going Steady",
+      "goingsteady",
+      "グローイングアップ2ゴーイングステディ",
+      "グローイング・アップ2/ゴーイング・ステディ",
+      "그로잉 업 2",
+      "그로잉업2"
+    ],
+    "titles": {
+      "ko": "그로잉 업 2",
+      "en": "Going Steady",
+      "ja": "グローイング・アップ2/ゴーイング・ステディ"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001395",
+    "title": "금옥만당",
+    "shardId": "movie_dc",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "The Chinese Feast",
+      "thechinesefeast",
+      "金玉満堂/決戦!炎の料理人",
+      "金玉満堂決戦!炎の料理人",
+      "금옥만당"
+    ],
+    "titles": {
+      "ko": "금옥만당",
+      "en": "The Chinese Feast",
+      "ja": "金玉満堂/決戦!炎の料理人"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000161",
+    "title": "기생충",
+    "shardId": "movie_84",
+    "category": "movie",
+    "domain": "generalCulture",
+    "creator": "봉준호",
+    "tags": [
+      "스릴러",
+      "사회비판",
+      "한국영화",
+      "아카데미"
+    ],
+    "searchTokens": [
+      "기생충",
+      "봉준호",
+      "사회비판",
+      "스릴러",
+      "아카데미",
+      "한국영화"
+    ],
+    "titles": {
+      "ko": "기생충"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000001429",
+    "title": "나 홀로 즐거운 집에",
+    "shardId": "movie_00",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Home Sweet Home Alone",
+      "homesweethomealone",
+      "ホームスイートホームアローン",
+      "ホーム・スイート・ホーム・アローン",
+      "나 홀로 즐거운 집에",
+      "나홀로즐거운집에"
+    ],
+    "titles": {
+      "ko": "나 홀로 즐거운 집에",
+      "en": "Home Sweet Home Alone",
+      "ja": "ホーム・スイート・ホーム・アローン"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001341",
+    "title": "나비효과: 레버레이션",
+    "shardId": "movie_ba",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "The Butterfly Effect 3: Revelations",
+      "thebutterflyeffect3revelations",
+      "バタフライエフェクト3最後の選択",
+      "バタフライ・エフェクト3/最後の選択",
+      "나비효과: 레버레이션",
+      "나비효과레버레이션"
+    ],
+    "titles": {
+      "ko": "나비효과: 레버레이션",
+      "en": "The Butterfly Effect 3: Revelations",
+      "ja": "バタフライ・エフェクト3/最後の選択"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001342",
+    "title": "나의 크리스마스 왕자님",
+    "shardId": "movie_91",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "My Christmas Prince",
+      "mychristmasprince",
+      "나의 크리스마스 왕자님",
+      "나의크리스마스왕자님"
+    ],
+    "titles": {
+      "ko": "나의 크리스마스 왕자님",
+      "en": "My Christmas Prince"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000407",
+    "title": "날씨의 아이",
+    "shardId": "movie_98",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "신카이 마코토",
+    "tags": [
+      "영화",
+      "서브컬처"
+    ],
+    "searchTokens": [
+      "날씨의 아이",
+      "날씨의아이",
+      "서브컬처",
+      "신카이 마코토",
+      "신카이마코토",
+      "영화"
+    ],
+    "titles": {
+      "ko": "날씨의 아이"
+    },
+    "qualityScore": 100,
+    "qualityTier": 5
+  },
+  {
+    "workId": "wk_000001771",
+    "title": "내 사랑 신디",
+    "shardId": "movie_ab",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Can't Buy Me Love",
+      "can'tbuymelove",
+      "キャントバイミーラブ",
+      "キャント・バイ・ミー・ラブ",
+      "내 사랑 신디",
+      "내사랑신디"
+    ],
+    "titles": {
+      "ko": "내 사랑 신디",
+      "en": "Can't Buy Me Love",
+      "ja": "キャント・バイ・ミー・ラブ"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000408",
+    "title": "너의 이름은.",
+    "shardId": "movie_3f",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "신카이 마코토",
+    "tags": [
+      "영화",
+      "서브컬처"
+    ],
+    "searchTokens": [
+      "너의 이름은.",
+      "너의이름은.",
+      "서브컬처",
+      "신카이 마코토",
+      "신카이마코토",
+      "영화"
+    ],
+    "titles": {
+      "ko": "너의 이름은."
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000001705",
+    "title": "늑대의 제국",
+    "shardId": "movie_b3",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Empire of the Wolves",
+      "empireofthewolves",
+      "エンパイアオブザウルフ",
+      "エンパイア・オブ・ザ・ウルフ",
+      "늑대의 제국",
+      "늑대의제국"
+    ],
+    "titles": {
+      "ko": "늑대의 제국",
+      "en": "Empire of the Wolves",
+      "ja": "エンパイア・オブ・ザ・ウルフ"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001703",
+    "title": "닉크",
+    "shardId": "movie_29",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Ricochet",
+      "ricochet",
+      "リコシェ",
+      "닉크"
+    ],
+    "titles": {
+      "ko": "닉크",
+      "en": "Ricochet",
+      "ja": "リコシェ"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000166",
+    "title": "다크 나이트",
+    "shardId": "movie_66",
+    "category": "movie",
+    "domain": "generalCulture",
+    "creator": "크리스토퍼 놀란",
+    "tags": [
+      "히어로",
+      "범죄",
+      "스릴러",
+      "명작"
+    ],
+    "searchTokens": [
+      "다크 나이트",
+      "다크나이트",
+      "명작",
+      "범죄",
+      "스릴러",
+      "크리스토퍼 놀란",
+      "크리스토퍼놀란",
+      "히어로"
+    ],
+    "titles": {
+      "ko": "다크 나이트"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000000167",
+    "title": "대부",
+    "shardId": "movie_74",
+    "category": "movie",
+    "domain": "generalCulture",
+    "creator": "프란시스 포드 코폴라",
+    "tags": [
+      "범죄",
+      "가족",
+      "명작",
+      "드라마"
+    ],
+    "searchTokens": [
+      "가족",
+      "대부",
+      "드라마",
+      "명작",
+      "범죄",
+      "프란시스 포드 코폴라",
+      "프란시스포드코폴라"
+    ],
+    "titles": {
+      "ko": "대부"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000001339",
+    "title": "더 길티",
+    "shardId": "movie_58",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "THE GUILTY／ギルティ",
+      "The Guilty",
+      "theguilty",
+      "theguiltyギルティ",
+      "더 길티",
+      "더길티"
+    ],
+    "titles": {
+      "ko": "더 길티",
+      "en": "The Guilty",
+      "ja": "THE GUILTY／ギルティ"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000165",
+    "title": "더 배트맨",
+    "shardId": "movie_79",
+    "category": "movie",
+    "domain": "generalCulture",
+    "creator": "Matt Reeves",
+    "tags": [
+      "영화",
+      "대중문화"
+    ],
+    "searchTokens": [
+      "Matt Reeves",
+      "mattreeves",
+      "대중문화",
+      "더 배트맨",
+      "더배트맨",
+      "영화"
+    ],
+    "titles": {
+      "ko": "더 배트맨"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000001992",
+    "title": "더 스타 메이커",
+    "shardId": "movie_12",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "The Star Maker",
+      "thestarmaker",
+      "더 스타 메이커",
+      "더스타메이커"
+    ],
+    "titles": {
+      "ko": "더 스타 메이커",
+      "en": "The Star Maker"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001435",
+    "title": "더 스토닝",
+    "shardId": "movie_2f",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "The Stoning of Soraya M.",
+      "thestoningofsorayam.",
+      "더 스토닝",
+      "더스토닝"
+    ],
+    "titles": {
+      "ko": "더 스토닝",
+      "en": "The Stoning of Soraya M."
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001524",
+    "title": "더티 맨",
+    "shardId": "movie_fd",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "The Super",
+      "thesuper",
+      "ニューヨークのいたずら",
+      "더티 맨",
+      "더티맨"
+    ],
+    "titles": {
+      "ko": "더티 맨",
+      "en": "The Super",
+      "ja": "ニューヨークのいたずら"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001436",
+    "title": "데드풀과 울버린",
+    "shardId": "movie_03",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Deadpool & Wolverine",
+      "deadpool&wolverine",
+      "デッドプール&ウルヴァリン",
+      "데드풀과 울버린",
+      "데드풀과울버린"
+    ],
+    "titles": {
+      "ko": "데드풀과 울버린",
+      "en": "Deadpool & Wolverine",
+      "ja": "デッドプール&ウルヴァリン"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001768",
+    "title": "데스 레이스",
+    "shardId": "movie_0a",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Death Race",
+      "deathrace",
+      "デスレース",
+      "デス・レース",
+      "데스 레이스",
+      "데스레이스"
+    ],
+    "titles": {
+      "ko": "데스 레이스",
+      "en": "Death Race",
+      "ja": "デス・レース"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001333",
+    "title": "도학위룡 3",
+    "shardId": "movie_85",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Fight Back to School III",
+      "fightbacktoschooliii",
+      "ファイトバックトゥスクール３秘密指令は氷の微笑",
+      "ファイト・バック・トゥ・スクール３　秘密指令は氷の微笑",
+      "도학위룡 3",
+      "도학위룡3"
+    ],
+    "titles": {
+      "ko": "도학위룡 3",
+      "en": "Fight Back to School III",
+      "ja": "ファイト・バック・トゥ・スクール３　秘密指令は氷の微笑"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000747",
+    "title": "돈 룩 업",
+    "shardId": "movie_6b",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Don't Look Up",
+      "don'tlookup",
+      "ドントルックアップ",
+      "ドント・ルック・アップ",
+      "돈 룩 업",
+      "돈룩업"
+    ],
+    "titles": {
+      "ko": "돈 룩 업",
+      "en": "Don't Look Up",
+      "ja": "ドント・ルック・アップ"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000983",
+    "title": "돈 워리 달링",
+    "shardId": "movie_70",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Don't Worry Darling",
+      "don'tworrydarling",
+      "ドントウォーリーダーリング",
+      "ドント・ウォーリー・ダーリング",
+      "돈 워리 달링",
+      "돈워리달링"
+    ],
+    "titles": {
+      "ko": "돈 워리 달링",
+      "en": "Don't Worry Darling",
+      "ja": "ドント・ウォーリー・ダーリング"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001183",
+    "title": "돌고래와 헤엄치기",
+    "shardId": "movie_de",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Diving with Dolphins",
+      "divingwithdolphins",
+      "돌고래와 헤엄치기",
+      "돌고래와헤엄치기"
+    ],
+    "titles": {
+      "ko": "돌고래와 헤엄치기",
+      "en": "Diving with Dolphins"
+    },
+    "qualityScore": 50,
+    "qualityTier": 2
+  },
+  {
+    "workId": "wk_000000930",
+    "title": "듀얼",
+    "shardId": "movie_65",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Dual",
+      "dual",
+      "デュアル",
+      "듀얼"
+    ],
+    "titles": {
+      "ko": "듀얼",
+      "en": "Dual",
+      "ja": "デュアル"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000152",
+    "title": "듄",
+    "shardId": "movie_f6",
+    "category": "movie",
+    "domain": "generalCulture",
+    "creator": "Denis Villeneuve",
+    "tags": [
+      "영화",
+      "대중문화"
+    ],
+    "searchTokens": [
+      "Denis Villeneuve",
+      "denisvilleneuve",
+      "대중문화",
+      "듄",
+      "영화"
+    ],
+    "titles": {
+      "ko": "듄"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000000804",
+    "title": "드림",
+    "shardId": "movie_8f",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Dream",
+      "dream",
+      "ドリーム",
+      "드림"
+    ],
+    "titles": {
+      "ko": "드림",
+      "en": "Dream",
+      "ja": "ドリーム"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000927",
+    "title": "디 아더 사이드",
+    "shardId": "movie_5b",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "The Evil Next Door",
+      "theevilnextdoor",
+      "디 아더 사이드",
+      "디아더사이드"
+    ],
+    "titles": {
+      "ko": "디 아더 사이드",
+      "en": "The Evil Next Door"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001127",
+    "title": "떠도는 남자",
+    "shardId": "movie_bd",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "No Land's Man",
+      "noland'sman",
+      "떠도는 남자",
+      "떠도는남자"
+    ],
+    "titles": {
+      "ko": "떠도는 남자",
+      "en": "No Land's Man"
+    },
+    "qualityScore": 50,
+    "qualityTier": 2
+  },
+  {
+    "workId": "wk_000001990",
+    "title": "럭키 몬스터",
+    "shardId": "movie_27",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Lucky Monster",
+      "luckymonster",
+      "럭키 몬스터",
+      "럭키몬스터"
+    ],
+    "titles": {
+      "ko": "럭키 몬스터",
+      "en": "Lucky Monster"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001133",
+    "title": "레지던트 이블: 웰컴 투 라쿤 시티",
+    "shardId": "movie_c4",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Resident Evil: Welcome to Raccoon City",
+      "residentevilwelcometoraccooncity",
+      "バイオハザード: ウェルカム・トゥ・ラクーンシティ",
+      "バイオハザードウェルカムトゥラクーンシティ",
+      "레지던트 이블: 웰컴 투 라쿤 시티",
+      "레지던트이블웰컴투라쿤시티"
+    ],
+    "titles": {
+      "ko": "레지던트 이블: 웰컴 투 라쿤 시티",
+      "en": "Resident Evil: Welcome to Raccoon City",
+      "ja": "バイオハザード: ウェルカム・トゥ・ラクーンシティ"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000985",
+    "title": "리오 브라보",
+    "shardId": "movie_a2",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Rio Bravo",
+      "riobravo",
+      "リオブラボー",
+      "リオ・ブラボー",
+      "리오 브라보",
+      "리오브라보"
+    ],
+    "titles": {
+      "ko": "리오 브라보",
+      "en": "Rio Bravo",
+      "ja": "リオ・ブラボー"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001397",
+    "title": "리커리쉬 피자",
+    "shardId": "movie_98",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Licorice Pizza",
+      "licoricepizza",
+      "リコリスピザ",
+      "リコリス・ピザ",
+      "리커리쉬 피자",
+      "리커리쉬피자"
+    ],
+    "titles": {
+      "ko": "리커리쉬 피자",
+      "en": "Licorice Pizza",
+      "ja": "リコリス・ピザ"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000863",
+    "title": "릴라의 문",
+    "shardId": "movie_b2",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Gates of Paris",
+      "gatesofparis",
+      "リラの門",
+      "릴라의 문",
+      "릴라의문"
+    ],
+    "titles": {
+      "ko": "릴라의 문",
+      "en": "Gates of Paris",
+      "ja": "リラの門"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000625",
+    "title": "마더링 선데이",
+    "shardId": "movie_0e",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Mothering Sunday",
+      "motheringsunday",
+      "マザリングサンデー",
+      "マザリング・サンデー",
+      "마더링 선데이",
+      "마더링선데이"
+    ],
+    "titles": {
+      "ko": "마더링 선데이",
+      "en": "Mothering Sunday",
+      "ja": "マザリング・サンデー"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000862",
+    "title": "마리와 강아지 이야기",
+    "shardId": "movie_1b",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "A Tale of Mari and Three Puppies",
+      "ataleofmariandthreepuppies",
+      "マリと子犬の物語",
+      "마리와 강아지 이야기",
+      "마리와강아지이야기"
+    ],
+    "titles": {
+      "ko": "마리와 강아지 이야기",
+      "en": "A Tale of Mari and Three Puppies",
+      "ja": "マリと子犬の物語"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001832",
+    "title": "망각의 땅",
+    "shardId": "movie_9f",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "The Land That Time Forgot",
+      "thelandthattimeforgot",
+      "恐竜の島",
+      "망각의 땅",
+      "망각의땅"
+    ],
+    "titles": {
+      "ko": "망각의 땅",
+      "en": "The Land That Time Forgot",
+      "ja": "恐竜の島"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000806",
+    "title": "매란방",
+    "shardId": "movie_0c",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Forever Enthralled",
+      "foreverenthralled",
+      "花の生涯〜梅蘭芳〜",
+      "매란방"
+    ],
+    "titles": {
+      "ko": "매란방",
+      "en": "Forever Enthralled",
+      "ja": "花の生涯〜梅蘭芳〜"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000168",
+    "title": "매트릭스",
+    "shardId": "movie_39",
+    "category": "movie",
+    "domain": "generalCulture",
+    "creator": "워쇼스키 자매 (The Wachowskis)",
+    "tags": [
+      "사이버펑크",
+      "SF",
+      "액션",
+      "철학"
+    ],
+    "searchTokens": [
+      "SF",
+      "sf",
+      "매트릭스",
+      "사이버펑크",
+      "액션",
+      "워쇼스키 자매 (The Wachowskis)",
+      "워쇼스키자매(thewachowskis)",
+      "철학"
+    ],
+    "titles": {
+      "ko": "매트릭스"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000000928",
+    "title": "맨 인 더 다크 2",
+    "shardId": "movie_9b",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Don't Breathe 2",
+      "don'tbreathe2",
+      "ドントブリーズ2",
+      "ドント・ブリーズ2",
+      "맨 인 더 다크 2",
+      "맨인더다크2"
+    ],
+    "titles": {
+      "ko": "맨 인 더 다크 2",
+      "en": "Don't Breathe 2",
+      "ja": "ドント・ブリーズ2"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001178",
+    "title": "맨 프롬 토론토",
+    "shardId": "movie_d3",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "The Man from Toronto",
+      "themanfromtoronto",
+      "トロントから来た男",
+      "맨 프롬 토론토",
+      "맨프롬토론토"
+    ],
+    "titles": {
+      "ko": "맨 프롬 토론토",
+      "en": "The Man from Toronto",
+      "ja": "トロントから来た男"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001994",
+    "title": "바람의 검심 최종장: 더 파이널",
+    "shardId": "movie_96",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Rurouni Kenshin: The Final",
+      "rurounikenshinthefinal",
+      "るろうに剣心 最終章 The Final",
+      "るろうに剣心最終章thefinal",
+      "바람의 검심 최종장: 더 파이널",
+      "바람의검심최종장더파이널"
+    ],
+    "titles": {
+      "ko": "바람의 검심 최종장: 더 파이널",
+      "en": "Rurouni Kenshin: The Final",
+      "ja": "るろうに剣心 最終章 The Final"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000151",
+    "title": "바비",
+    "shardId": "movie_61",
+    "category": "movie",
+    "domain": "generalCulture",
+    "creator": "Greta Gerwig",
+    "tags": [
+      "영화",
+      "대중문화"
+    ],
+    "searchTokens": [
+      "Greta Gerwig",
+      "gretagerwig",
+      "대중문화",
+      "바비",
+      "영화"
+    ],
+    "titles": {
+      "ko": "바비"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000001343",
+    "title": "바이 바이 러브",
+    "shardId": "movie_c4",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Bye Bye Love",
+      "byebyelove",
+      "バイバイラブ",
+      "バイバイ・ラブ",
+      "바이 바이 러브",
+      "바이바이러브"
+    ],
+    "titles": {
+      "ko": "바이 바이 러브",
+      "en": "Bye Bye Love",
+      "ja": "バイバイ・ラブ"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001344",
+    "title": "바이 바이 버디",
+    "shardId": "movie_39",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Bye Bye Birdie",
+      "byebyebirdie",
+      "バイバイバーディー",
+      "バイ・バイ・バーディー",
+      "바이 바이 버디",
+      "바이바이버디"
+    ],
+    "titles": {
+      "ko": "바이 바이 버디",
+      "en": "Bye Bye Birdie",
+      "ja": "バイ・バイ・バーディー"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001935",
+    "title": "바젠다 스토리즈",
+    "shardId": "movie_a3",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Vagenda Stories",
+      "vagendastories",
+      "바젠다 스토리즈",
+      "바젠다스토리즈"
+    ],
+    "titles": {
+      "ko": "바젠다 스토리즈",
+      "en": "Vagenda Stories"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000158",
+    "title": "반지의 제왕: 반지 원정대",
+    "shardId": "movie_f2",
+    "category": "movie",
+    "domain": "generalCulture",
+    "creator": "피터 잭슨",
+    "tags": [
+      "판타지",
+      "모험",
+      "명작",
+      "서사"
+    ],
+    "searchTokens": [
+      "Lord of the Rings",
+      "The Fellowship of the Ring",
+      "The Lord of the Rings",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "lordoftherings",
+      "thefellowshipofthering",
+      "thelordoftherings",
+      "thelordoftheringsthefellowshipofthering",
+      "명작",
+      "모험",
+      "반지의 제왕: 반지 원정대",
+      "반지의제왕반지원정대",
+      "서사",
+      "판타지",
+      "피터 잭슨",
+      "피터잭슨"
+    ],
+    "titles": {
+      "ko": "반지의 제왕: 반지 원정대",
+      "en": "The Lord of the Rings: The Fellowship of the Ring"
+    },
+    "qualityScore": 100,
+    "qualityTier": 5
+  },
+  {
+    "workId": "wk_000000623",
+    "title": "버그",
+    "shardId": "movie_b7",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "BUG/バグ",
+      "Bug",
+      "bug",
+      "bugバグ",
+      "버그"
+    ],
+    "titles": {
+      "ko": "버그",
+      "en": "Bug",
+      "ja": "BUG/バグ"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001338",
+    "title": "버마 VJ",
+    "shardId": "movie_ae",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Burma VJ",
+      "burmavj",
+      "ビルマVJ 消された革命",
+      "ビルマvj消された革命",
+      "버마 VJ",
+      "버마vj"
+    ],
+    "titles": {
+      "ko": "버마 VJ",
+      "en": "Burma VJ",
+      "ja": "ビルマVJ 消された革命"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000861",
+    "title": "버머",
+    "shardId": "movie_27",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Bumer",
+      "bumer",
+      "버머"
+    ],
+    "titles": {
+      "ko": "버머",
+      "en": "Bumer"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001337",
+    "title": "버크 앤 헤어",
+    "shardId": "movie_bb",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Burke & Hare",
+      "burke&hare",
+      "バーク アンド ヘア",
+      "バークアンドヘア",
+      "버크 앤 헤어",
+      "버크앤헤어"
+    ],
+    "titles": {
+      "ko": "버크 앤 헤어",
+      "en": "Burke & Hare",
+      "ja": "バーク アンド ヘア"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001340",
+    "title": "버터 러버",
+    "shardId": "movie_c7",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Butter",
+      "butter",
+      "カワイイ私の作り方 全米バター細工選手権!",
+      "カワイイ私の作り方全米バター細工選手権!",
+      "버터 러버",
+      "버터러버"
+    ],
+    "titles": {
+      "ko": "버터 러버",
+      "en": "Butter",
+      "ja": "カワイイ私の作り方 全米バター細工選手権!"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000622",
+    "title": "버팔로 66",
+    "shardId": "movie_9b",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Buffalo '66",
+      "buffalo'66",
+      "バッファロー'66",
+      "버팔로 66",
+      "버팔로66"
+    ],
+    "titles": {
+      "ko": "버팔로 66",
+      "en": "Buffalo '66",
+      "ja": "バッファロー'66"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000511",
+    "title": "버팔로 빌과 인디언들",
+    "shardId": "movie_72",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Buffalo Bill and the Indians, or Sitting Bull's History Lesson",
+      "buffalobillandtheindians,orsittingbull'shistorylesson",
+      "ビッグアメリカン",
+      "ビッグ・アメリカン",
+      "버팔로 빌과 인디언들",
+      "버팔로빌과인디언들"
+    ],
+    "titles": {
+      "ko": "버팔로 빌과 인디언들",
+      "en": "Buffalo Bill and the Indians, or Sitting Bull's History Lesson",
+      "ja": "ビッグ・アメリカン"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001430",
+    "title": "벨로시랩터",
+    "shardId": "movie_5f",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Velociraptor",
+      "velociraptor",
+      "벨로시랩터"
+    ],
+    "titles": {
+      "ko": "벨로시랩터",
+      "en": "Velociraptor"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000931",
+    "title": "벨파스트",
+    "shardId": "movie_43",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Belfast",
+      "belfast",
+      "ベルファスト",
+      "벨파스트"
+    ],
+    "titles": {
+      "ko": "벨파스트",
+      "en": "Belfast",
+      "ja": "ベルファスト"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000510",
+    "title": "부에노스 아이레스 1977",
+    "shardId": "movie_af",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Chronicle of an Escape",
+      "chronicleofanescape",
+      "부에노스 아이레스 1977",
+      "부에노스아이레스1977"
+    ],
+    "titles": {
+      "ko": "부에노스 아이레스 1977",
+      "en": "Chronicle of an Escape"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000860",
+    "title": "불리",
+    "shardId": "movie_bf",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "BULLY ブリー",
+      "Bully",
+      "bully",
+      "bullyブリー",
+      "불리"
+    ],
+    "titles": {
+      "ko": "불리",
+      "en": "Bully",
+      "ja": "BULLY ブリー"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000859",
+    "title": "브로드웨이를 쏴라",
+    "shardId": "movie_16",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Bullets Over Broadway",
+      "bulletsoverbroadway",
+      "ブロードウェイと銃弾",
+      "브로드웨이를 쏴라",
+      "브로드웨이를쏴라"
+    ],
+    "titles": {
+      "ko": "브로드웨이를 쏴라",
+      "en": "Bullets Over Broadway",
+      "ja": "ブロードウェイと銃弾"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001181",
+    "title": "브루탈리스트",
+    "shardId": "movie_f5",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "The Brutalist",
+      "thebrutalist",
+      "ブルータリスト",
+      "브루탈리스트"
+    ],
+    "titles": {
+      "ko": "브루탈리스트",
+      "en": "The Brutalist",
+      "ja": "ブルータリスト"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001434",
+    "title": "비크람",
+    "shardId": "movie_90",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Vikram",
+      "vikram",
+      "ヴィクラム",
+      "비크람"
+    ],
+    "titles": {
+      "ko": "비크람",
+      "en": "Vikram",
+      "ja": "ヴィクラム"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001396",
+    "title": "사기도 리콜이 되나요",
+    "shardId": "movie_bc",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "The Con-Heartist",
+      "theconheartist",
+      "愛しい詐欺師",
+      "사기도 리콜이 되나요",
+      "사기도리콜이되나요"
+    ],
+    "titles": {
+      "ko": "사기도 리콜이 되나요",
+      "en": "The Con-Heartist",
+      "ja": "愛しい詐欺師"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001710",
+    "title": "사랑은 방울방울",
+    "shardId": "movie_a2",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Love Me, Love My Money",
+      "loveme,lovemymoney",
+      "ラブイズマネー",
+      "ラブ・イズ・マネー",
+      "사랑은 방울방울",
+      "사랑은방울방울"
+    ],
+    "titles": {
+      "ko": "사랑은 방울방울",
+      "en": "Love Me, Love My Money",
+      "ja": "ラブ・イズ・マネー"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000980",
+    "title": "살육 호텔",
+    "shardId": "movie_89",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Cadaver",
+      "cadaver",
+      "殺人ホテル",
+      "살육 호텔",
+      "살육호텔"
+    ],
+    "titles": {
+      "ko": "살육 호텔",
+      "en": "Cadaver",
+      "ja": "殺人ホテル"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000865",
+    "title": "삼진그룹 영어토익반",
+    "shardId": "movie_66",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Samjin Company English Class",
+      "samjincompanyenglishclass",
+      "三振グループの英語、TOEICの半分",
+      "三振グループの英語、toeicの半分",
+      "삼진그룹 영어토익반",
+      "삼진그룹영어토익반"
+    ],
+    "titles": {
+      "ko": "삼진그룹 영어토익반",
+      "en": "Samjin Company English Class",
+      "ja": "三振グループの英語、TOEICの半分"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001989",
+    "title": "서울 트레인",
+    "shardId": "movie_85",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Seoul Train",
+      "seoultrain",
+      "ソウルトレイン",
+      "ソウル・トレイン",
+      "서울 트레인",
+      "서울트레인"
+    ],
+    "titles": {
+      "ko": "서울 트레인",
+      "en": "Seoul Train",
+      "ja": "ソウル・トレイン"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000164",
+    "title": "센과 치히로의 행방불명",
+    "shardId": "movie_ef",
+    "category": "movie",
+    "domain": "generalCulture",
+    "creator": "미야자키 하야오",
+    "tags": [
+      "애니메이션",
+      "판타지",
+      "가족",
+      "명작"
+    ],
+    "searchTokens": [
+      "가족",
+      "명작",
+      "미야자키 하야오",
+      "미야자키하야오",
+      "센과 치히로의 행방불명",
+      "센과치히로의행방불명",
+      "애니메이션",
+      "판타지"
+    ],
+    "titles": {
+      "ko": "센과 치히로의 행방불명"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000001932",
+    "title": "스왈로우테일 버터플라이",
+    "shardId": "movie_a3",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Swallowtail",
+      "swallowtail",
+      "スワロウテイル",
+      "스왈로우테일 버터플라이",
+      "스왈로우테일버터플라이"
+    ],
+    "titles": {
+      "ko": "스왈로우테일 버터플라이",
+      "en": "Swallowtail",
+      "ja": "スワロウテイル"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001130",
+    "title": "스카이라인 3",
+    "shardId": "movie_1f",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Skylines",
+      "skylines",
+      "スカイライン -逆襲-",
+      "スカイライン逆襲",
+      "스카이라인 3",
+      "스카이라인3"
+    ],
+    "titles": {
+      "ko": "스카이라인 3",
+      "en": "Skylines",
+      "ja": "スカイライン -逆襲-"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001186",
+    "title": "스크랫 미싱 어드벤쳐",
+    "shardId": "movie_e7",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Gone Nutty",
+      "gonenutty",
+      "どんぐりとスクラット",
+      "스크랫 미싱 어드벤쳐",
+      "스크랫미싱어드벤쳐"
+    ],
+    "titles": {
+      "ko": "스크랫 미싱 어드벤쳐",
+      "en": "Gone Nutty",
+      "ja": "どんぐりとスクラット"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001431",
+    "title": "스테이지 도어",
+    "shardId": "movie_e0",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Stage Door",
+      "stagedoor",
+      "ステージドア",
+      "ステージ・ドア",
+      "스테이지 도어",
+      "스테이지도어"
+    ],
+    "titles": {
+      "ko": "스테이지 도어",
+      "en": "Stage Door",
+      "ja": "ステージ・ドア"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000163",
+    "title": "스파이더맨: 노 웨이 홈",
+    "shardId": "movie_e1",
+    "category": "movie",
+    "domain": "generalCulture",
+    "creator": "Jon Watts",
+    "tags": [
+      "영화",
+      "대중문화"
+    ],
+    "searchTokens": [
+      "Jon Watts",
+      "jonwatts",
+      "대중문화",
+      "스파이더맨: 노 웨이 홈",
+      "스파이더맨노웨이홈",
+      "영화"
+    ],
+    "titles": {
+      "ko": "스파이더맨: 노 웨이 홈"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000001769",
+    "title": "스피드 존",
+    "shardId": "movie_1f",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Speed Zone!",
+      "speedzone!",
+      "キャノンボール3 新しき挑戦者たち",
+      "キャノンボール3新しき挑戦者たち",
+      "스피드 존",
+      "스피드존"
+    ],
+    "titles": {
+      "ko": "스피드 존",
+      "en": "Speed Zone!",
+      "ja": "キャノンボール3 新しき挑戦者たち"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001770",
+    "title": "시간과 바람",
+    "shardId": "movie_f3",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Time and the Wind",
+      "timeandthewind",
+      "시간과 바람",
+      "시간과바람"
+    ],
+    "titles": {
+      "ko": "시간과 바람",
+      "en": "Time and the Wind"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001526",
+    "title": "싱글 인 서울",
+    "shardId": "movie_2c",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Single in Seoul",
+      "singleinseoul",
+      "シングルインソウル",
+      "シングル・イン・ソウル",
+      "싱글 인 서울",
+      "싱글인서울"
+    ],
+    "titles": {
+      "ko": "싱글 인 서울",
+      "en": "Single in Seoul",
+      "ja": "シングル・イン・ソウル"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001711",
+    "title": "아니, 아니, 지휘의 헛된 영광",
+    "shardId": "movie_6c",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "No, or the Vain Glory of Command",
+      "no,orthevaingloryofcommand",
+      "ノン、あるいは支配の空しい栄光",
+      "아니, 아니, 지휘의 헛된 영광",
+      "아니,아니,지휘의헛된영광"
+    ],
+    "titles": {
+      "ko": "아니, 아니, 지휘의 헛된 영광",
+      "en": "No, or the Vain Glory of Command",
+      "ja": "ノン、あるいは支配の空しい栄光"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000679",
+    "title": "아담스 패밀리 2",
+    "shardId": "movie_e8",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "The Addams Family 2",
+      "theaddamsfamily2",
+      "アダムスファミリー2アメリカ横断旅行!",
+      "アダムス・ファミリー2 アメリカ横断旅行!",
+      "아담스 패밀리 2",
+      "아담스패밀리2"
+    ],
+    "titles": {
+      "ko": "아담스 패밀리 2",
+      "en": "The Addams Family 2",
+      "ja": "アダムス・ファミリー2 アメリカ横断旅行!"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000621",
+    "title": "안나 성당의 기적",
+    "shardId": "movie_29",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Miracle at St. Anna",
+      "miracleatst.anna",
+      "セントアンナの奇跡",
+      "안나 성당의 기적",
+      "안나성당의기적"
+    ],
+    "titles": {
+      "ko": "안나 성당의 기적",
+      "en": "Miracle at St. Anna",
+      "ja": "セントアンナの奇跡"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001128",
+    "title": "애비규환",
+    "shardId": "movie_e4",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "More Than Family",
+      "morethanfamily",
+      "애비규환"
+    ],
+    "titles": {
+      "ko": "애비규환",
+      "en": "More Than Family"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001398",
+    "title": "어메이징 모리스",
+    "shardId": "movie_d6",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "The Amazing Maurice",
+      "theamazingmaurice",
+      "天才ねこモーリスとゆかいな仲間たち",
+      "어메이징 모리스",
+      "어메이징모리스"
+    ],
+    "titles": {
+      "ko": "어메이징 모리스",
+      "en": "The Amazing Maurice",
+      "ja": "天才ねこモーリスとゆかいな仲間たち"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000150",
+    "title": "어벤져스: 엔드게임",
+    "shardId": "movie_b6",
+    "category": "movie",
+    "domain": "generalCulture",
+    "creator": "루소 형제",
+    "tags": [
+      "히어로",
+      "액션",
+      "SF",
+      "MCU"
+    ],
+    "searchTokens": [
+      "MCU",
+      "SF",
+      "mcu",
+      "sf",
+      "루소 형제",
+      "루소형제",
+      "액션",
+      "어벤져스: 엔드게임",
+      "어벤져스엔드게임",
+      "히어로"
+    ],
+    "titles": {
+      "ko": "어벤져스: 엔드게임"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000001930",
+    "title": "언더 더 쎄임 문",
+    "shardId": "movie_05",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Under the Same Moon",
+      "underthesamemoon",
+      "언더 더 쎄임 문",
+      "언더더쎄임문"
+    ],
+    "titles": {
+      "ko": "언더 더 쎄임 문",
+      "en": "Under the Same Moon"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001433",
+    "title": "언더 마이 스킨",
+    "shardId": "movie_b2",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Under My Skin",
+      "undermyskin",
+      "언더 마이 스킨",
+      "언더마이스킨"
+    ],
+    "titles": {
+      "ko": "언더 마이 스킨",
+      "en": "Under My Skin"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000624",
+    "title": "엄마",
+    "shardId": "movie_fb",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Umma",
+      "umma",
+      "オンマ/呪縛",
+      "オンマ呪縛",
+      "엄마"
+    ],
+    "titles": {
+      "ko": "엄마",
+      "en": "Umma",
+      "ja": "オンマ/呪縛"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000153",
+    "title": "에브리씽 에브리웨어",
+    "shardId": "movie_35",
+    "category": "movie",
+    "domain": "generalCulture",
+    "creator": "Daniels",
+    "tags": [
+      "영화",
+      "대중문화"
+    ],
+    "searchTokens": [
+      "Daniels",
+      "daniels",
+      "대중문화",
+      "에브리씽 에브리웨어",
+      "에브리씽에브리웨어",
+      "영화"
+    ],
+    "titles": {
+      "ko": "에브리씽 에브리웨어"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000001929",
+    "title": "에이리언",
+    "shardId": "movie_eb",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Alien",
+      "alien",
+      "エイリアン",
+      "에이리언"
+    ],
+    "titles": {
+      "ko": "에이리언",
+      "en": "Alien",
+      "ja": "エイリアン"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001426",
+    "title": "엽문 리부트 2020",
+    "shardId": "movie_93",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Ip Man: Kung Fu Master",
+      "ipmankungfumaster",
+      "イップマン宗師",
+      "イップ・マン 宗師",
+      "엽문 리부트 2020",
+      "엽문리부트2020"
+    ],
+    "titles": {
+      "ko": "엽문 리부트 2020",
+      "en": "Ip Man: Kung Fu Master",
+      "ja": "イップ・マン 宗師"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001427",
+    "title": "엽표행동",
+    "shardId": "movie_00",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Cheetah on Fire",
+      "cheetahonfire",
+      "엽표행동"
+    ],
+    "titles": {
+      "ko": "엽표행동",
+      "en": "Cheetah on Fire"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001236",
+    "title": "오펀: 퍼스트 킬",
+    "shardId": "movie_fc",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Orphan: First Kill",
+      "orphanfirstkill",
+      "エスター ファースト・キル",
+      "エスターファーストキル",
+      "오펀: 퍼스트 킬",
+      "오펀퍼스트킬"
+    ],
+    "titles": {
+      "ko": "오펀: 퍼스트 킬",
+      "en": "Orphan: First Kill",
+      "ja": "エスター ファースト・キル"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000159",
+    "title": "오펜하이머",
+    "shardId": "movie_b2",
+    "category": "movie",
+    "domain": "generalCulture",
+    "creator": "Christopher Nolan",
+    "tags": [
+      "영화",
+      "대중문화"
+    ],
+    "searchTokens": [
+      "Christopher Nolan",
+      "christophernolan",
+      "대중문화",
+      "영화",
+      "오펜하이머"
+    ],
+    "titles": {
+      "ko": "오펜하이머"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000001829",
+    "title": "욕망의 파라다이스",
+    "shardId": "movie_d5",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Artificial Paradises",
+      "artificialparadises",
+      "욕망의 파라다이스",
+      "욕망의파라다이스"
+    ],
+    "titles": {
+      "ko": "욕망의 파라다이스",
+      "en": "Artificial Paradises"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001828",
+    "title": "용루각: 비정도시",
+    "shardId": "movie_db",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Dragon Inn Part 1: The City of Sadness",
+      "dragoninnpart1thecityofsadness",
+      "龍楼閣 非情都市",
+      "龍楼閣非情都市",
+      "용루각: 비정도시",
+      "용루각비정도시"
+    ],
+    "titles": {
+      "ko": "용루각: 비정도시",
+      "en": "Dragon Inn Part 1: The City of Sadness",
+      "ja": "龍楼閣 非情都市"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001132",
+    "title": "원더랜드",
+    "shardId": "movie_b9",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Wonderland",
+      "wonderland",
+      "ワンダーランド",
+      "원더랜드"
+    ],
+    "titles": {
+      "ko": "원더랜드",
+      "en": "Wonderland",
+      "ja": "ワンダーランド"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001927",
+    "title": "월터와 프랭크",
+    "shardId": "movie_b9",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Wrestling Ernest Hemingway",
+      "wrestlingernesthemingway",
+      "潮風とベーコンサンドとヘミングウェイ",
+      "월터와 프랭크",
+      "월터와프랭크"
+    ],
+    "titles": {
+      "ko": "월터와 프랭크",
+      "en": "Wrestling Ernest Hemingway",
+      "ja": "潮風とベーコンサンドとヘミングウェイ"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000984",
+    "title": "위플래쉬",
+    "shardId": "movie_b6",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Whiplash",
+      "whiplash",
+      "위플래쉬"
+    ],
+    "titles": {
+      "ko": "위플래쉬",
+      "en": "Whiplash"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000929",
+    "title": "유랑북경",
+    "shardId": "movie_1a",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Bumming in Beijing: The Last Dreamers",
+      "bumminginbeijingthelastdreamers",
+      "유랑북경"
+    ],
+    "titles": {
+      "ko": "유랑북경",
+      "en": "Bumming in Beijing: The Last Dreamers"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000509",
+    "title": "이연걸의 정무문",
+    "shardId": "movie_d5",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Fist of Legend",
+      "fistoflegend",
+      "フィストオブレジェンド",
+      "フィスト・オブ・レジェンド",
+      "이연걸의 정무문",
+      "이연걸의정무문"
+    ],
+    "titles": {
+      "ko": "이연걸의 정무문",
+      "en": "Fist of Legend",
+      "ja": "フィスト・オブ・レジェンド"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001129",
+    "title": "인생은 아름다워",
+    "shardId": "movie_c7",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Life Is Beautiful",
+      "lifeisbeautiful",
+      "人生は、美しい",
+      "인생은 아름다워",
+      "인생은아름다워"
+    ],
+    "titles": {
+      "ko": "인생은 아름다워",
+      "en": "Life Is Beautiful",
+      "ja": "人生は、美しい"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000156",
+    "title": "인셉션",
+    "shardId": "movie_9c",
+    "category": "movie",
+    "domain": "generalCulture",
+    "creator": "크리스토퍼 놀란",
+    "tags": [
+      "SF",
+      "스릴러",
+      "꿈",
+      "액션"
+    ],
+    "searchTokens": [
+      "SF",
+      "sf",
+      "꿈",
+      "스릴러",
+      "액션",
+      "인셉션",
+      "크리스토퍼 놀란",
+      "크리스토퍼놀란"
+    ],
+    "titles": {
+      "ko": "인셉션"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000000157",
+    "title": "인터스텔라",
+    "shardId": "movie_0f",
+    "category": "movie",
+    "domain": "generalCulture",
+    "creator": "크리스토퍼 놀란 (Christopher Nolan)",
+    "tags": [
+      "SF",
+      "우주",
+      "가족",
+      "블랙홀"
+    ],
+    "searchTokens": [
+      "SF",
+      "sf",
+      "가족",
+      "블랙홀",
+      "우주",
+      "인터스텔라",
+      "크리스토퍼 놀란 (Christopher Nolan)",
+      "크리스토퍼놀란(christophernolan)"
+    ],
+    "titles": {
+      "ko": "인터스텔라"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000001934",
+    "title": "자산어보",
+    "shardId": "movie_f3",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "The Book of Fish",
+      "thebookoffish",
+      "茲山魚譜",
+      "자산어보"
+    ],
+    "titles": {
+      "ko": "자산어보",
+      "en": "The Book of Fish",
+      "ja": "茲山魚譜"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000508",
+    "title": "잔 다라",
+    "shardId": "movie_dd",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Jan Dara",
+      "jandara",
+      "잔 다라",
+      "잔다라"
+    ],
+    "titles": {
+      "ko": "잔 다라",
+      "en": "Jan Dara"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001827",
+    "title": "잔칫날",
+    "shardId": "movie_fc",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Festival",
+      "festival",
+      "잔칫날"
+    ],
+    "titles": {
+      "ko": "잔칫날",
+      "en": "Festival"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001472",
+    "title": "적나고양",
+    "shardId": "movie_98",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Naked Killer",
+      "nakedkiller",
+      "香港淫殺倶楽部/ポイズン・ガールズ あぶないカ・ラ・ダ",
+      "香港淫殺倶楽部ポイズンガールズあぶないカラダ",
+      "적나고양"
+    ],
+    "titles": {
+      "ko": "적나고양",
+      "en": "Naked Killer",
+      "ja": "香港淫殺倶楽部/ポイズン・ガールズ あぶないカ・ラ・ダ"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001709",
+    "title": "전국자위대",
+    "shardId": "movie_e9",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "G.I. Samurai",
+      "g.i.samurai",
+      "戦国自衛隊",
+      "전국자위대"
+    ],
+    "titles": {
+      "ko": "전국자위대",
+      "en": "G.I. Samurai",
+      "ja": "戦国自衛隊"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001766",
+    "title": "전쟁의 선언",
+    "shardId": "movie_e7",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Declaration of War",
+      "declarationofwar",
+      "わたしたちの宣戦布告",
+      "전쟁의 선언",
+      "전쟁의선언"
+    ],
+    "titles": {
+      "ko": "전쟁의 선언",
+      "en": "Declaration of War",
+      "ja": "わたしたちの宣戦布告"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001474",
+    "title": "접변",
+    "shardId": "movie_9c",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "The Butterfly Murders",
+      "thebutterflymurders",
+      "蝶變",
+      "접변"
+    ],
+    "titles": {
+      "ko": "접변",
+      "en": "The Butterfly Murders",
+      "ja": "蝶變"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001187",
+    "title": "정글 속의 고릴라",
+    "shardId": "movie_5d",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Gorillas in the Mist",
+      "gorillasinthemist",
+      "愛は霧のかなたに",
+      "정글 속의 고릴라",
+      "정글속의고릴라"
+    ],
+    "titles": {
+      "ko": "정글 속의 고릴라",
+      "en": "Gorillas in the Mist",
+      "ja": "愛は霧のかなたに"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001826",
+    "title": "제한구역",
+    "shardId": "movie_68",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Blue Eyes",
+      "blueeyes",
+      "제한구역"
+    ],
+    "titles": {
+      "ko": "제한구역",
+      "en": "Blue Eyes"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001993",
+    "title": "조제",
+    "shardId": "movie_f6",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Josée",
+      "josée",
+      "ジョゼと虎と魚たち",
+      "조제"
+    ],
+    "titles": {
+      "ko": "조제",
+      "en": "Josée",
+      "ja": "ジョゼと虎と魚たち"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000406",
+    "title": "주술회전 0",
+    "shardId": "movie_b3",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "MAPPA",
+    "tags": [
+      "액션",
+      "초자연",
+      "극장판",
+      "서브컬처"
+    ],
+    "searchTokens": [
+      "MAPPA",
+      "mappa",
+      "극장판",
+      "서브컬처",
+      "액션",
+      "주술회전 0",
+      "주술회전0",
+      "초자연"
+    ],
+    "titles": {
+      "ko": "주술회전 0"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000000807",
+    "title": "첩혈가두",
+    "shardId": "movie_e6",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Bullet in the Head",
+      "bulletinthehead",
+      "ワイルドブリット",
+      "ワイルド・ブリット",
+      "첩혈가두"
+    ],
+    "titles": {
+      "ko": "첩혈가두",
+      "en": "Bullet in the Head",
+      "ja": "ワイルド・ブリット"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000864",
+    "title": "청킹맨션",
+    "shardId": "movie_4a",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Hand Rolled Cigarette",
+      "handrolledcigarette",
+      "청킹맨션"
+    ],
+    "titles": {
+      "ko": "청킹맨션",
+      "en": "Hand Rolled Cigarette"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000403",
+    "title": "체인소 맨 레제편",
+    "shardId": "movie_cd",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "MAPPA",
+    "tags": [
+      "영화",
+      "서브컬처"
+    ],
+    "searchTokens": [
+      "MAPPA",
+      "mappa",
+      "서브컬처",
+      "영화",
+      "체인소 맨 레제편",
+      "체인소맨레제편"
+    ],
+    "titles": {
+      "ko": "체인소 맨 레제편"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000001335",
+    "title": "최가박당 3 - 여황밀령",
+    "shardId": "movie_92",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Aces Go Places 3",
+      "acesgoplaces3",
+      "皇帝密使",
+      "최가박당 3 - 여황밀령",
+      "최가박당3여황밀령"
+    ],
+    "titles": {
+      "ko": "최가박당 3 - 여황밀령",
+      "en": "Aces Go Places 3",
+      "ja": "皇帝密使"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000678",
+    "title": "침묵의 숲",
+    "shardId": "movie_2d",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "The Silent Forest",
+      "thesilentforest",
+      "無聲 The Silent Forest",
+      "無聲thesilentforest",
+      "침묵의 숲",
+      "침묵의숲"
+    ],
+    "titles": {
+      "ko": "침묵의 숲",
+      "en": "The Silent Forest",
+      "ja": "無聲 The Silent Forest"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001928",
+    "title": "카라밧지오",
+    "shardId": "movie_d8",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Caravaggio",
+      "caravaggio",
+      "カラヴァッジオ",
+      "카라밧지오"
+    ],
+    "titles": {
+      "ko": "카라밧지오",
+      "en": "Caravaggio",
+      "ja": "カラヴァッジオ"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001995",
+    "title": "캅샵: 미친놈들의 전쟁",
+    "shardId": "movie_d6",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Copshop",
+      "copshop",
+      "コップショップ",
+      "캅샵: 미친놈들의 전쟁",
+      "캅샵미친놈들의전쟁"
+    ],
+    "titles": {
+      "ko": "캅샵: 미친놈들의 전쟁",
+      "en": "Copshop",
+      "ja": "コップショップ"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001708",
+    "title": "캉캉",
+    "shardId": "movie_8f",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Can-Can",
+      "cancan",
+      "カンカン",
+      "캉캉"
+    ],
+    "titles": {
+      "ko": "캉캉",
+      "en": "Can-Can",
+      "ja": "カンカン"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001871",
+    "title": "캐리비안의 해적: 죽은 자는 말이 없다",
+    "shardId": "movie_ae",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Pirates of the Caribbean: Dead Men Tell no Tales",
+      "piratesofthecaribbeandeadmentellnotales",
+      "パイレーツオブカリビアン最後の海賊",
+      "パイレーツ・オブ・カリビアン/最後の海賊",
+      "캐리비안의 해적: 죽은 자는 말이 없다",
+      "캐리비안의해적죽은자는말이없다"
+    ],
+    "titles": {
+      "ko": "캐리비안의 해적: 죽은 자는 말이 없다",
+      "en": "Pirates of the Caribbean: Dead Men Tell no Tales",
+      "ja": "パイレーツ・オブ・カリビアン/最後の海賊"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001765",
+    "title": "캔디맨",
+    "shardId": "movie_4d",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Candyman",
+      "candyman",
+      "キャンディマン",
+      "캔디맨"
+    ],
+    "titles": {
+      "ko": "캔디맨",
+      "en": "Candyman",
+      "ja": "キャンディマン"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001764",
+    "title": "캔디맨 2",
+    "shardId": "movie_34",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Candyman: Farewell to the Flesh",
+      "candymanfarewelltotheflesh",
+      "キャンディマン2",
+      "캔디맨 2",
+      "캔디맨2"
+    ],
+    "titles": {
+      "ko": "캔디맨 2",
+      "en": "Candyman: Farewell to the Flesh",
+      "ja": "キャンディマン2"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001874",
+    "title": "캡틴 뉴먼, M.D.",
+    "shardId": "movie_1a",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Captain Newman, M.D.",
+      "captainnewman,m.d.",
+      "ニューマンという男",
+      "캡틴 뉴먼, M.D.",
+      "캡틴뉴먼,m.d."
+    ],
+    "titles": {
+      "ko": "캡틴 뉴먼, M.D.",
+      "en": "Captain Newman, M.D.",
+      "ja": "ニューマンという男"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001924",
+    "title": "캡틴 론",
+    "shardId": "movie_c9",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Captain Ron",
+      "captainron",
+      "キャプテンロン",
+      "キャプテン・ロン",
+      "캡틴 론",
+      "캡틴론"
+    ],
+    "titles": {
+      "ko": "캡틴 론",
+      "en": "Captain Ron",
+      "ja": "キャプテン・ロン"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001873",
+    "title": "캡틴 아메리카",
+    "shardId": "movie_fd",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Captain America",
+      "captainamerica",
+      "キャプテンアメリカ卐帝国の野望",
+      "キャプテン・アメリカ 卐帝国の野望",
+      "캡틴 아메리카",
+      "캡틴아메리카"
+    ],
+    "titles": {
+      "ko": "캡틴 아메리카",
+      "en": "Captain America",
+      "ja": "キャプテン・アメリカ 卐帝国の野望"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001077",
+    "title": "컨버세이션",
+    "shardId": "movie_56",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "The Conversation",
+      "theconversation",
+      "カンバセーション…盗聴…",
+      "컨버세이션"
+    ],
+    "titles": {
+      "ko": "컨버세이션",
+      "en": "The Conversation",
+      "ja": "カンバセーション…盗聴…"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001428",
+    "title": "케빈 하트: 그러거나 말거나",
+    "shardId": "movie_1f",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Kevin Hart: Zero Fucks Given",
+      "kevinhartzerofucksgiven",
+      "ケヴィンハートのもう知らねえ!",
+      "ケヴィン・ハートのもう知らねえ!",
+      "케빈 하트: 그러거나 말거나",
+      "케빈하트그러거나말거나"
+    ],
+    "titles": {
+      "ko": "케빈 하트: 그러거나 말거나",
+      "en": "Kevin Hart: Zero Fucks Given",
+      "ja": "ケヴィン・ハートのもう知らねえ!"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001184",
+    "title": "코끼리의 발자취를 따라서",
+    "shardId": "movie_75",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "In the Footsteps of Elephant",
+      "inthefootstepsofelephant",
+      "코끼리의 발자취를 따라서",
+      "코끼리의발자취를따라서"
+    ],
+    "titles": {
+      "ko": "코끼리의 발자취를 따라서",
+      "en": "In the Footsteps of Elephant"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000982",
+    "title": "큐어드",
+    "shardId": "movie_b3",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Cured",
+      "cured",
+      "큐어드"
+    ],
+    "titles": {
+      "ko": "큐어드",
+      "en": "Cured"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001523",
+    "title": "크.레.이.지",
+    "shardId": "movie_25",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "C.R.A.Z.Y.",
+      "c.r.a.z.y.",
+      "크.레.이.지"
+    ],
+    "titles": {
+      "ko": "크.레.이.지",
+      "en": "C.R.A.Z.Y.",
+      "ja": "C.R.A.Z.Y."
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001991",
+    "title": "크라이 마초",
+    "shardId": "movie_63",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Cry Macho",
+      "crymacho",
+      "クライマッチョ",
+      "クライ・マッチョ",
+      "크라이 마초",
+      "크라이마초"
+    ],
+    "titles": {
+      "ko": "크라이 마초",
+      "en": "Cry Macho",
+      "ja": "クライ・マッチョ"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001707",
+    "title": "클럽 진주군",
+    "shardId": "movie_fc",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Out of This World",
+      "outofthisworld",
+      "この世の外へ クラブ進駐軍",
+      "この世の外へクラブ進駐軍",
+      "클럽 진주군",
+      "클럽진주군"
+    ],
+    "titles": {
+      "ko": "클럽 진주군",
+      "en": "Out of This World",
+      "ja": "この世の外へ クラブ進駐軍"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000858",
+    "title": "킬 더 아이리쉬맨",
+    "shardId": "movie_a4",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Kill the Irishman",
+      "killtheirishman",
+      "キルザギャング36回の爆破でも死ななかった男",
+      "キル・ザ・ギャング 36回の爆破でも死ななかった男",
+      "킬 더 아이리쉬맨",
+      "킬더아이리쉬맨"
+    ],
+    "titles": {
+      "ko": "킬 더 아이리쉬맨",
+      "en": "Kill the Irishman",
+      "ja": "キル・ザ・ギャング 36回の爆破でも死ななかった男"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001179",
+    "title": "킬링 오브 투 러버스",
+    "shardId": "movie_ec",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "The Killing of Two Lovers",
+      "thekillingoftwolovers",
+      "킬링 오브 투 러버스",
+      "킬링오브투러버스"
+    ],
+    "titles": {
+      "ko": "킬링 오브 투 러버스",
+      "en": "The Killing of Two Lovers"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001334",
+    "title": "턴 레프트, 턴 라이트",
+    "shardId": "movie_ff",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Turn Left, Turn Right",
+      "turnleft,turnright",
+      "ターンレフトターンライト",
+      "ターンレフト・ターンライト",
+      "턴 레프트, 턴 라이트",
+      "턴레프트,턴라이트"
+    ],
+    "titles": {
+      "ko": "턴 레프트, 턴 라이트",
+      "en": "Turn Left, Turn Right",
+      "ja": "ターンレフト・ターンライト"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000169",
+    "title": "토이 스토리",
+    "shardId": "movie_35",
+    "category": "movie",
+    "domain": "generalCulture",
+    "creator": "존 래시터",
+    "tags": [
+      "애니메이션",
+      "가족",
+      "우정",
+      "픽사"
+    ],
+    "searchTokens": [
+      "가족",
+      "애니메이션",
+      "우정",
+      "존 래시터",
+      "존래시터",
+      "토이 스토리",
+      "토이스토리",
+      "픽사"
+    ],
+    "titles": {
+      "ko": "토이 스토리"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000001996",
+    "title": "트랜센던스",
+    "shardId": "movie_6e",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Transcendence",
+      "transcendence",
+      "トランセンデンス",
+      "트랜센던스"
+    ],
+    "titles": {
+      "ko": "트랜센던스",
+      "en": "Transcendence",
+      "ja": "トランセンデンス"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001767",
+    "title": "파라다이스 러브",
+    "shardId": "movie_9d",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Paradise: Love",
+      "paradiselove",
+      "パラダイス愛",
+      "パラダイス：愛",
+      "파라다이스 러브",
+      "파라다이스러브"
+    ],
+    "titles": {
+      "ko": "파라다이스 러브",
+      "en": "Paradise: Love",
+      "ja": "パラダイス：愛"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000981",
+    "title": "파리의 별빛 아래",
+    "shardId": "movie_5d",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Under the Stars of Paris",
+      "underthestarsofparis",
+      "파리의 별빛 아래",
+      "파리의별빛아래"
+    ],
+    "titles": {
+      "ko": "파리의 별빛 아래",
+      "en": "Under the Stars of Paris"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001926",
+    "title": "파운드",
+    "shardId": "movie_5f",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Pound",
+      "pound",
+      "파운드"
+    ],
+    "titles": {
+      "ko": "파운드",
+      "en": "Pound"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000154",
+    "title": "파이트 클럽",
+    "shardId": "movie_2a",
+    "category": "movie",
+    "domain": "generalCulture",
+    "creator": "데이비드 핀처",
+    "tags": [
+      "스릴러",
+      "심리",
+      "반항",
+      "명작"
+    ],
+    "searchTokens": [
+      "데이비드 핀처",
+      "데이비드핀처",
+      "명작",
+      "반항",
+      "스릴러",
+      "심리",
+      "파이트 클럽",
+      "파이트클럽"
+    ],
+    "titles": {
+      "ko": "파이트 클럽"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000000162",
+    "title": "펄프 픽션",
+    "shardId": "movie_c5",
+    "category": "movie",
+    "domain": "generalCulture",
+    "creator": "쿠엔틴 타란티노",
+    "tags": [
+      "범죄",
+      "코미디",
+      "명작",
+      "비선형"
+    ],
+    "searchTokens": [
+      "명작",
+      "범죄",
+      "비선형",
+      "코미디",
+      "쿠엔틴 타란티노",
+      "쿠엔틴타란티노",
+      "펄프 픽션",
+      "펄프픽션"
+    ],
+    "titles": {
+      "ko": "펄프 픽션"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000000155",
+    "title": "포레스트 검프",
+    "shardId": "movie_17",
+    "category": "movie",
+    "domain": "generalCulture",
+    "creator": "로버트 저메키스",
+    "tags": [
+      "드라마",
+      "감동",
+      "역사",
+      "명작"
+    ],
+    "searchTokens": [
+      "감동",
+      "드라마",
+      "로버트 저메키스",
+      "로버트저메키스",
+      "명작",
+      "역사",
+      "포레스트 검프",
+      "포레스트검프"
+    ],
+    "titles": {
+      "ko": "포레스트 검프"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000000745",
+    "title": "퓨리오사",
+    "shardId": "movie_0c",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Furiosa: A Mad Max Saga",
+      "furiosaamadmaxsaga",
+      "マッドマックス:フュリオサ",
+      "マッドマックスフュリオサ",
+      "퓨리오사"
+    ],
+    "titles": {
+      "ko": "퓨리오사",
+      "en": "Furiosa: A Mad Max Saga",
+      "ja": "マッドマックス:フュリオサ"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001712",
+    "title": "프리 윌리 3",
+    "shardId": "movie_74",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Free Willy 3: The Rescue",
+      "freewilly3therescue",
+      "フリーウィリー3",
+      "フリー・ウィリー3",
+      "프리 윌리 3",
+      "프리윌리3"
+    ],
+    "titles": {
+      "ko": "프리 윌리 3",
+      "en": "Free Willy 3: The Rescue",
+      "ja": "フリー・ウィリー3"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000805",
+    "title": "프리퀀시",
+    "shardId": "movie_5e",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Frequency",
+      "frequency",
+      "オーロラの彼方へ",
+      "프리퀀시"
+    ],
+    "titles": {
+      "ko": "프리퀀시",
+      "en": "Frequency",
+      "ja": "オーロラの彼方へ"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001182",
+    "title": "플라스틱 바다",
+    "shardId": "movie_d7",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Sea of Plastic",
+      "seaofplastic",
+      "플라스틱 바다",
+      "플라스틱바다"
+    ],
+    "titles": {
+      "ko": "플라스틱 바다",
+      "en": "Sea of Plastic"
+    },
+    "qualityScore": 50,
+    "qualityTier": 2
+  },
+  {
+    "workId": "wk_000001872",
+    "title": "플라토닉 섹스",
+    "shardId": "movie_bb",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Platonic Sex",
+      "platonicsex",
+      "プラトニックセックス",
+      "プラトニック・セックス",
+      "플라토닉 섹스",
+      "플라토닉섹스"
+    ],
+    "titles": {
+      "ko": "플라토닉 섹스",
+      "en": "Platonic Sex",
+      "ja": "プラトニック・セックス"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001477",
+    "title": "해리 포터와 불사조 기사단",
+    "shardId": "movie_85",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Harry Potter and the Order of the Phoenix",
+      "harrypotterandtheorderofthephoenix",
+      "ハリーポッターと不死鳥の騎士団",
+      "ハリー・ポッターと不死鳥の騎士団",
+      "해리 포터와 불사조 기사단",
+      "해리포터와불사조기사단"
+    ],
+    "titles": {
+      "ko": "해리 포터와 불사조 기사단",
+      "en": "Harry Potter and the Order of the Phoenix",
+      "ja": "ハリー・ポッターと不死鳥の騎士団"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001475",
+    "title": "해리 포터와 불의 잔",
+    "shardId": "movie_ea",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Harry Potter and the Goblet of Fire",
+      "harrypotterandthegobletoffire",
+      "ハリーポッターと炎のゴブレット",
+      "ハリー・ポッターと炎のゴブレット",
+      "해리 포터와 불의 잔",
+      "해리포터와불의잔"
+    ],
+    "titles": {
+      "ko": "해리 포터와 불의 잔",
+      "en": "Harry Potter and the Goblet of Fire",
+      "ja": "ハリー・ポッターと炎のゴブレット"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001525",
+    "title": "해리 포터와 비밀의 방",
+    "shardId": "movie_76",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Harry Potter and the Chamber of Secrets",
+      "harrypotterandthechamberofsecrets",
+      "ハリーポッターと秘密の部屋",
+      "ハリー・ポッターと秘密の部屋",
+      "해리 포터와 비밀의 방",
+      "해리포터와비밀의방"
+    ],
+    "titles": {
+      "ko": "해리 포터와 비밀의 방",
+      "en": "Harry Potter and the Chamber of Secrets",
+      "ja": "ハリー・ポッターと秘密の部屋"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001704",
+    "title": "헝거 게임: 더 파이널",
+    "shardId": "movie_aa",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "The Hunger Games: Mockingjay – Part 2",
+      "thehungergamesmockingjaypart2",
+      "ハンガーゲームfinalレボリューション",
+      "ハンガー・ゲーム FINAL: レボリューション",
+      "헝거 게임: 더 파이널",
+      "헝거게임더파이널"
+    ],
+    "titles": {
+      "ko": "헝거 게임: 더 파이널",
+      "en": "The Hunger Games: Mockingjay – Part 2",
+      "ja": "ハンガー・ゲーム FINAL: レボリューション"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001706",
+    "title": "헬레이저 4 브러드라인",
+    "shardId": "movie_a4",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Hellraiser: Bloodline",
+      "hellraiserbloodline",
+      "ヘルレイザー4",
+      "헬레이저 4 브러드라인",
+      "헬레이저4브러드라인"
+    ],
+    "titles": {
+      "ko": "헬레이저 4 브러드라인",
+      "en": "Hellraiser: Bloodline",
+      "ja": "ヘルレイザー4"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000000402",
+    "title": "형색의 보이스",
+    "shardId": "movie_74",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "야마다 나오코",
+    "tags": [
+      "영화",
+      "서브컬처"
+    ],
+    "searchTokens": [
+      "서브컬처",
+      "야마다 나오코",
+      "야마다나오코",
+      "영화",
+      "형색의 보이스",
+      "형색의보이스"
+    ],
+    "titles": {
+      "ko": "형색의 보이스"
+    },
+    "qualityScore": 90,
+    "qualityTier": 4
+  },
+  {
+    "workId": "wk_000000744",
+    "title": "호접비",
+    "shardId": "movie_c6",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "Linger",
+      "linger",
+      "僕は君のために蝶になる",
+      "호접비"
+    ],
+    "titles": {
+      "ko": "호접비",
+      "en": "Linger",
+      "ja": "僕は君のために蝶になる"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  },
+  {
+    "workId": "wk_000001180",
+    "title": "화이트 타이거",
+    "shardId": "movie_02",
+    "category": "movie",
+    "domain": "subculture",
+    "creator": "",
+    "tags": [],
+    "searchTokens": [
+      "The White Tiger",
+      "thewhitetiger",
+      "ザホワイトタイガー",
+      "ザ・ホワイト・タイガー",
+      "화이트 타이거",
+      "화이트타이거"
+    ],
+    "titles": {
+      "ko": "화이트 타이거",
+      "en": "The White Tiger",
+      "ja": "ザ・ホワイト・タイガー"
+    },
+    "qualityScore": 65,
+    "qualityTier": 3
+  }
+]

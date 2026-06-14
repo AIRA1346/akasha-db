@@ -13,7 +13,8 @@
       "명작"
     ],
     "externalIds": {
-      "tmdb": "31911"
+      "tmdb": "31911",
+      "wikidata": "Q437808"
     },
     "legacyIds": [
       "sub_animation_fullmetal-alchemist-brotherhood_2009"
@@ -28,6 +29,50 @@
       "Brotherhood",
       "FMA",
       "Fullmetal Alchemist"
-    ]
+    ],
+    "extensions": {
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000000667": {
+    "workId": "wk_000000667",
+    "title": "사쿠라장의 애완 그녀",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q104626490"
+    },
+    "titles": {
+      "ko": "사쿠라장의 애완 그녀",
+      "en": "The Pet Girl of Sakurasou",
+      "ja": "さくら荘のペットな彼女"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001413": {
+    "workId": "wk_000001413",
+    "title": "야마토여 영원히",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1093707"
+    },
+    "titles": {
+      "ko": "야마토여 영원히",
+      "en": "Be Forever Yamato",
+      "ja": "ヤマトよ永遠に"
+    },
+    "releaseYear": 1980,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
   }
 }

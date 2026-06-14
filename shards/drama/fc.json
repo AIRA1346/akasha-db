@@ -1,22 +1,36 @@
 {
-  "sub_drama_scale-supply-b5b_2026": {
-    "workId": "sub_drama_scale-supply-b5b_2026",
-    "title": "스케일 공급 배치5B",
-    "titles": {
-      "ko": "스케일 공급 배치5B",
-      "en": "Scale Supply Batch 5B",
-      "ja": "スケール供給バッチ5B"
-    },
+  "wk_000000952": {
+    "workId": "wk_000000952",
+    "title": "잇츠 어 신",
     "category": "drama",
     "domain": "subculture",
-    "creator": "A5 Scale Maintainer",
-    "releaseYear": 2026,
-    "tags": [
-      "scale",
-      "supply"
-    ],
+    "externalIds": {
+      "wikidata": "Q104630896"
+    },
+    "titles": {
+      "ko": "잇츠 어 신",
+      "en": "It's a Sin"
+    },
     "extensions": {
-      "coverageScaleEnrich": "batch6_ja"
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001254": {
+    "workId": "wk_000001254",
+    "title": "아직 낫서른",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q105635792"
+    },
+    "titles": {
+      "ko": "아직 낫서른",
+      "en": "Not Yet Thirty"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

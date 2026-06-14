@@ -20,7 +20,51 @@
       "ko": "왕좌의 게임"
     },
     "extensions": {
-      "coverageSprint03": "legacy_slug"
+      "coverageSprint03": "legacy_slug",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "externalIds": {
+      "wikidata": "Q23572"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000000640": {
+    "workId": "wk_000000640",
+    "title": "에디피시오 코로나",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q102339347"
+    },
+    "titles": {
+      "ko": "에디피시오 코로나",
+      "en": "Edificio Corona",
+      "ja": "エディフィシオ・コロナ"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001968": {
+    "workId": "wk_000001968",
+    "title": "국희",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q10855609"
+    },
+    "titles": {
+      "ko": "국희",
+      "en": "Kuk Hee",
+      "ja": "クッキ 〜菊熙〜"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

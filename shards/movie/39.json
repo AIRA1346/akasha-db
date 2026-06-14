@@ -14,6 +14,35 @@
     ],
     "legacyIds": [
       "gen_movie_the-matrix_1999"
-    ]
+    ],
+    "externalIds": {
+      "wikidata": "Q83495"
+    },
+    "extensions": {
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000001344": {
+    "workId": "wk_000001344",
+    "title": "바이 바이 버디",
+    "category": "movie",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1018487"
+    },
+    "titles": {
+      "ko": "바이 바이 버디",
+      "en": "Bye Bye Birdie",
+      "ja": "バイ・バイ・バーディー"
+    },
+    "releaseYear": 1963,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_movie",
+      "ingestSource": "wikidata_ko"
+    }
   }
 }

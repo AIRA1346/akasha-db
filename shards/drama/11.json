@@ -1,0 +1,56 @@
+{
+  "wk_000000652": {
+    "workId": "wk_000000652",
+    "title": "베이사이드 얄개들",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1026823"
+    },
+    "titles": {
+      "ko": "베이사이드 얄개들",
+      "en": "Saved by the Bell",
+      "ja": "セイヴド・バイ・ザ・ベル"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001100": {
+    "workId": "wk_000001100",
+    "title": "미스 몬테크리스토",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q105097165"
+    },
+    "titles": {
+      "ko": "미스 몬테크리스토",
+      "en": "Miss Monte-Cristo",
+      "ja": "ミス・モンテ・クリスト"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001495": {
+    "workId": "wk_000001495",
+    "title": "플래시포인트",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1066334"
+    },
+    "titles": {
+      "ko": "플래시포인트",
+      "en": "Flashpoint",
+      "ja": "フラッシュポイント -特殊機動隊SRU-"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  }
+}

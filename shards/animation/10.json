@@ -1,0 +1,38 @@
+{
+  "wk_000001330": {
+    "workId": "wk_000001330",
+    "title": "샤이닝 하츠 ~행복의 빵~",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q10890355"
+    },
+    "titles": {
+      "ko": "샤이닝 하츠 ~행복의 빵~",
+      "en": "Shining Hearts: Shiawase no Pan",
+      "ja": "シャイニング・ハーツ ～幸せのパン～"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001613": {
+    "workId": "wk_000001613",
+    "title": "붓치기레!",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q111937097"
+    },
+    "titles": {
+      "ko": "붓치기레!",
+      "en": "Shine On! Bakumatsu Boys",
+      "ja": "ブッチギレ！"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  }
+}

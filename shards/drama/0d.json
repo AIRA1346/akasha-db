@@ -1,0 +1,55 @@
+{
+  "wk_000000486": {
+    "workId": "wk_000000486",
+    "title": "마이티 익스프레스",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q100372329"
+    },
+    "titles": {
+      "ko": "마이티 익스프레스",
+      "en": "Mighty Express",
+      "ja": "マイティ・エクスプレス"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001002": {
+    "workId": "wk_000001002",
+    "title": "마라슐르",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q104784731"
+    },
+    "titles": {
+      "ko": "마라슐르",
+      "en": "Maraşlı"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001853": {
+    "workId": "wk_000001853",
+    "title": "방과후 설렘",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q108500411"
+    },
+    "titles": {
+      "ko": "방과후 설렘",
+      "en": "My Teenage Girl",
+      "ja": "放課後のときめき"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  }
+}

@@ -26,16 +26,37 @@
         }
       ],
       "latestSeason": "1~5기",
-      "coverageSprint04ExternalId": "tmdb"
+      "coverageSprint04ExternalId": "tmdb",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "legacyIds": [
       "sub_animation_kingdom_2012"
     ],
     "externalIds": {
-      "tmdb": "72408"
+      "tmdb": "72408",
+      "wikidata": "Q103970675"
     },
     "qualitySignals": {
       "externalIdVerified": true
+    }
+  },
+  "wk_000001066": {
+    "workId": "wk_000001066",
+    "title": "동쪽의 에덴",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1069002"
+    },
+    "titles": {
+      "ko": "동쪽의 에덴",
+      "en": "Eden of the East",
+      "ja": "東のエデン"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

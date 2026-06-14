@@ -1,0 +1,72 @@
+{
+  "wk_000000489": {
+    "workId": "wk_000000489",
+    "title": "철인왕후",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q100605045"
+    },
+    "titles": {
+      "ko": "철인왕후",
+      "en": "Mr. Queen",
+      "ja": "哲仁王后"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001211": {
+    "workId": "wk_000001211",
+    "title": "속아도 꿈결",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q105530974"
+    },
+    "titles": {
+      "ko": "속아도 꿈결",
+      "en": "Be My Dream Family",
+      "ja": "だまされても夢心地"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001492": {
+    "workId": "wk_000001492",
+    "title": "티키타카",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q106630834"
+    },
+    "titles": {
+      "ko": "티키타카",
+      "en": "Tiki-taCAR"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001851": {
+    "workId": "wk_000001851",
+    "title": "할 수 있다고!",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q108486292"
+    },
+    "titles": {
+      "ko": "할 수 있다고!",
+      "en": "Q108486292"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "wk_000001072": {
+    "workId": "wk_000001072",
+    "title": "루팡 3세 PART6",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q106984390"
+    },
+    "titles": {
+      "ko": "루팡 3세 PART6",
+      "en": "Lupin the 3rd Part 6",
+      "ja": "ルパン三世 PART6"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001232": {
+    "workId": "wk_000001232",
+    "title": "경계전기",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q107641020"
+    },
+    "titles": {
+      "ko": "경계전기",
+      "en": "Kyōkai Senki",
+      "ja": "境界戦機"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001603": {
+    "workId": "wk_000001603",
+    "title": "Opus.COLORs",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q111914385"
+    },
+    "titles": {
+      "ko": "Opus.COLORs",
+      "en": "Opus Colors",
+      "ja": "Opus.COLORs"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  }
+}

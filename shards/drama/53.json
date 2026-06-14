@@ -1,0 +1,73 @@
+{
+  "wk_000000591": {
+    "workId": "wk_000000591",
+    "title": "Mariah Carey's Magical Christmas Special",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q102104892"
+    },
+    "titles": {
+      "ko": "Mariah Carey's Magical Christmas Special",
+      "en": "Mariah Carey's Magical Christmas Special",
+      "ja": "マライア・キャリー:マジカル クリスマス スペシャル"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001143": {
+    "workId": "wk_000001143",
+    "title": "D.P.",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q105226735"
+    },
+    "titles": {
+      "ko": "D.P.",
+      "en": "D.P.",
+      "ja": "D.P. ―脱走兵追跡官―"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001460": {
+    "workId": "wk_000001460",
+    "title": "경찰수업",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q106582948"
+    },
+    "titles": {
+      "ko": "경찰수업",
+      "en": "Police University",
+      "ja": "警察授業"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001728": {
+    "workId": "wk_000001728",
+    "title": "프리티 리틀 라이어스: 원죄",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q108114906"
+    },
+    "titles": {
+      "ko": "프리티 리틀 라이어스: 원죄",
+      "en": "Pretty Little Liars"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  }
+}

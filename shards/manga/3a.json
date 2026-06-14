@@ -13,10 +13,13 @@
       "가족"
     ],
     "externalIds": {
-      "tmdb": "207332"
+      "tmdb": "207332",
+      "wikidata": "Q105087026"
     },
     "extensions": {
-      "coverageSprint03": "legacy_slug"
+      "coverageSprint03": "legacy_slug",
+      "ingestChannel": "wikidata_manga",
+      "ingestSource": "wikidata"
     },
     "legacyIds": [
       "sub_manga_sakamoto-days_2020"
@@ -24,6 +27,27 @@
     "titles": {
       "en": "Sakamoto Days",
       "ko": "사카모토 데이즈"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000001247": {
+    "workId": "wk_000001247",
+    "title": "모든 인류를 파괴한다. 그것들은 재생할 수 없다.",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q111944626"
+    },
+    "titles": {
+      "ko": "모든 인류를 파괴한다. 그것들은 재생할 수 없다.",
+      "en": "Destroy All Humankind. They Can't Be Regenerated.",
+      "ja": "すべての人類を破壊する。それらは再生できない。"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

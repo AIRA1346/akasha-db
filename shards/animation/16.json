@@ -25,10 +25,73 @@
           "episodes": 12
         }
       ],
-      "latestSeason": "1기"
+      "latestSeason": "1기",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "legacyIds": [
       "sub_animation_zom-100_2023"
-    ]
+    ],
+    "externalIds": {
+      "wikidata": "Q118289307"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000000518": {
+    "workId": "wk_000000518",
+    "title": "고스트 바둑왕",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q100606348"
+    },
+    "titles": {
+      "ko": "고스트 바둑왕",
+      "en": "Hikaru no Go",
+      "ja": "ヒカルの碁"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001071": {
+    "workId": "wk_000001071",
+    "title": "프리티 올 프렌즈 셀렉션",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q106943954"
+    },
+    "titles": {
+      "ko": "프리티 올 프렌즈 셀렉션",
+      "en": "Pretty All Friends Selection",
+      "ja": "プリティーオールフレンズセレクション"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001235": {
+    "workId": "wk_000001235",
+    "title": "팬티 앤드 스타킹 위드 가터벨트",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1077331"
+    },
+    "titles": {
+      "ko": "팬티 앤드 스타킹 위드 가터벨트",
+      "en": "Panty & Stocking with Garterbelt",
+      "ja": "パンティ&ストッキングwithガーターベルト"
+    },
+    "creator": "Jun Sasaki",
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
   }
 }

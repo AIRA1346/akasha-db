@@ -1,0 +1,73 @@
+{
+  "wk_000000888": {
+    "workId": "wk_000000888",
+    "title": "월랜더",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1041885"
+    },
+    "titles": {
+      "ko": "월랜더",
+      "en": "Wallander",
+      "ja": "刑事ヴァランダー"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001667": {
+    "workId": "wk_000001667",
+    "title": "가면라이더 리바이스",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q107657377"
+    },
+    "titles": {
+      "ko": "가면라이더 리바이스",
+      "en": "Kamen Rider Revice",
+      "ja": "仮面ライダーリバイス"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001791": {
+    "workId": "wk_000001791",
+    "title": "KBS 뉴스월드",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q108366180"
+    },
+    "titles": {
+      "ko": "KBS 뉴스월드",
+      "en": "KBS News World"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000002016": {
+    "workId": "wk_000002016",
+    "title": "눈사람",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q10856237"
+    },
+    "titles": {
+      "ko": "눈사람",
+      "en": "Snowman",
+      "ja": "雪だるま"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  }
+}

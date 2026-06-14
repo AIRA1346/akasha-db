@@ -19,6 +19,35 @@
     ],
     "legacyIds": [
       "sub_manga_yotsubato_2003"
-    ]
+    ],
+    "externalIds": {
+      "wikidata": "Q390279"
+    },
+    "extensions": {
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000001411": {
+    "workId": "wk_000001411",
+    "title": "So What?",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q11246613"
+    },
+    "titles": {
+      "ko": "So What?",
+      "en": "So What?",
+      "ja": "So What?"
+    },
+    "creator": "Megumi Wakatsuki",
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
+    }
   }
 }

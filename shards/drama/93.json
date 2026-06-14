@@ -1,0 +1,75 @@
+{
+  "wk_000000493": {
+    "workId": "wk_000000493",
+    "title": "대시 & 릴리",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q100893315"
+    },
+    "titles": {
+      "ko": "대시 & 릴리",
+      "en": "Dash & Lily",
+      "ja": "ダッシュ&リリー"
+    },
+    "releaseYear": 2020,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000000768": {
+    "workId": "wk_000000768",
+    "title": "본키커스",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1036337"
+    },
+    "titles": {
+      "ko": "본키커스",
+      "en": "Bonekickers",
+      "ja": "ボーンキッカーズ 考古学調査班"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001050": {
+    "workId": "wk_000001050",
+    "title": "오! 주인님",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q104903632"
+    },
+    "titles": {
+      "ko": "오! 주인님",
+      "en": "Oh My Ladylord",
+      "ja": "Oh!ご主人様"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001903": {
+    "workId": "wk_000001903",
+    "title": "더 베스트텐",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q10852992"
+    },
+    "titles": {
+      "ko": "더 베스트텐",
+      "en": "The Best Ten",
+      "ja": "ザ・ベストテン"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  }
+}

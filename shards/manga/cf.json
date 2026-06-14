@@ -18,16 +18,38 @@
       "다크"
     ],
     "extensions": {
-      "coverageSprint04ExternalId": "tmdb"
+      "coverageSprint04ExternalId": "tmdb",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "legacyIds": [
       "sub_manga_jojo-bizarre-adventure_1987"
     ],
     "externalIds": {
-      "tmdb": "46393"
+      "tmdb": "46393",
+      "wikidata": "Q696918"
     },
     "qualitySignals": {
       "externalIdVerified": true
+    }
+  },
+  "wk_000001661": {
+    "workId": "wk_000001661",
+    "title": "아오이 호노오",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q11282655"
+    },
+    "titles": {
+      "ko": "아오이 호노오",
+      "en": "Aoi Honō",
+      "ja": "アオイホノオ"
+    },
+    "creator": "Kazuhiko Shimamoto",
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

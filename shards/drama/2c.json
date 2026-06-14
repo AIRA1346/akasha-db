@@ -1,0 +1,55 @@
+{
+  "wk_000000774": {
+    "workId": "wk_000000774",
+    "title": "우나 루스 엔 엘 카미노",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q10387591"
+    },
+    "titles": {
+      "ko": "우나 루스 엔 엘 카미노",
+      "en": "Una luz en el camino"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001049": {
+    "workId": "wk_000001049",
+    "title": "간 떨어지는 동거",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q104903382"
+    },
+    "titles": {
+      "ko": "간 떨어지는 동거",
+      "en": "My Roommate is a Gumiho",
+      "ja": "九尾の狐とキケンな同居"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001955": {
+    "workId": "wk_000001955",
+    "title": "ANN 뉴스 세븐",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q10854426"
+    },
+    "titles": {
+      "ko": "ANN 뉴스 세븐",
+      "en": "Q10854426",
+      "ja": "ANNニュースセブン"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  }
+}

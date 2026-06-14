@@ -20,10 +20,13 @@
     },
     "extensions": {
       "coverageSprint03": "steam_fetch",
-      "coverageSprint04ExternalId": "steam"
+      "coverageSprint04ExternalId": "steam",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "externalIds": {
-      "steam": "2050650"
+      "steam": "2050650",
+      "wikidata": "Q275950"
     },
     "qualitySignals": {
       "externalIdVerified": true
@@ -52,13 +55,35 @@
     },
     "extensions": {
       "coverageSprint03": "steam_fetch",
-      "coverageSprint04ExternalId": "steam"
+      "coverageSprint04ExternalId": "steam",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "externalIds": {
-      "steam": "271590"
+      "steam": "271590",
+      "wikidata": "Q17452"
     },
     "qualitySignals": {
       "externalIdVerified": true
+    }
+  },
+  "wk_000001692": {
+    "workId": "wk_000001692",
+    "title": "그라디우스 II: 고퍼의 야망",
+    "category": "game",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1066035"
+    },
+    "titles": {
+      "ko": "그라디우스 II: 고퍼의 야망",
+      "en": "Gradius II: Gofer's Ambition",
+      "ja": "グラディウスII -GOFERの野望-"
+    },
+    "releaseYear": 1988,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_game",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

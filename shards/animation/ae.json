@@ -13,7 +13,8 @@
       "드라마"
     ],
     "externalIds": {
-      "tmdb": "65942"
+      "tmdb": "65942",
+      "wikidata": "Q65086934"
     },
     "legacyIds": [
       "sub_animation_rezero-anime_2016"
@@ -28,24 +29,104 @@
       "Re Zero",
       "Re:Zero",
       "Re:ゼロ"
-    ]
-  },
-  "sub_animation_scale-exp-b7-probe-alpha_2026": {
-    "workId": "sub_animation_scale-exp-b7-probe-alpha_2026",
-    "title": "스케일 확장 프로브 알파",
-    "titles": {
-      "ko": "스케일 확장 프로브 알파",
-      "en": "Scale Expansion Probe Alpha",
-      "ja": "スケール拡張プローブアルファ"
+    ],
+    "extensions": {
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000000579": {
+    "workId": "wk_000000579",
+    "title": "CANAAN",
     "category": "animation",
     "domain": "subculture",
-    "creator": "A5 Scale Expansion",
-    "releaseYear": 2026,
-    "tags": [
-      "scale",
-      "expansion",
-      "batch7"
-    ]
+    "externalIds": {
+      "wikidata": "Q1031902"
+    },
+    "titles": {
+      "ko": "CANAAN",
+      "en": "Canaan",
+      "ja": "CANAAN"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001070": {
+    "workId": "wk_000001070",
+    "title": "헤비 오브젝트",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q106938259"
+    },
+    "titles": {
+      "ko": "헤비 오브젝트",
+      "en": "Heavy Object",
+      "ja": "ヘヴィーオブジェクト"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001324": {
+    "workId": "wk_000001324",
+    "title": "180초로 너의 귀를 행복하게 할 수 있을까?",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q108535293"
+    },
+    "titles": {
+      "ko": "180초로 너의 귀를 행복하게 할 수 있을까?",
+      "en": "180-Byō de Kimi no Mimi o Shiwase ni Dekiru ka?",
+      "ja": "180秒で君の耳を幸せにできるか?"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001521": {
+    "workId": "wk_000001521",
+    "title": "극장판 페이트/그랜드 오더 신성원탁영역 카멜롯 완더링; 아가트람",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q110114319"
+    },
+    "titles": {
+      "ko": "극장판 페이트/그랜드 오더 신성원탁영역 카멜롯 완더링; 아가트람",
+      "en": "Fate/Grand Order the Movie: Divine Realm of the Round Table: Camelot",
+      "ja": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット-"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001917": {
+    "workId": "wk_000001917",
+    "title": "냥파이어",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1136615"
+    },
+    "titles": {
+      "ko": "냥파이어",
+      "en": "Nyanpire",
+      "ja": "にゃんぱいあ"
+    },
+    "releaseYear": 2011,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
   }
 }

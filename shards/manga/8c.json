@@ -18,13 +18,16 @@
       "책"
     ],
     "extensions": {
-      "coverageSprint04ExternalId": "tmdb"
+      "coverageSprint04ExternalId": "tmdb",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "legacyIds": [
       "sub_manga_ascendance-of-a-bookworm_2013"
     ],
     "externalIds": {
-      "tmdb": "94664"
+      "tmdb": "94664",
+      "wikidata": "Q61998244"
     },
     "qualitySignals": {
       "externalIdVerified": true
@@ -44,10 +47,13 @@
       "개그"
     ],
     "externalIds": {
-      "tmdb": "86031"
+      "tmdb": "86031",
+      "wikidata": "Q38275959"
     },
     "extensions": {
-      "coverageSprint03": "latin_title"
+      "coverageSprint03": "latin_title",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "legacyIds": [
       "sub_manga_dr-stone_2017"
@@ -56,6 +62,46 @@
       "en": "Dr. Stone",
       "ja": "Dr.STONE",
       "ko": "닥터 스톤"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000000530": {
+    "workId": "wk_000000530",
+    "title": "나츠메 아라타의 결혼",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q107335308"
+    },
+    "titles": {
+      "ko": "나츠메 아라타의 결혼",
+      "en": "Natsume Arata no Kekkon",
+      "ja": "夏目アラタの結婚"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001038": {
+    "workId": "wk_000001038",
+    "title": "여고생에게 살해당하고 싶어",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q110725001"
+    },
+    "titles": {
+      "ko": "여고생에게 살해당하고 싶어",
+      "en": "To Be Killed by a High School Girl",
+      "ja": "女子高生に殺されたい"
+    },
+    "creator": "Usamaru Furuya",
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

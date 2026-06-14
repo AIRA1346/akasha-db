@@ -1,0 +1,39 @@
+{
+  "wk_000000941": {
+    "workId": "wk_000000941",
+    "title": "카미쿠즈☆아이돌",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q109747744"
+    },
+    "titles": {
+      "ko": "카미쿠즈☆아이돌",
+      "en": "Phantom of the Idol",
+      "ja": "神クズ☆アイドル"
+    },
+    "creator": "Hiziki Isoflavon",
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001662": {
+    "workId": "wk_000001662",
+    "title": "어게인!!",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q11283103"
+    },
+    "titles": {
+      "ko": "어게인!!",
+      "en": "Again!!",
+      "ja": "アゲイン!!"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
+    }
+  }
+}

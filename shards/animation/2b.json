@@ -35,11 +35,19 @@
           "episodes": 13
         }
       ],
-      "latestSeason": "3기"
+      "latestSeason": "3기",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "legacyIds": [
       "sub_animation_kaguya-sama_2019"
-    ]
+    ],
+    "externalIds": {
+      "wikidata": "Q62017594"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
   },
   "wk_000000226": {
     "workId": "wk_000000226",
@@ -67,10 +75,55 @@
           "episodes": 24
         }
       ],
-      "latestSeason": "1기"
+      "latestSeason": "1기",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "legacyIds": [
       "sub_animation_parasyte_2014"
-    ]
+    ],
+    "externalIds": {
+      "wikidata": "Q137808011"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000000521": {
+    "workId": "wk_000000521",
+    "title": "BTOOOM!",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q100976117"
+    },
+    "titles": {
+      "ko": "BTOOOM!",
+      "en": "Btooom!",
+      "ja": "BTOOOM!"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001820": {
+    "workId": "wk_000001820",
+    "title": "몽쉐리CoCo",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q11344687"
+    },
+    "titles": {
+      "ko": "몽쉐리CoCo",
+      "en": "Mon Chéri CoCo",
+      "ja": "モンシェリCoCo"
+    },
+    "creator": "Waki Yamato",
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
   }
 }

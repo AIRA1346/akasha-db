@@ -1,0 +1,38 @@
+{
+  "wk_000001552": {
+    "workId": "wk_000001552",
+    "title": "꽃 피면 달 생각하고",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q106813214"
+    },
+    "titles": {
+      "ko": "꽃 피면 달 생각하고",
+      "en": "When Flowers Bloom, I Think of the Moon",
+      "ja": "花が咲けば、月を想い"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001900": {
+    "workId": "wk_000001900",
+    "title": "쇼윈도: 여왕의 집",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q108528020"
+    },
+    "titles": {
+      "ko": "쇼윈도: 여왕의 집",
+      "en": "Show Window: Queen's House",
+      "ja": "ショーウィンドウ:女王の家"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  }
+}

@@ -1,19 +1,22 @@
 {
-  "sub_book_pilot-h2-smoke-beta_2026": {
-    "workId": "sub_book_pilot-h2-smoke-beta_2026",
-    "title": "파일럿 H2 스모크 베타",
-    "titles": {
-      "ko": "파일럿 H2 스모크 베타",
-      "en": "Pilot H2 Smoke Beta",
-      "ja": "パイロットH2スモークベータ"
-    },
+  "wk_000000515": {
+    "workId": "wk_000000515",
+    "title": "신호수",
     "category": "book",
     "domain": "subculture",
-    "creator": "A5 Pilot",
-    "releaseYear": 2026,
-    "tags": [
-      "pilot",
-      "smoke"
-    ]
+    "externalIds": {
+      "wikidata": "Q1002362"
+    },
+    "titles": {
+      "ko": "신호수",
+      "en": "The Signal-Man",
+      "ja": "The Signal-Man"
+    },
+    "releaseYear": 1866,
+    "creator": "チャールズ・ディケンズ",
+    "extensions": {
+      "ingestChannel": "wikidata_ko_book",
+      "ingestSource": "wikidata_ko"
+    }
   }
 }

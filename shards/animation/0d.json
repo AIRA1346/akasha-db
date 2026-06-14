@@ -25,10 +25,56 @@
           "episodes": 13
         }
       ],
-      "latestSeason": "1기"
+      "latestSeason": "1기",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "legacyIds": [
       "sub_animation_wind-breaker_2024"
-    ]
+    ],
+    "externalIds": {
+      "wikidata": "Q117336999"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000000618": {
+    "workId": "wk_000000618",
+    "title": "짱구는 못말려 극장판: 폭풍을 부르는 정글",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1043911"
+    },
+    "titles": {
+      "ko": "짱구는 못말려 극장판: 폭풍을 부르는 정글",
+      "en": "Crayon Shin-chan: Jungle That Invites Storm",
+      "ja": "クレヨンしんちゃん 嵐を呼ぶジャングル"
+    },
+    "releaseYear": 2000,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001976": {
+    "workId": "wk_000001976",
+    "title": "극장판 헌터X헌터 : 팬텀루즈",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q11398237"
+    },
+    "titles": {
+      "ko": "극장판 헌터X헌터 : 팬텀루즈",
+      "en": "Hunter × Hunter: Phantom Rouge",
+      "ja": "劇場版 HUNTER×HUNTER 緋色の幻影"
+    },
+    "releaseYear": 2018,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
   }
 }

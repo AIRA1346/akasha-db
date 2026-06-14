@@ -14,6 +14,55 @@
     ],
     "legacyIds": [
       "sub_manga_dorohedoro_2000"
-    ]
+    ],
+    "externalIds": {
+      "wikidata": "Q92554"
+    },
+    "extensions": {
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000000533": {
+    "workId": "wk_000000533",
+    "title": "GA 예술과 아트 디자인 클래스",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1074213"
+    },
+    "titles": {
+      "ko": "GA 예술과 아트 디자인 클래스",
+      "en": "GA Geijutsuka Art Design Class",
+      "ja": "GA 芸術科アートデザインクラス"
+    },
+    "releaseYear": 2004,
+    "creator": "Satoko Kiyuduki",
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001888": {
+    "workId": "wk_000001888",
+    "title": "테쓰본",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q11319290"
+    },
+    "titles": {
+      "ko": "테쓰본",
+      "en": "Tetsubon",
+      "ja": "テツぼん"
+    },
+    "creator": "Kiyoshi Nagamatsu",
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
+    }
   }
 }

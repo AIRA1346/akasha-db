@@ -20,7 +20,50 @@
       "ko": "브레이킹 배드"
     },
     "extensions": {
-      "coverageSprint03": "legacy_slug"
+      "coverageSprint03": "legacy_slug",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "externalIds": {
+      "wikidata": "Q1079"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000000590": {
+    "workId": "wk_000000590",
+    "title": "우리가 몰랐던 놀라운 이야기",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1020717"
+    },
+    "titles": {
+      "ko": "우리가 몰랐던 놀라운 이야기",
+      "en": "How Do They Do It?"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001041": {
+    "workId": "wk_000001041",
+    "title": "슬로 호시스",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q104880809"
+    },
+    "titles": {
+      "ko": "슬로 호시스",
+      "en": "Slow Horses",
+      "ja": "窓際のスパイ"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

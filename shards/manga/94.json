@@ -13,10 +13,13 @@
       "순정"
     ],
     "externalIds": {
-      "tmdb": "35790"
+      "tmdb": "35790",
+      "wikidata": "Q49182"
     },
     "extensions": {
-      "coverageSprint03": "legacy_slug"
+      "coverageSprint03": "legacy_slug",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "legacyIds": [
       "sub_manga_cardcaptor-sakura_1996"
@@ -24,6 +27,9 @@
     "titles": {
       "en": "Cardcaptor Sakura",
       "ko": "카드캡터 체리"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
     }
   },
   "wk_000000442": {
@@ -43,6 +49,25 @@
     "extensions": {
       "ingestChannel": "wikidata_manga",
       "ingestSource": "wikidata"
+    }
+  },
+  "wk_000001954": {
+    "workId": "wk_000001954",
+    "title": "수염과 모음",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q11329976"
+    },
+    "titles": {
+      "ko": "수염과 모음",
+      "en": "Hige To Boin",
+      "ja": "ヒゲとボイン"
+    },
+    "releaseYear": 1991,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

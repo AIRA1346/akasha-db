@@ -20,7 +20,88 @@
       "ko": "리코리스 리코일"
     },
     "extensions": {
-      "coverageSprint03": "legacy_slug"
+      "coverageSprint03": "legacy_slug",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "externalIds": {
+      "wikidata": "Q110361884"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000001120": {
+    "workId": "wk_000001120",
+    "title": "작은 눈의 요정 슈가",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1072078"
+    },
+    "titles": {
+      "ko": "작은 눈의 요정 슈가",
+      "en": "A Little Snow Fairy Sugar",
+      "ja": "ちっちゃな雪使いシュガー"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001229": {
+    "workId": "wk_000001229",
+    "title": "메이지 도쿄 연가",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q107546495"
+    },
+    "titles": {
+      "ko": "메이지 도쿄 연가",
+      "en": "Meiji Tokyo Renka",
+      "ja": "明治東亰恋伽"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001983": {
+    "workId": "wk_000001983",
+    "title": "마법소녀 리리컬 나노하",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1143644"
+    },
+    "titles": {
+      "ko": "마법소녀 리리컬 나노하",
+      "en": "Magical Girl Lyrical Nanoha",
+      "ja": "魔法少女リリカルなのは"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000002043": {
+    "workId": "wk_000002043",
+    "title": "너를 사랑했던 한 사람의 나에게 (영화)",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q114873551"
+    },
+    "titles": {
+      "ko": "너를 사랑했던 한 사람의 나에게 (영화)",
+      "en": "To Me, the One Who Loved You",
+      "ja": "君を愛したひとりの僕へ"
+    },
+    "releaseYear": 2022,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

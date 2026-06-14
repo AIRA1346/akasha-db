@@ -1,0 +1,58 @@
+{
+  "wk_000000477": {
+    "workId": "wk_000000477",
+    "title": "런웨이에서 웃어줘",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q100272968"
+    },
+    "titles": {
+      "ko": "런웨이에서 웃어줘",
+      "en": "Smile Down the Runway",
+      "ja": "ランウェイで笑って"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001064": {
+    "workId": "wk_000001064",
+    "title": "뱅드림! 로젤리아 에피소드 I : 약속",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q106886924"
+    },
+    "titles": {
+      "ko": "뱅드림! 로젤리아 에피소드 I : 약속",
+      "en": "BanG Dream! Episode of Roselia I : Promise",
+      "ja": "BanG Dream! Episode of Roselia I : 約束"
+    },
+    "releaseYear": 2021,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001518": {
+    "workId": "wk_000001518",
+    "title": "짱구는 못말려 극장판: 모노노케 닌자 진풍전",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q110028346"
+    },
+    "titles": {
+      "ko": "짱구는 못말려 극장판: 모노노케 닌자 진풍전",
+      "en": "Crayon Shin-chan: Mononoke Ninja Chinpūden",
+      "ja": "クレヨンしんちゃん もののけニンジャ珍風伝"
+    },
+    "releaseYear": 2022,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  }
+}

@@ -21,10 +21,13 @@
     },
     "extensions": {
       "coverageSprint03": "steam_fetch",
-      "coverageSprint04ExternalId": "steam"
+      "coverageSprint04ExternalId": "steam",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "externalIds": {
-      "steam": "1245620"
+      "steam": "1245620",
+      "wikidata": "Q64826862"
     },
     "qualitySignals": {
       "externalIdVerified": true
@@ -51,13 +54,35 @@
     },
     "extensions": {
       "coverageSprint03": "steam_fetch",
-      "coverageSprint04ExternalId": "steam"
+      "coverageSprint04ExternalId": "steam",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "externalIds": {
-      "steam": "379430"
+      "steam": "379430",
+      "wikidata": "Q15408545"
     },
     "qualitySignals": {
       "externalIdVerified": true
+    }
+  },
+  "wk_000001381": {
+    "workId": "wk_000001381",
+    "title": "크레용 신짱 나와 박사의 여름방학~끝나지 않는 7일간의 여행~",
+    "category": "game",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q105598478"
+    },
+    "titles": {
+      "ko": "크레용 신짱 나와 박사의 여름방학~끝나지 않는 7일간의 여행~",
+      "en": "Shin-chan: Me and the Professor on Summer Vacation – The Endless Seven-Day Journey",
+      "ja": "クレヨンしんちゃん 「オラと博士の夏休み」〜おわらない七日間の旅〜"
+    },
+    "releaseYear": 2022,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_game",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

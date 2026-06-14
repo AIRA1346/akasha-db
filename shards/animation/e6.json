@@ -1,0 +1,38 @@
+{
+  "wk_000001762": {
+    "workId": "wk_000001762",
+    "title": "핑크 레이디 이야기 영광의 천사들",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q11331663"
+    },
+    "titles": {
+      "ko": "핑크 레이디 이야기 영광의 천사들",
+      "en": "Pink Lady Monogatari: Eikō no Tenshitachi",
+      "ja": "ピンク・レディー物語 栄光の天使たち"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001815": {
+    "workId": "wk_000001815",
+    "title": "이누×보쿠SS",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q113364550"
+    },
+    "titles": {
+      "ko": "이누×보쿠SS",
+      "en": "Inu × Boku SS",
+      "ja": "妖狐×僕SS"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  }
+}

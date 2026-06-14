@@ -13,7 +13,8 @@
       "다이쇼"
     ],
     "externalIds": {
-      "tmdb": "85937"
+      "tmdb": "85937",
+      "wikidata": "Q24862683"
     },
     "legacyIds": [
       "sub_manga_kimetsu-no-yaiba_2016"
@@ -28,6 +29,51 @@
     "aliases": [
       "Demon Slayer",
       "Kimetsu no Yaiba"
-    ]
+    ],
+    "extensions": {
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000001567": {
+    "workId": "wk_000001567",
+    "title": "유도부 이야기",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q11264370"
+    },
+    "titles": {
+      "ko": "유도부 이야기",
+      "en": "Judo-bu Monogatari",
+      "ja": "柔道部物語"
+    },
+    "creator": "Makoto Kobayashi",
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001838": {
+    "workId": "wk_000001838",
+    "title": "칸논지 스이렌의 고뇌",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q113159278"
+    },
+    "titles": {
+      "ko": "칸논지 스이렌의 고뇌",
+      "en": "Kannonji Suiren no Kunō",
+      "ja": "観音寺睡蓮の苦悩"
+    },
+    "creator": "KaeruDX",
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
+    }
   }
 }

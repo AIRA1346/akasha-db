@@ -18,13 +18,16 @@
       "던전"
     ],
     "extensions": {
-      "coverageSprint04ExternalId": "tmdb"
+      "coverageSprint04ExternalId": "tmdb",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "legacyIds": [
       "sub_manga_goblin-slayer_2016"
     ],
     "externalIds": {
-      "tmdb": "82307"
+      "tmdb": "82307",
+      "wikidata": "Q63435666"
     },
     "qualitySignals": {
       "externalIdVerified": true
@@ -47,6 +50,26 @@
     "extensions": {
       "ingestChannel": "wikidata_manga",
       "ingestSource": "wikidata"
+    }
+  },
+  "wk_000001194": {
+    "workId": "wk_000001194",
+    "title": "4명은 각자 거짓말을 한다",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q111423065"
+    },
+    "titles": {
+      "ko": "4명은 각자 거짓말을 한다",
+      "en": "4-Nin wa Sorezore Uso o Tsuku",
+      "ja": "4人はそれぞれウソをつく"
+    },
+    "releaseYear": 2020,
+    "creator": "Madoka Kashihara",
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

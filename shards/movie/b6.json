@@ -14,6 +14,34 @@
     ],
     "legacyIds": [
       "gen_movie_avengers-endgame_2019"
-    ]
+    ],
+    "externalIds": {
+      "wikidata": "Q23781191"
+    },
+    "extensions": {
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000000984": {
+    "workId": "wk_000000984",
+    "title": "위플래쉬",
+    "category": "movie",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q100803056"
+    },
+    "titles": {
+      "ko": "위플래쉬",
+      "en": "Whiplash"
+    },
+    "releaseYear": 2013,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_movie",
+      "ingestSource": "wikidata_ko"
+    }
   }
 }

@@ -14,6 +14,35 @@
     ],
     "legacyIds": [
       "gen_movie_inception_2010"
-    ]
+    ],
+    "externalIds": {
+      "wikidata": "Q25188"
+    },
+    "extensions": {
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000001474": {
+    "workId": "wk_000001474",
+    "title": "접변",
+    "category": "movie",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1021980"
+    },
+    "titles": {
+      "ko": "접변",
+      "en": "The Butterfly Murders",
+      "ja": "蝶變"
+    },
+    "releaseYear": 1979,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_movie",
+      "ingestSource": "wikidata_ko"
+    }
   }
 }

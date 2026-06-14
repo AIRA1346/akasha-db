@@ -20,7 +20,52 @@
       "ko": "블랙 클로버"
     },
     "extensions": {
-      "coverageSprint03": "legacy_slug"
+      "coverageSprint03": "legacy_slug",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "externalIds": {
+      "wikidata": "Q20638503"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000001090": {
+    "workId": "wk_000001090",
+    "title": "기동전사 건담 SEED MSV",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q11122081"
+    },
+    "titles": {
+      "ko": "기동전사 건담 SEED MSV",
+      "en": "Mobile Suit Gundam SEED MSV",
+      "ja": "ガンダムSEED MSV"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001889": {
+    "workId": "wk_000001889",
+    "title": "디아즈 폴리스 이방 경찰",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q11319956"
+    },
+    "titles": {
+      "ko": "디아즈 폴리스 이방 경찰",
+      "en": "Diaz Police Ihō Keisatsu",
+      "ja": "ディアスポリス 異邦警察"
+    },
+    "creator": "Takashi Nagasaki",
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

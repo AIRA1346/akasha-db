@@ -1,0 +1,39 @@
+{
+  "wk_000000714": {
+    "workId": "wk_000000714",
+    "title": "락 레벌루션",
+    "category": "game",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1038251"
+    },
+    "titles": {
+      "ko": "락 레벌루션",
+      "en": "Rock Revolution"
+    },
+    "releaseYear": 2008,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_game",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001556": {
+    "workId": "wk_000001556",
+    "title": "슈퍼 핏폴",
+    "category": "game",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1058037"
+    },
+    "titles": {
+      "ko": "슈퍼 핏폴",
+      "en": "Super Pitfall",
+      "ja": "スーパーピットフォール"
+    },
+    "releaseYear": 1986,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_game",
+      "ingestSource": "wikidata_ko"
+    }
+  }
+}

@@ -1,24 +1,4 @@
 {
-  "sub_animation_pilot-h1-supply-b3a_2026": {
-    "workId": "sub_animation_pilot-h1-supply-b3a_2026",
-    "title": "파일럿 H1 공급 배치3A",
-    "titles": {
-      "ko": "파일럿 H1 공급 배치3A",
-      "en": "Pilot H1 Supply Batch 3A",
-      "ja": "パイロットH1供給バッチ3A"
-    },
-    "category": "animation",
-    "domain": "subculture",
-    "creator": "A5 Pilot Maintainer",
-    "releaseYear": 2026,
-    "tags": [
-      "pilot",
-      "supply"
-    ],
-    "extensions": {
-      "coverageScaleEnrich": "batch4_ja"
-    }
-  },
   "wk_000000201": {
     "workId": "wk_000000201",
     "title": "호리미야",
@@ -50,11 +30,19 @@
           "episodes": 13
         }
       ],
-      "latestSeason": "피스"
+      "latestSeason": "피스",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "legacyIds": [
       "sub_animation_horimiya_2021"
-    ]
+    ],
+    "externalIds": {
+      "wikidata": "Q104815263"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
   },
   "wk_000000228": {
     "workId": "wk_000000228",
@@ -77,7 +65,70 @@
       "ko": "사이코 패스"
     },
     "extensions": {
-      "coverageSprint03": "legacy_slug"
+      "coverageSprint03": "legacy_slug",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "externalIds": {
+      "wikidata": "Q1315951"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000000722": {
+    "workId": "wk_000000722",
+    "title": "원피스 - 오마츠리 남작과 비밀의 섬",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1048742"
+    },
+    "titles": {
+      "ko": "원피스 - 오마츠리 남작과 비밀의 섬",
+      "en": "One Piece: Baron Omatsuri and the Secret Island",
+      "ja": "ONE PIECE THE MOVIE オマツリ男爵と秘密の島"
+    },
+    "releaseYear": 2005,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001068": {
+    "workId": "wk_000001068",
+    "title": "인류는 쇠퇴했습니다",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q106919090"
+    },
+    "titles": {
+      "ko": "인류는 쇠퇴했습니다",
+      "en": "Humanity Has Declined",
+      "ja": "人類は衰退しました"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001520": {
+    "workId": "wk_000001520",
+    "title": "돼지의 간은 가열해라",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q110060930"
+    },
+    "titles": {
+      "ko": "돼지의 간은 가열해라",
+      "en": "Heat the Pig Liver",
+      "ja": "豚のレバーは加熱しろ"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

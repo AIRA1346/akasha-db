@@ -18,11 +18,19 @@
       "코미디"
     ],
     "externalIds": {
-      "tmdb": "207784"
+      "tmdb": "207784",
+      "wikidata": "Q20016948"
     },
     "legacyIds": [
       "sub_manga_dungeon-meshi_2014"
-    ]
+    ],
+    "extensions": {
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
   },
   "wk_000000323": {
     "workId": "wk_000000323",
@@ -43,11 +51,19 @@
       "엘프"
     ],
     "externalIds": {
-      "tmdb": "209867"
+      "tmdb": "209867",
+      "wikidata": "Q98642652"
     },
     "legacyIds": [
       "sub_manga_frieren_2020"
-    ]
+    ],
+    "extensions": {
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
   },
   "wk_000000459": {
     "workId": "wk_000000459",
@@ -66,6 +82,25 @@
     "extensions": {
       "ingestChannel": "wikidata_manga",
       "ingestSource": "wikidata"
+    }
+  },
+  "wk_000000993": {
+    "workId": "wk_000000993",
+    "title": "야마다와 7명의 마녀",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q11046402"
+    },
+    "titles": {
+      "ko": "야마다와 7명의 마녀",
+      "en": "Yamada-kun and the Seven Witches",
+      "ja": "山田くんと7人の魔女"
+    },
+    "creator": "Miki Yoshikawa",
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

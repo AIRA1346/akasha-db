@@ -19,6 +19,72 @@
     ],
     "legacyIds": [
       "sub_manga_toilet-bound-hanako-kun_2014"
-    ]
+    ],
+    "externalIds": {
+      "wikidata": "Q28684168"
+    },
+    "extensions": {
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000000534": {
+    "workId": "wk_000000534",
+    "title": "괴인 개발부의 쿠로이츠 씨",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q107445470"
+    },
+    "titles": {
+      "ko": "괴인 개발부의 쿠로이츠 씨",
+      "en": "Miss Kuroitsu from the Monster Development Department",
+      "ja": "怪人開発部の黒井津さん"
+    },
+    "releaseYear": 2019,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000000881": {
+    "workId": "wk_000000881",
+    "title": "전생 악녀의 흑역사",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q109512208"
+    },
+    "titles": {
+      "ko": "전생 악녀의 흑역사",
+      "en": "The Dark History of the Reincarnated Villainess",
+      "ja": "転生悪女の黒歴史"
+    },
+    "releaseYear": 2018,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001246": {
+    "workId": "wk_000001246",
+    "title": "옆자리의 노부쿠니 양은 나를 좋아하는 것 같아",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q111944266"
+    },
+    "titles": {
+      "ko": "옆자리의 노부쿠니 양은 나를 좋아하는 것 같아",
+      "en": "I Get the Feeling That Nobukuni-san Likes Me",
+      "ja": "となりの信國さんは俺のことが好きな気がする"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
+    }
   }
 }

@@ -14,6 +14,53 @@
     ],
     "legacyIds": [
       "sub_movie_jujutsu-kaisen-0_2021"
-    ]
+    ],
+    "externalIds": {
+      "wikidata": "Q109914608"
+    },
+    "extensions": {
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000000982": {
+    "workId": "wk_000000982",
+    "title": "큐어드",
+    "category": "movie",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q100801141"
+    },
+    "titles": {
+      "ko": "큐어드",
+      "en": "Cured"
+    },
+    "releaseYear": 2020,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_movie",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001705": {
+    "workId": "wk_000001705",
+    "title": "늑대의 제국",
+    "category": "movie",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1031257"
+    },
+    "titles": {
+      "ko": "늑대의 제국",
+      "en": "Empire of the Wolves",
+      "ja": "エンパイア・オブ・ザ・ウルフ"
+    },
+    "releaseYear": 2005,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_movie",
+      "ingestSource": "wikidata_ko"
+    }
   }
 }

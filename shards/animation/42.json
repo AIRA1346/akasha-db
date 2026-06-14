@@ -13,7 +13,8 @@
       "명작"
     ],
     "externalIds": {
-      "tmdb": "85937"
+      "tmdb": "85937",
+      "wikidata": "Q63350570"
     },
     "legacyIds": [
       "sub_animation_demon-slayer_2019"
@@ -28,6 +29,49 @@
     "aliases": [
       "Demon Slayer",
       "Kimetsu no Yaiba"
-    ]
+    ],
+    "extensions": {
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000000669": {
+    "workId": "wk_000000669",
+    "title": "하얀 모래의 아쿠아토프",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q104843562"
+    },
+    "titles": {
+      "ko": "하얀 모래의 아쿠아토프",
+      "en": "The Aquatope on White Sand",
+      "ja": "白い砂のアクアトープ"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001122": {
+    "workId": "wk_000001122",
+    "title": "마야와 3인의 용사",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q107214976"
+    },
+    "titles": {
+      "ko": "마야와 3인의 용사",
+      "en": "Maya and the Three",
+      "ja": "プリンセス・マヤと3人の戦士たち"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
   }
 }

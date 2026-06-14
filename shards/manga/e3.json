@@ -13,10 +13,13 @@
       "액션"
     ],
     "externalIds": {
-      "tmdb": "65930"
+      "tmdb": "65930",
+      "wikidata": "Q18047903"
     },
     "extensions": {
-      "coverageSprint03": "legacy_slug"
+      "coverageSprint03": "legacy_slug",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "legacyIds": [
       "sub_manga_my-hero-academia_2014"
@@ -24,6 +27,9 @@
     "titles": {
       "en": "MY Hero Academia",
       "ko": "나의 히어로 아카데미아"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
     }
   },
   "wk_000000381": {
@@ -40,10 +46,13 @@
       "반전"
     ],
     "externalIds": {
-      "tmdb": "1429"
+      "tmdb": "1429",
+      "wikidata": "Q586025"
     },
     "extensions": {
-      "coverageSprint03": "legacy_slug"
+      "coverageSprint03": "legacy_slug",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "legacyIds": [
       "sub_manga_shingeki-no-kyojin_2009"
@@ -51,6 +60,28 @@
     "titles": {
       "en": "Shingeki NO Kyojin",
       "ko": "진격의 거인"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000000992": {
+    "workId": "wk_000000992",
+    "title": "난폭한 아가씨는 사랑을 고민한다",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q110442954"
+    },
+    "titles": {
+      "ko": "난폭한 아가씨는 사랑을 고민한다",
+      "en": "Arakure Ojōsama wa Monmon Shiteiru",
+      "ja": "あらくれお嬢様はもんもんしている"
+    },
+    "creator": "Yuichi Kinoshita",
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

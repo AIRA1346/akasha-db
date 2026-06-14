@@ -1,22 +1,36 @@
 {
-  "sub_drama_pilot-h1-supply-b2a_2026": {
-    "workId": "sub_drama_pilot-h1-supply-b2a_2026",
-    "title": "파일럿 H1 공급 배치2A",
-    "titles": {
-      "ko": "파일럿 H1 공급 배치2A",
-      "en": "Pilot H1 Supply Batch 2A",
-      "ja": "パイロットH1供給バッチ2A"
-    },
+  "wk_000000767": {
+    "workId": "wk_000000767",
+    "title": "레트라토 데 파밀리아",
     "category": "drama",
     "domain": "subculture",
-    "creator": "A5 Pilot Maintainer",
-    "releaseYear": 2026,
-    "tags": [
-      "pilot",
-      "supply"
-    ],
+    "externalIds": {
+      "wikidata": "Q10360001"
+    },
+    "titles": {
+      "ko": "레트라토 데 파밀리아",
+      "en": "Retrato de familia"
+    },
     "extensions": {
-      "coverageScaleEnrich": "batch4_ja"
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001729": {
+    "workId": "wk_000001729",
+    "title": "교씨네 아들 딸",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q108117520"
+    },
+    "titles": {
+      "ko": "교씨네 아들 딸",
+      "en": "The Bond"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

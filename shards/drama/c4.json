@@ -1,0 +1,38 @@
+{
+  "wk_000000642": {
+    "workId": "wk_000000642",
+    "title": "기동순찰대",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1023688"
+    },
+    "titles": {
+      "ko": "기동순찰대",
+      "en": "CHiPs",
+      "ja": "白バイ野郎ジョン&パンチ"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000002022": {
+    "workId": "wk_000002022",
+    "title": "언프레임드",
+    "category": "drama",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q108597632"
+    },
+    "titles": {
+      "ko": "언프레임드",
+      "en": "Unframed",
+      "ja": "UNFRAMED"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_drama",
+      "ingestSource": "wikidata_ko"
+    }
+  }
+}

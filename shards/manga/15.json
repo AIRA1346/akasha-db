@@ -19,7 +19,17 @@
     ],
     "legacyIds": [
       "sub_manga_inuyasha_1996"
-    ]
+    ],
+    "externalIds": {
+      "wikidata": "Q182056"
+    },
+    "extensions": {
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
   },
   "wk_000000364": {
     "workId": "wk_000000364",
@@ -40,11 +50,19 @@
       "패러디"
     ],
     "externalIds": {
-      "tmdb": "63926"
+      "tmdb": "63926",
+      "wikidata": "Q22341676"
     },
     "legacyIds": [
       "sub_manga_one-punch-man_2012"
-    ]
+    ],
+    "extensions": {
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
   },
   "wk_000000426": {
     "workId": "wk_000000426",
@@ -61,6 +79,43 @@
     "extensions": {
       "ingestChannel": "wikidata_manga",
       "ingestSource": "wikidata"
+    }
+  },
+  "wk_000000535": {
+    "workId": "wk_000000535",
+    "title": "호타루의 빛",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1074509"
+    },
+    "titles": {
+      "ko": "호타루의 빛",
+      "en": "Hotaru no Hikari",
+      "ja": "ホタルノヒカリ"
+    },
+    "creator": "Satoru Hiura",
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000000757": {
+    "workId": "wk_000000757",
+    "title": "카바치타레!",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q10884427"
+    },
+    "titles": {
+      "ko": "카바치타레!",
+      "en": "Kabachitare!",
+      "ja": "カバチタレ!"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

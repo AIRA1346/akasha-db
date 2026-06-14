@@ -20,7 +20,34 @@
       "ko": "잘 자 뚱뚱이"
     },
     "extensions": {
-      "coverageSprint03": "legacy_slug"
+      "coverageSprint03": "legacy_slug",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "externalIds": {
+      "wikidata": "Q2910245"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000001195": {
+    "workId": "wk_000001195",
+    "title": "아카네 이야기",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q111437353"
+    },
+    "titles": {
+      "ko": "아카네 이야기",
+      "en": "Akane-banashi",
+      "ja": "あかね噺"
+    },
+    "releaseYear": 2022,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

@@ -26,13 +26,16 @@
         }
       ],
       "latestSeason": "2011판",
-      "coverageSprint04ExternalId": "tmdb"
+      "coverageSprint04ExternalId": "tmdb",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "legacyIds": [
       "sub_animation_hunter-x-hunter_2011"
     ],
     "externalIds": {
-      "tmdb": "46298"
+      "tmdb": "46298",
+      "wikidata": "Q70209136"
     },
     "qualitySignals": {
       "externalIdVerified": true
@@ -65,16 +68,77 @@
           "episodes": 220
         }
       ],
-      "latestSeason": "1부"
+      "latestSeason": "1부",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
     },
     "externalIds": {
-      "tmdb": "46260"
+      "tmdb": "46260",
+      "wikidata": "Q25929253"
     },
     "legacyIds": [
       "sub_animation_naruto_2002"
     ],
     "aliases": [
       "火影忍者"
-    ]
+    ],
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000000476": {
+    "workId": "wk_000000476",
+    "title": "마법소녀 사이트",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q100272128"
+    },
+    "titles": {
+      "ko": "마법소녀 사이트",
+      "en": "Magical Girl Site",
+      "ja": "魔法少女サイト"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001278": {
+    "workId": "wk_000001278",
+    "title": "어떤 과학의 일방통행",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q108085843"
+    },
+    "titles": {
+      "ko": "어떤 과학의 일방통행",
+      "en": "A Certain Scientific Accelerator",
+      "ja": "とある科学の一方通行"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000001825": {
+    "workId": "wk_000001825",
+    "title": "원피스 - 저주받은 성검",
+    "category": "animation",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q1134641"
+    },
+    "titles": {
+      "ko": "원피스 - 저주받은 성검",
+      "en": "One Piece: The Cursed Holy Sword",
+      "ja": "ONE PIECE 呪われた聖剣"
+    },
+    "releaseYear": 2004,
+    "extensions": {
+      "ingestChannel": "wikidata_ko_animation",
+      "ingestSource": "wikidata_ko"
+    }
   }
 }

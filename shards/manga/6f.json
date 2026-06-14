@@ -20,7 +20,15 @@
       "ko": "블루 피리어드"
     },
     "extensions": {
-      "coverageSprint03": "legacy_slug"
+      "coverageSprint03": "legacy_slug",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "externalIds": {
+      "wikidata": "Q74458180"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
     }
   },
   "wk_000000342": {
@@ -44,7 +52,33 @@
       "ko": "괴수 8호"
     },
     "extensions": {
-      "coverageSprint03": "legacy_slug"
+      "coverageSprint03": "legacy_slug",
+      "ingestChannel": "wikidata_manga",
+      "ingestSource": "wikidata"
+    },
+    "externalIds": {
+      "wikidata": "Q103888159"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000001785": {
+    "workId": "wk_000001785",
+    "title": "실버 가면",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q11308404"
+    },
+    "titles": {
+      "ko": "실버 가면",
+      "en": "Q11308404",
+      "ja": "シルバー仮面"
+    },
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
     }
   }
 }

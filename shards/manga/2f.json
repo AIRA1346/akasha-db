@@ -18,11 +18,19 @@
       "약학"
     ],
     "externalIds": {
-      "tmdb": "220542"
+      "tmdb": "220542",
+      "wikidata": "Q106090656"
     },
     "legacyIds": [
       "sub_manga_apothecary-diaries_2016"
-    ]
+    ],
+    "extensions": {
+      "ingestChannel": "wikidata_manga",
+      "ingestSource": "wikidata"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
   },
   "wk_000000292": {
     "workId": "wk_000000292",
@@ -45,7 +53,53 @@
       "ko": "86 -에이티식스-"
     },
     "extensions": {
-      "coverageSprint03": "legacy_slug"
+      "coverageSprint03": "legacy_slug",
+      "ingestChannel": "manual_wikidata",
+      "ingestSource": "manual"
+    },
+    "externalIds": {
+      "wikidata": "Q88295103"
+    },
+    "qualitySignals": {
+      "externalIdVerified": true
+    }
+  },
+  "wk_000000875": {
+    "workId": "wk_000000875",
+    "title": "악역영애 전생 아저씨",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q109512165"
+    },
+    "titles": {
+      "ko": "악역영애 전생 아저씨",
+      "en": "From Bureaucrat to Villainess",
+      "ja": "悪役令嬢転生おじさん"
+    },
+    "creator": "Michiro Ueyama",
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
+    }
+  },
+  "wk_000002050": {
+    "workId": "wk_000002050",
+    "title": "히나마츠리",
+    "category": "manga",
+    "domain": "subculture",
+    "externalIds": {
+      "wikidata": "Q11330133"
+    },
+    "titles": {
+      "ko": "히나마츠리",
+      "en": "Hinamatsuri",
+      "ja": "ヒナまつり"
+    },
+    "creator": "Masao Ootake",
+    "extensions": {
+      "ingestChannel": "wikidata_ko_manga",
+      "ingestSource": "wikidata_ko"
     }
   }
 }
